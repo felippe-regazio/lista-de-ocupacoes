@@ -1,0 +1,7940 @@
+[{
+		"code": "010105",
+		"title": "Oficial general da aeronáutica"
+	},{
+		"code": "010110",
+		"title": "Oficial general do exército"
+	},{
+		"code": "010115",
+		"title": "Oficial general da marinha"
+	},{
+		"code": "010205",
+		"title": "Oficial da aeronáutica"
+	},{
+		"code": "010210",
+		"title": "Oficial do exército"
+	},{
+		"code": "010215",
+		"title": "Oficial da marinha"
+	},{
+		"code": "010305",
+		"title": "Praça da aeronáutica"
+	},{
+		"code": "010310",
+		"title": "Praça do exército"
+	},{
+		"code": "010315",
+		"title": "Praça da marinha"
+	},{
+		"code": "020105",
+		"title": "Coronel da polícia militar"
+	},{
+		"code": "020110",
+		"title": "Tenente-coronel da polícia militar"
+	},{
+		"code": "020115",
+		"title": "Major da polícia militar"
+	},{
+		"code": "020205",
+		"title": "Capitão da polícia militar"
+	},{
+		"code": "020305",
+		"title": "Primeiro tenente de polícia militar"
+	},{
+		"code": "020310",
+		"title": "Segundo tenente de polícia militar"
+	},{
+		"code": "021105",
+		"title": "Subtenente da policia militar"
+	},{
+		"code": "021110",
+		"title": "Sargento da policia militar"
+	},{
+		"code": "021205",
+		"title": "Cabo da polícia militar"
+	},{
+		"code": "021210",
+		"title": "Soldado da polícia militar"
+	},{
+		"code": "030105",
+		"title": "Coronel bombeiro militar"
+	},{
+		"code": "030110",
+		"title": "Major bombeiro militar"
+	},{
+		"code": "030115",
+		"title": "Tenente-coronel bombeiro militar"
+	},{
+		"code": "030205",
+		"title": "Capitão bombeiro militar"
+	},{
+		"code": "030305",
+		"title": "Tenente do corpo de bombeiros militar"
+	},{
+		"code": "031105",
+		"title": "Subtenente bombeiro militar"
+	},{
+		"code": "031110",
+		"title": "Sargento bombeiro militar"
+	},{
+		"code": "031205",
+		"title": "Cabo bombeiro militar"
+	},{
+		"code": "031210",
+		"title": "Soldado bombeiro militar"
+	},{
+		"code": 111105,
+		"title": "Senador"
+	},{
+		"code": 111110,
+		"title": "Deputado federal"
+	},{
+		"code": 111115,
+		"title": "Deputado estadual e distrital"
+	},{
+		"code": 111120,
+		"title": "Vereador"
+	},{
+		"code": 111205,
+		"title": "Presidente da república"
+	},{
+		"code": 111210,
+		"title": "Vice-presidente da república"
+	},{
+		"code": 111215,
+		"title": "Ministro de estado"
+	},{
+		"code": 111220,
+		"title": "Secretário - executivo"
+	},{
+		"code": 111225,
+		"title": "Membro superior do poder executivo"
+	},{
+		"code": 111230,
+		"title": "Governador de estado"
+	},{
+		"code": 111235,
+		"title": "Governador do distrito federal"
+	},{
+		"code": 111240,
+		"title": "Vice-governador de estado"
+	},{
+		"code": 111245,
+		"title": "Vice-governador do distrito federal"
+	},{
+		"code": 111250,
+		"title": "Prefeito"
+	},{
+		"code": 111255,
+		"title": "Vice-prefeito"
+	},{
+		"code": 111305,
+		"title": "Ministro do supremo tribunal federal"
+	},{
+		"code": 111310,
+		"title": "Ministro do superior tribunal de justiça"
+	},{
+		"code": 111315,
+		"title": "Ministro do  superior tribunal militar"
+	},{
+		"code": 111320,
+		"title": "Ministro do  superior tribunal do trabalho"
+	},{
+		"code": 111325,
+		"title": "Juiz de direito"
+	},{
+		"code": 111330,
+		"title": "Juiz federal"
+	},{
+		"code": 111335,
+		"title": "Juiz auditor federal - justiça militar"
+	},{
+		"code": 111340,
+		"title": "Juiz auditor estadual - justiça militar"
+	},{
+		"code": 111345,
+		"title": "Juiz do trabalho"
+	},{
+		"code": 111405,
+		"title": "Dirigente do serviço público federal"
+	},{
+		"code": 111410,
+		"title": "Dirigente do serviço público estadual e distrital"
+	},{
+		"code": 111415,
+		"title": "Dirigente do serviço público municipal"
+	},{
+		"code": 111505,
+		"title": "Especialista de políticas públicas e gestão governamental - eppgg"
+	},{
+		"code": 111510,
+		"title": "Analista de planejamento e orçamento - apo"
+	},{
+		"code": 113005,
+		"title": "Cacique"
+	},{
+		"code": 113010,
+		"title": "Líder de comunidade caiçara"
+	},{
+		"code": 113015,
+		"title": "Membro de liderança quilombola"
+	},{
+		"code": 114105,
+		"title": "Dirigente de partido político"
+	},{
+		"code": 114205,
+		"title": "Dirigentes de entidades de trabalhadores"
+	},{
+		"code": 114210,
+		"title": "Dirigentes de entidades patronais"
+	},{
+		"code": 114305,
+		"title": "Dirigente e administrador de organização religiosa"
+	},{
+		"code": 114405,
+		"title": "Dirigente e administrador de organização da sociedade civil sem fins lucrativos"
+	},{
+		"code": 121005,
+		"title": "Diretor de planejamento estratégico"
+	},{
+		"code": 121010,
+		"title": "Diretor geral de empresa e organizações (exceto de interesse público)"
+	},{
+		"code": 122105,
+		"title": "Diretor de produção e operações em empresa agropecuária"
+	},{
+		"code": 122110,
+		"title": "Diretor de produção e operações em empresa aqüícola"
+	},{
+		"code": 122115,
+		"title": "Diretor de produção e operações em empresa florestal"
+	},{
+		"code": 122120,
+		"title": "Diretor de produção e operações em empresa pesqueira"
+	},{
+		"code": 122205,
+		"title": "Diretor de produção e operações da indústria de transformação, extração mineral e utilidades"
+	},{
+		"code": 122305,
+		"title": "Diretor de operações de obras pública e civil"
+	},{
+		"code": 122405,
+		"title": "Diretor de operações comerciais (comércio atacadista e varejista)"
+	},{
+		"code": 122505,
+		"title": "Diretor de  produção e operações de alimentação"
+	},{
+		"code": 122510,
+		"title": "Diretor de  produção e operações de hotel"
+	},{
+		"code": 122515,
+		"title": "Diretor de  produção e operações de turismo"
+	},{
+		"code": 122520,
+		"title": "Turismólogo"
+	},{
+		"code": 122605,
+		"title": "Diretor de operações de correios"
+	},{
+		"code": 122610,
+		"title": "Diretor de operações de serviços de armazenamento"
+	},{
+		"code": 122615,
+		"title": "Diretor de operações de serviços de telecomunicações"
+	},{
+		"code": 122620,
+		"title": "Diretor de operações de serviços de transporte"
+	},{
+		"code": 122705,
+		"title": "Diretor comercial em operações de intermediação financeira"
+	},{
+		"code": 122710,
+		"title": "Diretor de produtos bancários"
+	},{
+		"code": 122715,
+		"title": "Diretor de crédito rural"
+	},{
+		"code": 122720,
+		"title": "Diretor de câmbio e comércio exterior"
+	},{
+		"code": 122725,
+		"title": "Diretor de compliance"
+	},{
+		"code": 122730,
+		"title": "Diretor de crédito (exceto crédito imobiliário)"
+	},{
+		"code": 122735,
+		"title": "Diretor de crédito imobiliário"
+	},{
+		"code": 122740,
+		"title": "Diretor de leasing"
+	},{
+		"code": 122745,
+		"title": "Diretor de mercado de capitais"
+	},{
+		"code": 122750,
+		"title": "Diretor de recuperação de créditos em operações de intermediação financeira"
+	},{
+		"code": 122755,
+		"title": "Diretor de riscos de mercado"
+	},{
+		"code": 123105,
+		"title": "Diretor administrativo"
+	},{
+		"code": 123110,
+		"title": "Diretor administrativo e financeiro"
+	},{
+		"code": 123115,
+		"title": "Diretor financeiro"
+	},{
+		"code": 123205,
+		"title": "Diretor de recursos humanos"
+	},{
+		"code": 123210,
+		"title": "Diretor de relações de trabalho"
+	},{
+		"code": 123305,
+		"title": "Diretor comercial"
+	},{
+		"code": 123310,
+		"title": "Diretor de marketing"
+	},{
+		"code": 123405,
+		"title": "Diretor de suprimentos"
+	},{
+		"code": 123410,
+		"title": "Diretor de suprimentos no serviço público"
+	},{
+		"code": 123605,
+		"title": "Diretor de tecnologia da informação"
+	},{
+		"code": 123705,
+		"title": "Diretor de pesquisa e desenvolvimento (p&d)"
+	},{
+		"code": 123805,
+		"title": "Diretor de manutenção"
+	},{
+		"code": 131105,
+		"title": "Diretor de serviços culturais"
+	},{
+		"code": 131110,
+		"title": "Diretor de serviços sociais"
+	},{
+		"code": 131115,
+		"title": "Gerente de serviços culturais"
+	},{
+		"code": 131120,
+		"title": "Gerente de serviços sociais"
+	},{
+		"code": 131205,
+		"title": "Diretor de serviços de saúde"
+	},{
+		"code": 131210,
+		"title": "Gerente de serviços de saúde"
+	},{
+		"code": 131215,
+		"title": "Tecnólogo em gestão hospitalar"
+	},{
+		"code": 131220,
+		"title": "Gerontólogo"
+	},{
+		"code": 131225,
+		"title": "Sanitarista"
+	},{
+		"code": 131305,
+		"title": "Diretor de instituição educacional da área privada"
+	},{
+		"code": 131310,
+		"title": "Diretor de instituição educacional pública"
+	},{
+		"code": 131315,
+		"title": "Gerente de instituição educacional da área privada"
+	},{
+		"code": 131320,
+		"title": "Gerente de serviços educacionais da área pública"
+	},{
+		"code": 141105,
+		"title": "Gerente de produção e operações  aqüícolas"
+	},{
+		"code": 141110,
+		"title": "Gerente de produção e operações  florestais"
+	},{
+		"code": 141115,
+		"title": "Gerente de produção e operações agropecuárias"
+	},{
+		"code": 141120,
+		"title": "Gerente de produção e operações pesqueiras"
+	},{
+		"code": 141205,
+		"title": "Gerente de produção e operações"
+	},{
+		"code": 141305,
+		"title": "Gerente de produção e operações da construção civil e obras públicas"
+	},{
+		"code": 141405,
+		"title": "Comerciante atacadista"
+	},{
+		"code": 141410,
+		"title": "Comerciante varejista"
+	},{
+		"code": 141415,
+		"title": "Gerente de loja e supermercado"
+	},{
+		"code": 141420,
+		"title": "Gerente de operações de serviços de assistência técnica"
+	},{
+		"code": 141505,
+		"title": "Gerente de hotel"
+	},{
+		"code": 141510,
+		"title": "Gerente de restaurante"
+	},{
+		"code": 141515,
+		"title": "Gerente de bar"
+	},{
+		"code": 141520,
+		"title": "Gerente de pensão"
+	},{
+		"code": 141525,
+		"title": "Gerente de turismo"
+	},{
+		"code": 141605,
+		"title": "Gerente de operações de transportes"
+	},{
+		"code": 141610,
+		"title": "Gerente de operações de correios e telecomunicações"
+	},{
+		"code": 141615,
+		"title": "Gerente de logística (armazenagem e distribuição)"
+	},{
+		"code": 141705,
+		"title": "Gerente de produtos bancários"
+	},{
+		"code": 141710,
+		"title": "Gerente de agência"
+	},{
+		"code": 141715,
+		"title": "Gerente de câmbio e comércio exterior"
+	},{
+		"code": 141720,
+		"title": "Gerente de crédito e cobrança"
+	},{
+		"code": 141725,
+		"title": "Gerente de crédito imobiliário"
+	},{
+		"code": 141730,
+		"title": "Gerente de crédito rural"
+	},{
+		"code": 141735,
+		"title": "Gerente de recuperação de crédito"
+	},{
+		"code": 141805,
+		"title": "Gerente de administração em aeroportos"
+	},{
+		"code": 141810,
+		"title": "Gerente de empresa aérea e empresa de serviços auxiliares ao transporte aéreo (esata) em aeroportos"
+	},{
+		"code": 141815,
+		"title": "Gerente de operações em aeroportos"
+	},{
+		"code": 141820,
+		"title": "Gerente de operações de cargas"
+	},{
+		"code": 141825,
+		"title": "Gerente de segurança da aviação civil"
+	},{
+		"code": 141830,
+		"title": "Gerente de segurança operacional (aviação civil)"
+	},{
+		"code": 142105,
+		"title": "Gerente administrativo"
+	},{
+		"code": 142110,
+		"title": "Gerente de riscos"
+	},{
+		"code": 142115,
+		"title": "Gerente financeiro"
+	},{
+		"code": 142120,
+		"title": "Tecnólogo em gestão administrativo- financeira"
+	},{
+		"code": 142205,
+		"title": "Gerente de recursos humanos"
+	},{
+		"code": 142210,
+		"title": "Gerente de departamento pessoal"
+	},{
+		"code": 142305,
+		"title": "Gerente comercial"
+	},{
+		"code": 142310,
+		"title": "Gerente de comunicação"
+	},{
+		"code": 142315,
+		"title": "Gerente de marketing"
+	},{
+		"code": 142320,
+		"title": "Gerente de vendas"
+	},{
+		"code": 142325,
+		"title": "Relações públicas"
+	},{
+		"code": 142330,
+		"title": "Analista de negócios"
+	},{
+		"code": 142335,
+		"title": "Analista de pesquisa de mercado"
+	},{
+		"code": 142340,
+		"title": "Ouvidor"
+	},{
+		"code": 142345,
+		"title": "Profissional de relações institucionais e governamentais"
+	},{
+		"code": 142350,
+		"title": "Profissonal de relações internacionais"
+	},{
+		"code": 142405,
+		"title": "Gerente de compras"
+	},{
+		"code": 142410,
+		"title": "Gerente de suprimentos"
+	},{
+		"code": 142415,
+		"title": "Gerente de almoxarifado"
+	},{
+		"code": 142505,
+		"title": "Gerente de infraestrutura de tecnologia da informação"
+	},{
+		"code": 142510,
+		"title": "Gerente de desenvolvimento de sistemas"
+	},{
+		"code": 142515,
+		"title": "Gerente de operação de tecnologia da informação"
+	},{
+		"code": 142520,
+		"title": "Gerente de projetos de tecnologia da informação"
+	},{
+		"code": 142525,
+		"title": "Gerente de segurança da informação"
+	},{
+		"code": 142530,
+		"title": "Gerente de suporte técnico de tecnologia da informação"
+	},{
+		"code": 142535,
+		"title": "Tecnólogo em gestão da tecnologia da informação"
+	},{
+		"code": 142605,
+		"title": "Gerente de pesquisa e desenvolvimento (p&d)"
+	},{
+		"code": 142610,
+		"title": "Especialista em desenvolvimento de cigarros"
+	},{
+		"code": 142705,
+		"title": "Gerente de projetos e serviços de manutenção"
+	},{
+		"code": 142710,
+		"title": "Tecnólogo em sistemas biomédicos"
+	},{
+		"code": 201105,
+		"title": "Bioengenheiro"
+	},{
+		"code": 201110,
+		"title": "Biotecnologista"
+	},{
+		"code": 201115,
+		"title": "Geneticista"
+	},{
+		"code": 201205,
+		"title": "Pesquisador em metrologia"
+	},{
+		"code": 201210,
+		"title": "Especialista em calibrações metrológicas"
+	},{
+		"code": 201215,
+		"title": "Especialista em ensaios metrológicos"
+	},{
+		"code": 201220,
+		"title": "Especialista em instrumentação metrológica"
+	},{
+		"code": 201225,
+		"title": "Especialista em materiais de referência metrológica"
+	},{
+		"code": 202105,
+		"title": "Engenheiro mecatrônico"
+	},{
+		"code": 202110,
+		"title": "Engenheiro de controle e automação"
+	},{
+		"code": 202115,
+		"title": "Tecnólogo em mecatrônica"
+	},{
+		"code": 202120,
+		"title": "Tecnólogo em automação industrial"
+	},{
+		"code": 203005,
+		"title": "Pesquisador em biologia ambiental"
+	},{
+		"code": 203010,
+		"title": "Pesquisador em biologia animal"
+	},{
+		"code": 203015,
+		"title": "Pesquisador em biologia de microorganismos e parasitas"
+	},{
+		"code": 203020,
+		"title": "Pesquisador em biologia humana"
+	},{
+		"code": 203025,
+		"title": "Pesquisador em biologia vegetal"
+	},{
+		"code": 203105,
+		"title": "Pesquisador em ciências da computação e informática"
+	},{
+		"code": 203110,
+		"title": "Pesquisador em ciências da terra e meio ambiente"
+	},{
+		"code": 203115,
+		"title": "Pesquisador em física"
+	},{
+		"code": 203120,
+		"title": "Pesquisador em matemática"
+	},{
+		"code": 203125,
+		"title": "Pesquisador em química"
+	},{
+		"code": 203205,
+		"title": "Pesquisador de engenharia civil"
+	},{
+		"code": 203210,
+		"title": "Pesquisador de engenharia e tecnologia (outras áreas da engenharia)"
+	},{
+		"code": 203215,
+		"title": "Pesquisador de engenharia elétrica e eletrônica"
+	},{
+		"code": 203220,
+		"title": "Pesquisador de engenharia mecânica"
+	},{
+		"code": 203225,
+		"title": "Pesquisador de engenharia metalúrgica, de minas e de materiais"
+	},{
+		"code": 203230,
+		"title": "Pesquisador de engenharia química"
+	},{
+		"code": 203305,
+		"title": "Pesquisador de clínica médica"
+	},{
+		"code": 203310,
+		"title": "Pesquisador de medicina básica"
+	},{
+		"code": 203315,
+		"title": "Pesquisador em medicina veterinária"
+	},{
+		"code": 203320,
+		"title": "Pesquisador em saúde coletiva"
+	},{
+		"code": 203405,
+		"title": "Pesquisador em ciências agronômicas"
+	},{
+		"code": 203410,
+		"title": "Pesquisador em ciências da pesca e aqüicultura"
+	},{
+		"code": 203415,
+		"title": "Pesquisador em ciências da zootecnia"
+	},{
+		"code": 203420,
+		"title": "Pesquisador em ciências florestais"
+	},{
+		"code": 203505,
+		"title": "Pesquisador em ciências sociais e humanas"
+	},{
+		"code": 203510,
+		"title": "Pesquisador em economia"
+	},{
+		"code": 203515,
+		"title": "Pesquisador em ciências da educação"
+	},{
+		"code": 203520,
+		"title": "Pesquisador em história"
+	},{
+		"code": 203525,
+		"title": "Pesquisador em psicologia"
+	},{
+		"code": 204105,
+		"title": "Perito criminal"
+	},{
+		"code": 211105,
+		"title": "Atuário"
+	},{
+		"code": 211110,
+		"title": "Especialista em pesquisa operacional"
+	},{
+		"code": 211115,
+		"title": "Matemático"
+	},{
+		"code": 211120,
+		"title": "Matemático aplicado"
+	},{
+		"code": 211205,
+		"title": "Estatístico"
+	},{
+		"code": 211210,
+		"title": "Estatístico (estatística aplicada)"
+	},{
+		"code": 211215,
+		"title": "Estatístico teórico"
+	},{
+		"code": 212205,
+		"title": "Engenheiro de aplicativos em computação"
+	},{
+		"code": 212210,
+		"title": "Engenheiro de equipamentos em computação"
+	},{
+		"code": 212215,
+		"title": "Engenheiros de sistemas operacionais em computação"
+	},{
+		"code": 212305,
+		"title": "Administrador de banco de dados"
+	},{
+		"code": 212310,
+		"title": "Administrador de redes"
+	},{
+		"code": 212315,
+		"title": "Administrador de sistemas operacionais"
+	},{
+		"code": 212320,
+		"title": "Administrador em segurança da informação"
+	},{
+		"code": 212405,
+		"title": "Analista de desenvolvimento de sistemas"
+	},{
+		"code": 212410,
+		"title": "Analista de redes e de comunicação de dados"
+	},{
+		"code": 212415,
+		"title": "Analista de sistemas de automação"
+	},{
+		"code": 212420,
+		"title": "Analista de suporte computacional"
+	},{
+		"code": 212425,
+		"title": "Arquiteto de soluções de tecnologia da informação"
+	},{
+		"code": 212430,
+		"title": "Analista de testes de tecnologia da informação"
+	},{
+		"code": 213105,
+		"title": "Físico"
+	},{
+		"code": 213110,
+		"title": "Físico (acústica)"
+	},{
+		"code": 213115,
+		"title": "Físico (atômica e molecular)"
+	},{
+		"code": 213120,
+		"title": "Físico (cosmologia)"
+	},{
+		"code": 213125,
+		"title": "Físico (estatística e matemática)"
+	},{
+		"code": 213130,
+		"title": "Físico (fluidos)"
+	},{
+		"code": 213135,
+		"title": "Físico (instrumentação)"
+	},{
+		"code": 213140,
+		"title": "Físico (matéria condensada)"
+	},{
+		"code": 213145,
+		"title": "Físico (materiais)"
+	},{
+		"code": 213150,
+		"title": "Físico (medicina)"
+	},{
+		"code": 213155,
+		"title": "Físico (nuclear e reatores)"
+	},{
+		"code": 213160,
+		"title": "Físico (óptica)"
+	},{
+		"code": 213165,
+		"title": "Físico (partículas e campos)"
+	},{
+		"code": 213170,
+		"title": "Físico (plasma)"
+	},{
+		"code": 213175,
+		"title": "Físico (térmica)"
+	},{
+		"code": 213205,
+		"title": "Químico"
+	},{
+		"code": 213210,
+		"title": "Químico industrial"
+	},{
+		"code": 213215,
+		"title": "Tecnólogo em processos químicos"
+	},{
+		"code": 213305,
+		"title": "Astrônomo"
+	},{
+		"code": 213310,
+		"title": "Geofísico espacial"
+	},{
+		"code": 213315,
+		"title": "Meteorologista"
+	},{
+		"code": 213405,
+		"title": "Geólogo"
+	},{
+		"code": 213410,
+		"title": "Geólogo de engenharia"
+	},{
+		"code": 213415,
+		"title": "Geofísico"
+	},{
+		"code": 213420,
+		"title": "Geoquímico"
+	},{
+		"code": 213425,
+		"title": "Hidrogeólogo"
+	},{
+		"code": 213430,
+		"title": "Paleontólogo"
+	},{
+		"code": 213435,
+		"title": "Petrógrafo"
+	},{
+		"code": 213440,
+		"title": "Oceanógrafo"
+	},{
+		"code": 214005,
+		"title": "Engenheiro ambiental"
+	},{
+		"code": 214010,
+		"title": "Tecnólogo em meio ambiente"
+	},{
+		"code": 214105,
+		"title": "Arquiteto de edificações"
+	},{
+		"code": 214110,
+		"title": "Arquiteto de interiores"
+	},{
+		"code": 214115,
+		"title": "Arquiteto de patrimônio"
+	},{
+		"code": 214120,
+		"title": "Arquiteto paisagista"
+	},{
+		"code": 214125,
+		"title": "Arquiteto urbanista"
+	},{
+		"code": 214130,
+		"title": "Urbanista"
+	},{
+		"code": 214205,
+		"title": "Engenheiro civil"
+	},{
+		"code": 214210,
+		"title": "Engenheiro civil (aeroportos)"
+	},{
+		"code": 214215,
+		"title": "Engenheiro civil (edificações)"
+	},{
+		"code": 214220,
+		"title": "Engenheiro civil (estruturas metálicas)"
+	},{
+		"code": 214225,
+		"title": "Engenheiro civil (ferrovias e metrovias)"
+	},{
+		"code": 214230,
+		"title": "Engenheiro civil (geotécnia)"
+	},{
+		"code": 214235,
+		"title": "Engenheiro civil (hidrologia)"
+	},{
+		"code": 214240,
+		"title": "Engenheiro civil (hidráulica)"
+	},{
+		"code": 214245,
+		"title": "Engenheiro civil (pontes e viadutos)"
+	},{
+		"code": 214250,
+		"title": "Engenheiro civil (portos e vias navegáveis)"
+	},{
+		"code": 214255,
+		"title": "Engenheiro civil (rodovias)"
+	},{
+		"code": 214260,
+		"title": "Engenheiro civil (saneamento)"
+	},{
+		"code": 214265,
+		"title": "Engenheiro civil (túneis)"
+	},{
+		"code": 214270,
+		"title": "Engenheiro civil (transportes e trânsito)"
+	},{
+		"code": 214280,
+		"title": "Tecnólogo em construção civil"
+	},{
+		"code": 214305,
+		"title": "Engenheiro eletricista"
+	},{
+		"code": 214310,
+		"title": "Engenheiro eletrônico"
+	},{
+		"code": 214315,
+		"title": "Engenheiro eletricista de manutenção"
+	},{
+		"code": 214320,
+		"title": "Engenheiro eletricista de projetos"
+	},{
+		"code": 214325,
+		"title": "Engenheiro eletrônico de manutenção"
+	},{
+		"code": 214330,
+		"title": "Engenheiro eletrônico de projetos"
+	},{
+		"code": 214335,
+		"title": "Engenheiro de manutenção de telecomunicações"
+	},{
+		"code": 214340,
+		"title": "Engenheiro de telecomunicações"
+	},{
+		"code": 214345,
+		"title": "Engenheiro projetista de telecomunicações"
+	},{
+		"code": 214350,
+		"title": "Engenheiro de redes de comunicação"
+	},{
+		"code": 214360,
+		"title": "Tecnólogo em eletricidade"
+	},{
+		"code": 214365,
+		"title": "Tecnólogo em eletrônica"
+	},{
+		"code": 214370,
+		"title": "Tecnólogo em telecomunicações"
+	},{
+		"code": 214405,
+		"title": "Engenheiro mecânico"
+	},{
+		"code": 214410,
+		"title": "Engenheiro mecânico automotivo"
+	},{
+		"code": 214415,
+		"title": "Engenheiro mecânico (energia nuclear)"
+	},{
+		"code": 214420,
+		"title": "Engenheiro mecânico industrial"
+	},{
+		"code": 214425,
+		"title": "Engenheiro aeronáutico"
+	},{
+		"code": 214430,
+		"title": "Engenheiro naval"
+	},{
+		"code": 214435,
+		"title": "Tecnólogo em fabricação mecânica"
+	},{
+		"code": 214505,
+		"title": "Engenheiro químico"
+	},{
+		"code": 214510,
+		"title": "Engenheiro químico (indústria química)"
+	},{
+		"code": 214515,
+		"title": "Engenheiro químico (mineração, metalurgia, siderurgia, cimenteira e cerâmica)"
+	},{
+		"code": 214520,
+		"title": "Engenheiro químico (papel e celulose)"
+	},{
+		"code": 214525,
+		"title": "Engenheiro químico (petróleo e borracha)"
+	},{
+		"code": 214530,
+		"title": "Engenheiro químico (utilidades e meio ambiente)"
+	},{
+		"code": 214535,
+		"title": "Tecnólogo em produção sulcroalcooleira"
+	},{
+		"code": 214605,
+		"title": "Engenheiro de materiais"
+	},{
+		"code": 214610,
+		"title": "Engenheiro metalurgista"
+	},{
+		"code": 214615,
+		"title": "Tecnólogo em metalurgia"
+	},{
+		"code": 214705,
+		"title": "Engenheiro de minas"
+	},{
+		"code": 214710,
+		"title": "Engenheiro de minas (beneficiamento)"
+	},{
+		"code": 214715,
+		"title": "Engenheiro de minas (lavra a céu aberto)"
+	},{
+		"code": 214720,
+		"title": "Engenheiro de minas (lavra subterrânea)"
+	},{
+		"code": 214725,
+		"title": "Engenheiro de minas (pesquisa mineral)"
+	},{
+		"code": 214730,
+		"title": "Engenheiro de minas (planejamento)"
+	},{
+		"code": 214735,
+		"title": "Engenheiro de minas (processo)"
+	},{
+		"code": 214740,
+		"title": "Engenheiro de minas (projeto)"
+	},{
+		"code": 214745,
+		"title": "Tecnólogo em petróleo e gás"
+	},{
+		"code": 214750,
+		"title": "Tecnólogo em rochas ornamentais"
+	},{
+		"code": 214805,
+		"title": "Engenheiro agrimensor"
+	},{
+		"code": 214810,
+		"title": "Engenheiro cartógrafo"
+	},{
+		"code": 214905,
+		"title": "Engenheiro de produção"
+	},{
+		"code": 214910,
+		"title": "Engenheiro de controle de qualidade"
+	},{
+		"code": 214915,
+		"title": "Engenheiro de segurança do trabalho"
+	},{
+		"code": 214920,
+		"title": "Engenheiro de riscos"
+	},{
+		"code": 214925,
+		"title": "Engenheiro de tempos e movimentos"
+	},{
+		"code": 214930,
+		"title": "Tecnólogo em produção industrial"
+	},{
+		"code": 214935,
+		"title": "Tecnólogo em segurança do trabalho"
+	},{
+		"code": 214940,
+		"title": "Higienista ocupacional"
+	},{
+		"code": 214945,
+		"title": "Engenheiro de logistica"
+	},{
+		"code": 215105,
+		"title": "Agente de manobra e docagem"
+	},{
+		"code": 215110,
+		"title": "Capitão de manobra da marinha mercante"
+	},{
+		"code": 215115,
+		"title": "Comandante da marinha mercante"
+	},{
+		"code": 215120,
+		"title": "Coordenador de operações de combate à poluição no meio aquaviário"
+	},{
+		"code": 215125,
+		"title": "Imediato da marinha mercante"
+	},{
+		"code": 215130,
+		"title": "Inspetor de terminal"
+	},{
+		"code": 215135,
+		"title": "Inspetor naval"
+	},{
+		"code": 215140,
+		"title": "Oficial de quarto de navegação da marinha mercante"
+	},{
+		"code": 215145,
+		"title": "Prático de portos da marinha mercante"
+	},{
+		"code": 215150,
+		"title": "Vistoriador naval"
+	},{
+		"code": 215205,
+		"title": "Oficial superior de máquinas da marinha mercante"
+	},{
+		"code": 215210,
+		"title": "Primeiro oficial de máquinas da marinha mercante"
+	},{
+		"code": 215215,
+		"title": "Segundo oficial de máquinas da marinha mercante"
+	},{
+		"code": 215220,
+		"title": "Superintendente técnico no transporte aquaviário"
+	},{
+		"code": 215305,
+		"title": "Piloto de aeronaves"
+	},{
+		"code": 215310,
+		"title": "Piloto de ensaios em vôo"
+	},{
+		"code": 215315,
+		"title": "Instrutor de vôo"
+	},{
+		"code": 221105,
+		"title": "Biólogo"
+	},{
+		"code": 221205,
+		"title": "Biomédico"
+	},{
+		"code": 222105,
+		"title": "Engenheiro agrícola"
+	},{
+		"code": 222110,
+		"title": "Engenheiro agrônomo"
+	},{
+		"code": 222115,
+		"title": "Engenheiro de pesca"
+	},{
+		"code": 222120,
+		"title": "Engenheiro florestal"
+	},{
+		"code": 222205,
+		"title": "Engenheiro de alimentos"
+	},{
+		"code": 222215,
+		"title": "Tecnólogo em alimentos"
+	},{
+		"code": 223204,
+		"title": "Cirurgião dentista - auditor"
+	},{
+		"code": 223208,
+		"title": "Cirurgião dentista - clínico geral"
+	},{
+		"code": 223212,
+		"title": "Cirurgião dentista - endodontista"
+	},{
+		"code": 223216,
+		"title": "Cirurgião dentista - epidemiologista"
+	},{
+		"code": 223220,
+		"title": "Cirurgião dentista - estomatologista"
+	},{
+		"code": 223224,
+		"title": "Cirurgião dentista - implantodontista"
+	},{
+		"code": 223228,
+		"title": "Cirurgião dentista - odontogeriatra"
+	},{
+		"code": 223232,
+		"title": "Cirurgião dentista - odontologista legal"
+	},{
+		"code": 223236,
+		"title": "Cirurgião dentista - odontopediatra"
+	},{
+		"code": 223240,
+		"title": "Cirurgião dentista - ortopedista e ortodontista"
+	},{
+		"code": 223244,
+		"title": "Cirurgião dentista - patologista bucal"
+	},{
+		"code": 223248,
+		"title": "Cirurgião dentista - periodontista"
+	},{
+		"code": 223252,
+		"title": "Cirurgião dentista - protesiólogo bucomaxilofacial"
+	},{
+		"code": 223256,
+		"title": "Cirurgião dentista - protesista"
+	},{
+		"code": 223260,
+		"title": "Cirurgião dentista - radiologista"
+	},{
+		"code": 223264,
+		"title": "Cirurgião dentista - reabilitador oral"
+	},{
+		"code": 223268,
+		"title": "Cirurgião dentista - traumatologista bucomaxilofacial"
+	},{
+		"code": 223272,
+		"title": "Cirurgião dentista de saúde coletiva"
+	},{
+		"code": 223276,
+		"title": "Cirurgião dentista - odontologia do trabalho"
+	},{
+		"code": 223280,
+		"title": "Cirurgião dentista - dentística"
+	},{
+		"code": 223284,
+		"title": "Cirurgião dentista - disfunção temporomandibular e dor orofacial"
+	},{
+		"code": 223288,
+		"title": "Cirurgião dentista - odontologia para pacientes com necessidades especiais"
+	},{
+		"code": 223293,
+		"title": "Cirurgião-dentista da estratégia de saúde da família"
+	},{
+		"code": 223305,
+		"title": "Médico veterinário"
+	},{
+		"code": 223310,
+		"title": "Zootecnista"
+	},{
+		"code": 223405,
+		"title": "Farmacêutico"
+	},{
+		"code": 223415,
+		"title": "Farmacêutico analista clínico"
+	},{
+		"code": 223420,
+		"title": "Farmacêutico de alimentos"
+	},{
+		"code": 223425,
+		"title": "Farmacêutico práticas integrativas e complementares"
+	},{
+		"code": 223430,
+		"title": "Farmacêutico em saúde pública"
+	},{
+		"code": 223435,
+		"title": "Farmacêutico industrial"
+	},{
+		"code": 223440,
+		"title": "Farmacêutico toxicologista"
+	},{
+		"code": 223445,
+		"title": "Farmacêutico hospitalar e clínico"
+	},{
+		"code": 223505,
+		"title": "Enfermeiro"
+	},{
+		"code": 223510,
+		"title": "Enfermeiro auditor"
+	},{
+		"code": 223515,
+		"title": "Enfermeiro de bordo"
+	},{
+		"code": 223520,
+		"title": "Enfermeiro de centro cirúrgico"
+	},{
+		"code": 223525,
+		"title": "Enfermeiro de terapia intensiva"
+	},{
+		"code": 223530,
+		"title": "Enfermeiro do trabalho"
+	},{
+		"code": 223535,
+		"title": "Enfermeiro nefrologista"
+	},{
+		"code": 223540,
+		"title": "Enfermeiro neonatologista"
+	},{
+		"code": 223545,
+		"title": "Enfermeiro obstétrico"
+	},{
+		"code": 223550,
+		"title": "Enfermeiro psiquiátrico"
+	},{
+		"code": 223555,
+		"title": "Enfermeiro puericultor e pediátrico"
+	},{
+		"code": 223560,
+		"title": "Enfermeiro sanitarista"
+	},{
+		"code": 223565,
+		"title": "Enfermeiro da estratégia de saúde da família"
+	},{
+		"code": 223570,
+		"title": "Perfusionista"
+	},{
+		"code": 223605,
+		"title": "Fisioterapeuta geral"
+	},{
+		"code": 223625,
+		"title": "Fisioterapeuta respiratória"
+	},{
+		"code": 223630,
+		"title": "Fisioterapeuta neurofuncional"
+	},{
+		"code": 223635,
+		"title": "Fisioterapeuta traumato-ortopédica funcional"
+	},{
+		"code": 223640,
+		"title": "Fisioterapeuta osteopata"
+	},{
+		"code": 223645,
+		"title": "Fisioterapeuta quiropraxista"
+	},{
+		"code": 223650,
+		"title": "Fisioterapeuta acupunturista"
+	},{
+		"code": 223655,
+		"title": "Fisioterapeuta esportivo"
+	},{
+		"code": 223660,
+		"title": "Fisioterapeuta  do trabalho"
+	},{
+		"code": 223705,
+		"title": "Dietista"
+	},{
+		"code": 223710,
+		"title": "Nutricionista"
+	},{
+		"code": 223810,
+		"title": "Fonoaudiólogo geral"
+	},{
+		"code": 223815,
+		"title": "Fonoaudiólogo educacional"
+	},{
+		"code": 223820,
+		"title": "Fonoaudiólogo em audiologia"
+	},{
+		"code": 223825,
+		"title": "Fonoaudiólogo em disfagia"
+	},{
+		"code": 223830,
+		"title": "Fonoaudiólogo em linguagem"
+	},{
+		"code": 223835,
+		"title": "Fonoaudiólogo em motricidade orofacial"
+	},{
+		"code": 223840,
+		"title": "Fonoaudiólogo em saúde coletiva"
+	},{
+		"code": 223845,
+		"title": "Fonoaudiólogo em voz"
+	},{
+		"code": 223905,
+		"title": "Terapeuta ocupacional"
+	},{
+		"code": 223910,
+		"title": "Ortoptista"
+	},{
+		"code": 223915,
+		"title": "Psicomotricista"
+	},{
+		"code": 224105,
+		"title": "Avaliador físico"
+	},{
+		"code": 224110,
+		"title": "Ludomotricista"
+	},{
+		"code": 224115,
+		"title": "Preparador de atleta"
+	},{
+		"code": 224120,
+		"title": "Preparador físico"
+	},{
+		"code": 224125,
+		"title": "Técnico de desporto individual e coletivo (exceto futebol)"
+	},{
+		"code": 224130,
+		"title": "Técnico de laboratório e fiscalização desportiva"
+	},{
+		"code": 224135,
+		"title": "Treinador profissional de futebol"
+	},{
+		"code": 224140,
+		"title": "Profissional de educação física na saúde"
+	},{
+		"code": 225103,
+		"title": "Médico infectologista"
+	},{
+		"code": 225105,
+		"title": "Médico acupunturista"
+	},{
+		"code": 225106,
+		"title": "Médico legista"
+	},{
+		"code": 225109,
+		"title": "Médico nefrologista"
+	},{
+		"code": 225110,
+		"title": "Médico alergista e imunologista"
+	},{
+		"code": 225112,
+		"title": "Médico neurologista"
+	},{
+		"code": 225115,
+		"title": "Médico angiologista"
+	},{
+		"code": 225118,
+		"title": "Médico nutrologista"
+	},{
+		"code": 225120,
+		"title": "Médico cardiologista"
+	},{
+		"code": 225121,
+		"title": "Médico oncologista clínico"
+	},{
+		"code": 225122,
+		"title": "Médico cancerologista pediátrico"
+	},{
+		"code": 225124,
+		"title": "Médico pediatra"
+	},{
+		"code": 225125,
+		"title": "Médico clínico"
+	},{
+		"code": 225127,
+		"title": "Médico pneumologista"
+	},{
+		"code": 225130,
+		"title": "Médico de família e comunidade"
+	},{
+		"code": 225133,
+		"title": "Médico psiquiatra"
+	},{
+		"code": 225135,
+		"title": "Médico dermatologista"
+	},{
+		"code": 225136,
+		"title": "Médico reumatologista"
+	},{
+		"code": 225139,
+		"title": "Médico sanitarista"
+	},{
+		"code": 225140,
+		"title": "Médico do trabalho"
+	},{
+		"code": 225142,
+		"title": "Médico da estratégia de saúde da família"
+	},{
+		"code": 225145,
+		"title": "Médico em medicina de tráfego"
+	},{
+		"code": 225148,
+		"title": "Médico anatomopatologista"
+	},{
+		"code": 225150,
+		"title": "Médico em medicina intensiva"
+	},{
+		"code": 225151,
+		"title": "Médico anestesiologista"
+	},{
+		"code": 225154,
+		"title": "Médico antroposófico"
+	},{
+		"code": 225155,
+		"title": "Médico endocrinologista e metabologista"
+	},{
+		"code": 225160,
+		"title": "Médico fisiatra"
+	},{
+		"code": 225165,
+		"title": "Médico gastroenterologista"
+	},{
+		"code": 225170,
+		"title": "Médico generalista"
+	},{
+		"code": 225175,
+		"title": "Médico geneticista"
+	},{
+		"code": 225180,
+		"title": "Médico geriatra"
+	},{
+		"code": 225185,
+		"title": "Médico hematologista"
+	},{
+		"code": 225195,
+		"title": "Médico homeopata"
+	},{
+		"code": 225203,
+		"title": "Médico em cirurgia vascular"
+	},{
+		"code": 225210,
+		"title": "Médico cirurgião cardiovascular"
+	},{
+		"code": 225215,
+		"title": "Médico cirurgião de cabeça e pescoço"
+	},{
+		"code": 225220,
+		"title": "Médico cirurgião do aparelho digestivo"
+	},{
+		"code": 225225,
+		"title": "Médico cirurgião geral"
+	},{
+		"code": 225230,
+		"title": "Médico cirurgião pediátrico"
+	},{
+		"code": 225235,
+		"title": "Médico cirurgião plástico"
+	},{
+		"code": 225240,
+		"title": "Médico cirurgião torácico"
+	},{
+		"code": 225250,
+		"title": "Médico ginecologista e obstetra"
+	},{
+		"code": 225255,
+		"title": "Médico mastologista"
+	},{
+		"code": 225260,
+		"title": "Médico neurocirurgião"
+	},{
+		"code": 225265,
+		"title": "Médico oftalmologista"
+	},{
+		"code": 225270,
+		"title": "Médico ortopedista e traumatologista"
+	},{
+		"code": 225275,
+		"title": "Médico otorrinolaringologista"
+	},{
+		"code": 225280,
+		"title": "Médico coloproctologista"
+	},{
+		"code": 225285,
+		"title": "Médico urologista"
+	},{
+		"code": 225290,
+		"title": "Médico cancerologista cirurgíco"
+	},{
+		"code": 225295,
+		"title": "Médico cirurgião da mão"
+	},{
+		"code": 225305,
+		"title": "Médico citopatologista"
+	},{
+		"code": 225310,
+		"title": "Médico em endoscopia"
+	},{
+		"code": 225315,
+		"title": "Médico em medicina nuclear"
+	},{
+		"code": 225320,
+		"title": "Médico em radiologia e diagnóstico por imagem"
+	},{
+		"code": 225325,
+		"title": "Médico patologista"
+	},{
+		"code": 225330,
+		"title": "Médico radioterapeuta"
+	},{
+		"code": 225335,
+		"title": "Médico patologista clínico / medicina laboratorial"
+	},{
+		"code": 225340,
+		"title": "Médico hemoterapeuta"
+	},{
+		"code": 225345,
+		"title": "Médico hiperbarista"
+	},{
+		"code": 225350,
+		"title": "Médico neurofisiologista clínico"
+	},{
+		"code": 225355,
+		"title": "Médico radiologista intervencionista"
+	},{
+		"code": 226105,
+		"title": "Quiropraxista"
+	},{
+		"code": 226110,
+		"title": "Osteopata"
+	},{
+		"code": 226305,
+		"title": "Musicoterapeuta"
+	},{
+		"code": 226310,
+		"title": "Arteterapeuta"
+	},{
+		"code": 226315,
+		"title": "Equoterapeuta"
+	},{
+		"code": 226320,
+		"title": "Naturólogo"
+	},{
+		"code": 231105,
+		"title": "Professor de nível superior na educação infantil (quatro a seis anos)"
+	},{
+		"code": 231110,
+		"title": "Professor de nível superior na educação infantil (zero a três anos)"
+	},{
+		"code": 231205,
+		"title": "Professor da  educação de jovens e adultos do ensino fundamental (primeira a quarta série)"
+	},{
+		"code": 231210,
+		"title": "Professor de nível superior do ensino fundamental (primeira a quarta série)"
+	},{
+		"code": 231305,
+		"title": "Professor de ciências exatas e naturais do ensino fundamental"
+	},{
+		"code": 231310,
+		"title": "Professor de educação artística do ensino fundamental"
+	},{
+		"code": 231315,
+		"title": "Professor de educação física do ensino fundamental"
+	},{
+		"code": 231320,
+		"title": "Professor de geografia do ensino fundamental"
+	},{
+		"code": 231325,
+		"title": "Professor de história do ensino fundamental"
+	},{
+		"code": 231330,
+		"title": "Professor de língua estrangeira moderna do ensino fundamental"
+	},{
+		"code": 231335,
+		"title": "Professor de língua portuguesa do ensino fundamental"
+	},{
+		"code": 231340,
+		"title": "Professor de matemática do ensino fundamental"
+	},{
+		"code": 232105,
+		"title": "Professor de artes no ensino médio"
+	},{
+		"code": 232110,
+		"title": "Professor de biologia no ensino médio"
+	},{
+		"code": 232115,
+		"title": "Professor de disciplinas pedagógicas no ensino médio"
+	},{
+		"code": 232120,
+		"title": "Professor de educação física no ensino médio"
+	},{
+		"code": 232125,
+		"title": "Professor de filosofia no ensino médio"
+	},{
+		"code": 232130,
+		"title": "Professor de física no ensino médio"
+	},{
+		"code": 232135,
+		"title": "Professor de geografia no ensino médio"
+	},{
+		"code": 232140,
+		"title": "Professor de história no ensino médio"
+	},{
+		"code": 232145,
+		"title": "Professor de língua e literatura brasileira no ensino médio"
+	},{
+		"code": 232150,
+		"title": "Professor de língua estrangeira moderna no ensino médio"
+	},{
+		"code": 232155,
+		"title": "Professor de matemática no ensino médio"
+	},{
+		"code": 232160,
+		"title": "Professor de psicologia no ensino médio"
+	},{
+		"code": 232165,
+		"title": "Professor de química no ensino médio"
+	},{
+		"code": 232170,
+		"title": "Professor de sociologia no ensino médio"
+	},{
+		"code": 233105,
+		"title": "Professor da área de meio ambiente"
+	},{
+		"code": 233110,
+		"title": "Professor de desenho técnico"
+	},{
+		"code": 233115,
+		"title": "Professor de técnicas agrícolas"
+	},{
+		"code": 233120,
+		"title": "Professor de técnicas comerciais e secretariais"
+	},{
+		"code": 233125,
+		"title": "Professor de técnicas de enfermagem"
+	},{
+		"code": 233130,
+		"title": "Professor de técnicas industriais"
+	},{
+		"code": 233135,
+		"title": "Professor de tecnologia e cálculo técnico"
+	},{
+		"code": 233205,
+		"title": "Instrutor de aprendizagem e treinamento agropecuário"
+	},{
+		"code": 233210,
+		"title": "Instrutor de aprendizagem e treinamento industrial"
+	},{
+		"code": 233215,
+		"title": "Instrutor de aprendizagem e treinamento comercial"
+	},{
+		"code": 233220,
+		"title": "Professor instrutor de ensino e aprendizagem agroflorestal"
+	},{
+		"code": 233225,
+		"title": "Professor instrutor de ensino e aprendizagem em serviços"
+	},{
+		"code": 234105,
+		"title": "Professor de matemática aplicada (no ensino superior)"
+	},{
+		"code": 234110,
+		"title": "Professor de matemática pura (no ensino superior)"
+	},{
+		"code": 234115,
+		"title": "Professor de estatística (no ensino superior)"
+	},{
+		"code": 234120,
+		"title": "Professor de computação (no ensino superior)"
+	},{
+		"code": 234125,
+		"title": "Professor de pesquisa operacional (no ensino superior)"
+	},{
+		"code": 234205,
+		"title": "Professor de física (ensino superior)"
+	},{
+		"code": 234210,
+		"title": "Professor de química (ensino superior)"
+	},{
+		"code": 234215,
+		"title": "Professor de astronomia (ensino superior)"
+	},{
+		"code": 234305,
+		"title": "Professor de arquitetura"
+	},{
+		"code": 234310,
+		"title": "Professor de engenharia"
+	},{
+		"code": 234315,
+		"title": "Professor de geofísica"
+	},{
+		"code": 234320,
+		"title": "Professor de geologia"
+	},{
+		"code": 234405,
+		"title": "Professor de ciências biológicas do ensino superior"
+	},{
+		"code": 234410,
+		"title": "Professor de educação física no ensino superior"
+	},{
+		"code": 234415,
+		"title": "Professor de enfermagem do ensino superior"
+	},{
+		"code": 234420,
+		"title": "Professor de farmácia e bioquímica"
+	},{
+		"code": 234425,
+		"title": "Professor de fisioterapia"
+	},{
+		"code": 234430,
+		"title": "Professor de fonoaudiologia"
+	},{
+		"code": 234435,
+		"title": "Professor de medicina"
+	},{
+		"code": 234440,
+		"title": "Professor de medicina veterinária"
+	},{
+		"code": 234445,
+		"title": "Professor de nutrição"
+	},{
+		"code": 234450,
+		"title": "Professor de odontologia"
+	},{
+		"code": 234455,
+		"title": "Professor de terapia ocupacional"
+	},{
+		"code": 234460,
+		"title": "Professor de zootecnia do ensino superior"
+	},{
+		"code": 234505,
+		"title": "Professor de ensino superior na área de didática"
+	},{
+		"code": 234510,
+		"title": "Professor de ensino superior na área de orientação educacional"
+	},{
+		"code": 234515,
+		"title": "Professor de ensino superior na área de pesquisa educacional"
+	},{
+		"code": 234520,
+		"title": "Professor de ensino superior na área de prática de ensino"
+	},{
+		"code": 234604,
+		"title": "Professor de língua alemã"
+	},{
+		"code": 234608,
+		"title": "Professor de língua italiana"
+	},{
+		"code": 234612,
+		"title": "Professor de língua francesa"
+	},{
+		"code": 234616,
+		"title": "Professor de língua inglesa"
+	},{
+		"code": 234620,
+		"title": "Professor de língua espanhola"
+	},{
+		"code": 234624,
+		"title": "Professor de língua portuguesa"
+	},{
+		"code": 234628,
+		"title": "Professor de literatura brasileira"
+	},{
+		"code": 234632,
+		"title": "Professor de literatura portuguesa"
+	},{
+		"code": 234636,
+		"title": "Professor de literatura alemã"
+	},{
+		"code": 234640,
+		"title": "Professor de literatura comparada"
+	},{
+		"code": 234644,
+		"title": "Professor de literatura espanhola"
+	},{
+		"code": 234648,
+		"title": "Professor de literatura francesa"
+	},{
+		"code": 234652,
+		"title": "Professor de literatura inglesa"
+	},{
+		"code": 234656,
+		"title": "Professor de literatura italiana"
+	},{
+		"code": 234660,
+		"title": "Professor de literatura de línguas estrangeiras modernas"
+	},{
+		"code": 234664,
+		"title": "Professor de outras línguas e literaturas"
+	},{
+		"code": 234668,
+		"title": "Professor de línguas estrangeiras modernas"
+	},{
+		"code": 234672,
+		"title": "Professor de lingüística e lingüística aplicada"
+	},{
+		"code": 234676,
+		"title": "Professor de filologia e crítica textual"
+	},{
+		"code": 234680,
+		"title": "Professor de semiótica"
+	},{
+		"code": 234684,
+		"title": "Professor de teoria da literatura"
+	},{
+		"code": 234705,
+		"title": "Professor de antropologia do ensino superior"
+	},{
+		"code": 234710,
+		"title": "Professor de arquivologia do ensino superior"
+	},{
+		"code": 234715,
+		"title": "Professor de biblioteconomia do ensino superior"
+	},{
+		"code": 234720,
+		"title": "Professor de ciência política do ensino superior"
+	},{
+		"code": 234725,
+		"title": "Professor de comunicação social do ensino superior"
+	},{
+		"code": 234730,
+		"title": "Professor de direito do ensino superior"
+	},{
+		"code": 234735,
+		"title": "Professor de filosofia do ensino superior"
+	},{
+		"code": 234740,
+		"title": "Professor de geografia do ensino superior"
+	},{
+		"code": 234745,
+		"title": "Professor de história do ensino superior"
+	},{
+		"code": 234750,
+		"title": "Professor de jornalismo"
+	},{
+		"code": 234755,
+		"title": "Professor de museologia do ensino superior"
+	},{
+		"code": 234760,
+		"title": "Professor de psicologia do ensino superior"
+	},{
+		"code": 234765,
+		"title": "Professor de serviço social do ensino superior"
+	},{
+		"code": 234770,
+		"title": "Professor de sociologia do ensino superior"
+	},{
+		"code": 234805,
+		"title": "Professor de economia"
+	},{
+		"code": 234810,
+		"title": "Professor de administração"
+	},{
+		"code": 234815,
+		"title": "Professor de contabilidade"
+	},{
+		"code": 234905,
+		"title": "Professor de artes do espetáculo no ensino superior"
+	},{
+		"code": 234910,
+		"title": "Professor de artes visuais no ensino superior (artes plásticas e multimídia)"
+	},{
+		"code": 234915,
+		"title": "Professor de música no ensino superior"
+	},{
+		"code": 239205,
+		"title": "Professor de alunos com deficiência auditiva e surdos"
+	},{
+		"code": 239210,
+		"title": "Professor de alunos com deficiência física"
+	},{
+		"code": 239215,
+		"title": "Professor de alunos com deficiência mental"
+	},{
+		"code": 239220,
+		"title": "Professor de alunos com deficiência múltipla"
+	},{
+		"code": 239225,
+		"title": "Professor de alunos com deficiência visual"
+	},{
+		"code": 239405,
+		"title": "Coordenador pedagógico"
+	},{
+		"code": 239410,
+		"title": "Orientador educacional"
+	},{
+		"code": 239415,
+		"title": "Pedagogo"
+	},{
+		"code": 239420,
+		"title": "Professor de técnicas e recursos audiovisuais"
+	},{
+		"code": 239425,
+		"title": "Psicopedagogo"
+	},{
+		"code": 239430,
+		"title": "Supervisor de ensino"
+	},{
+		"code": 239435,
+		"title": "Designer educacional"
+	},{
+		"code": 239440,
+		"title": "Neuropsicopedagogo clinico"
+	},{
+		"code": 239445,
+		"title": "Neuropsicopedagogo institucional"
+	},{
+		"code": 241005,
+		"title": "Advogado"
+	},{
+		"code": 241010,
+		"title": "Advogado de empresa"
+	},{
+		"code": 241015,
+		"title": "Advogado (direito civil)"
+	},{
+		"code": 241020,
+		"title": "Advogado (direito público)"
+	},{
+		"code": 241025,
+		"title": "Advogado (direito penal)"
+	},{
+		"code": 241030,
+		"title": "Advogado (áreas especiais)"
+	},{
+		"code": 241035,
+		"title": "Advogado (direito do trabalho)"
+	},{
+		"code": 241040,
+		"title": "Consultor jurídico"
+	},{
+		"code": 241205,
+		"title": "Advogado da união"
+	},{
+		"code": 241210,
+		"title": "Procurador autárquico"
+	},{
+		"code": 241215,
+		"title": "Procurador da fazenda nacional"
+	},{
+		"code": 241220,
+		"title": "Procurador do estado"
+	},{
+		"code": 241225,
+		"title": "Procurador do município"
+	},{
+		"code": 241230,
+		"title": "Procurador federal"
+	},{
+		"code": 241235,
+		"title": "Procurador fundacional"
+	},{
+		"code": 241305,
+		"title": "Oficial de registro de contratos marítimos"
+	},{
+		"code": 241310,
+		"title": "Oficial do registro civil de pessoas jurídicas"
+	},{
+		"code": 241315,
+		"title": "Oficial do registro civil de pessoas naturais"
+	},{
+		"code": 241320,
+		"title": "Oficial do registro de distribuições"
+	},{
+		"code": 241325,
+		"title": "Oficial do registro de imóveis"
+	},{
+		"code": 241330,
+		"title": "Oficial do registro de títulos e documentos"
+	},{
+		"code": 241335,
+		"title": "Tabelião de notas"
+	},{
+		"code": 241340,
+		"title": "Tabelião de protestos"
+	},{
+		"code": 242205,
+		"title": "Procurador da república"
+	},{
+		"code": 242210,
+		"title": "Procurador de justiça"
+	},{
+		"code": 242215,
+		"title": "Procurador de justiça militar"
+	},{
+		"code": 242220,
+		"title": "Procurador do trabalho"
+	},{
+		"code": 242225,
+		"title": "Procurador regional da república"
+	},{
+		"code": 242230,
+		"title": "Procurador regional do trabalho"
+	},{
+		"code": 242235,
+		"title": "Promotor de justiça"
+	},{
+		"code": 242240,
+		"title": "Subprocurador de justiça militar"
+	},{
+		"code": 242245,
+		"title": "Subprocurador-geral da república"
+	},{
+		"code": 242250,
+		"title": "Subprocurador-geral do trabalho"
+	},{
+		"code": 242305,
+		"title": "Delegado de polícia"
+	},{
+		"code": 242405,
+		"title": "Defensor público"
+	},{
+		"code": 242410,
+		"title": "Procurador da assistência judiciária"
+	},{
+		"code": 242905,
+		"title": "Oficial de inteligência"
+	},{
+		"code": 242910,
+		"title": "Oficial técnico de inteligência"
+	},{
+		"code": 251105,
+		"title": "Antropólogo"
+	},{
+		"code": 251110,
+		"title": "Arqueólogo"
+	},{
+		"code": 251115,
+		"title": "Cientista político"
+	},{
+		"code": 251120,
+		"title": "Sociólogo"
+	},{
+		"code": 251205,
+		"title": "Economista"
+	},{
+		"code": 251210,
+		"title": "Economista agroindustrial"
+	},{
+		"code": 251215,
+		"title": "Economista financeiro"
+	},{
+		"code": 251220,
+		"title": "Economista industrial"
+	},{
+		"code": 251225,
+		"title": "Economista do setor público"
+	},{
+		"code": 251230,
+		"title": "Economista ambiental"
+	},{
+		"code": 251235,
+		"title": "Economista regional e urbano"
+	},{
+		"code": 251305,
+		"title": "Geógrafo"
+	},{
+		"code": 251405,
+		"title": "Filósofo"
+	},{
+		"code": 251505,
+		"title": "Psicólogo educacional"
+	},{
+		"code": 251510,
+		"title": "Psicólogo clínico"
+	},{
+		"code": 251515,
+		"title": "Psicólogo do esporte"
+	},{
+		"code": 251520,
+		"title": "Psicólogo hospitalar"
+	},{
+		"code": 251525,
+		"title": "Psicólogo jurídico"
+	},{
+		"code": 251530,
+		"title": "Psicólogo social"
+	},{
+		"code": 251535,
+		"title": "Psicólogo do trânsito"
+	},{
+		"code": 251540,
+		"title": "Psicólogo do trabalho"
+	},{
+		"code": 251545,
+		"title": "Neuropsicólogo"
+	},{
+		"code": 251550,
+		"title": "Psicanalista"
+	},{
+		"code": 251555,
+		"title": "Psicólogo acupunturista"
+	},{
+		"code": 251605,
+		"title": "Assistente social"
+	},{
+		"code": 251610,
+		"title": "Economista doméstico"
+	},{
+		"code": 252105,
+		"title": "Administrador"
+	},{
+		"code": 252205,
+		"title": "Auditor (contadores e afins)"
+	},{
+		"code": 252210,
+		"title": "Contador"
+	},{
+		"code": 252215,
+		"title": "Perito contábil"
+	},{
+		"code": 252305,
+		"title": "Secretária(o) executiva(o)"
+	},{
+		"code": 252310,
+		"title": "Secretário  bilíngüe"
+	},{
+		"code": 252315,
+		"title": "Secretária trilíngüe"
+	},{
+		"code": 252320,
+		"title": "Tecnólogo em secretariado escolar"
+	},{
+		"code": 252405,
+		"title": "Analista de recursos humanos"
+	},{
+		"code": 252505,
+		"title": "Administrador de fundos e carteiras de investimento"
+	},{
+		"code": 252510,
+		"title": "Analista de câmbio"
+	},{
+		"code": 252515,
+		"title": "Analista de cobrança (instituições financeiras)"
+	},{
+		"code": 252525,
+		"title": "Analista de crédito (instituições financeiras)"
+	},{
+		"code": 252530,
+		"title": "Analista de crédito rural"
+	},{
+		"code": 252535,
+		"title": "Analista de leasing"
+	},{
+		"code": 252540,
+		"title": "Analista de produtos bancários"
+	},{
+		"code": 252545,
+		"title": "Analista financeiro (instituições financeiras)"
+	},{
+		"code": 252550,
+		"title": "Profissional de relações com investidores"
+	},{
+		"code": 252605,
+		"title": "Gestor em segurança"
+	},{
+		"code": 252705,
+		"title": "Analista de pcp (programação e controle da produção)"
+	},{
+		"code": 252710,
+		"title": "Analista de planejamento de materias"
+	},{
+		"code": 252715,
+		"title": "Analista de logistica"
+	},{
+		"code": 252720,
+		"title": "Analista de projetos logisticos"
+	},{
+		"code": 252725,
+		"title": "Analista de gestão de estoque"
+	},{
+		"code": 253110,
+		"title": "Redator de publicidade"
+	},{
+		"code": 253115,
+		"title": "Publicitário"
+	},{
+		"code": 253120,
+		"title": "Diretor de mídia (publicidade)"
+	},{
+		"code": 253125,
+		"title": "Diretor de arte (publicidade)"
+	},{
+		"code": 253130,
+		"title": "Diretor de criação"
+	},{
+		"code": 253135,
+		"title": "Diretor de contas (publicidade)"
+	},{
+		"code": 253140,
+		"title": "Agenciador de propaganda"
+	},{
+		"code": 253205,
+		"title": "Gerente de captação (fundos e investimentos institucionais)"
+	},{
+		"code": 253210,
+		"title": "Gerente de clientes especiais (private)"
+	},{
+		"code": 253215,
+		"title": "Gerente de contas - pessoa física e jurídica"
+	},{
+		"code": 253220,
+		"title": "Gerente de grandes contas (corporate)"
+	},{
+		"code": 253225,
+		"title": "Operador de negócios"
+	},{
+		"code": 253305,
+		"title": "Corretor de valores, ativos financeiros, mercadorias e derivativos"
+	},{
+		"code": 254105,
+		"title": "Auditor-fiscal da receita federal"
+	},{
+		"code": 254110,
+		"title": "Técnico da receita federal"
+	},{
+		"code": 254205,
+		"title": "Auditor-fiscal da previdência social"
+	},{
+		"code": 254305,
+		"title": "Auditor-fiscal do trabalho"
+	},{
+		"code": 254310,
+		"title": "Agente de higiene e segurança"
+	},{
+		"code": 254405,
+		"title": "Fiscal de tributos estadual"
+	},{
+		"code": 254410,
+		"title": "Fiscal de tributos municipal"
+	},{
+		"code": 254415,
+		"title": "Técnico de tributos estadual"
+	},{
+		"code": 254420,
+		"title": "Técnico de tributos municipal"
+	},{
+		"code": 254505,
+		"title": "Fiscal de atividades urbanas"
+	},{
+		"code": 261105,
+		"title": "Arquivista pesquisador (jornalismo)"
+	},{
+		"code": 261110,
+		"title": "Assessor de imprensa"
+	},{
+		"code": 261115,
+		"title": "Diretor de redação"
+	},{
+		"code": 261120,
+		"title": "Editor"
+	},{
+		"code": 261125,
+		"title": "Jornalista"
+	},{
+		"code": 261130,
+		"title": "Produtor de texto"
+	},{
+		"code": 261135,
+		"title": "Repórter (exclusive rádio e televisão)"
+	},{
+		"code": 261140,
+		"title": "Revisor de texto"
+	},{
+		"code": 261205,
+		"title": "Bibliotecário"
+	},{
+		"code": 261210,
+		"title": "Documentalista"
+	},{
+		"code": 261215,
+		"title": "Analista de informações (pesquisador de informações de rede)"
+	},{
+		"code": 261305,
+		"title": "Arquivista"
+	},{
+		"code": 261310,
+		"title": "Museólogo"
+	},{
+		"code": 261405,
+		"title": "Filólogo"
+	},{
+		"code": 261410,
+		"title": "Intérprete"
+	},{
+		"code": 261415,
+		"title": "Lingüista"
+	},{
+		"code": 261420,
+		"title": "Tradutor"
+	},{
+		"code": 261425,
+		"title": "Intérprete de língua de sinais"
+	},{
+		"code": 261430,
+		"title": "Audiodescritor"
+	},{
+		"code": 261505,
+		"title": "Autor-roteirista"
+	},{
+		"code": 261510,
+		"title": "Crítico"
+	},{
+		"code": 261515,
+		"title": "Escritor de ficção"
+	},{
+		"code": 261520,
+		"title": "Escritor de não ficção"
+	},{
+		"code": 261525,
+		"title": "Poeta"
+	},{
+		"code": 261530,
+		"title": "Redator de textos técnicos"
+	},{
+		"code": 261605,
+		"title": "Editor de jornal"
+	},{
+		"code": 261610,
+		"title": "Editor de livro"
+	},{
+		"code": 261615,
+		"title": "Editor de mídia eletrônica"
+	},{
+		"code": 261620,
+		"title": "Editor de revista"
+	},{
+		"code": 261625,
+		"title": "Editor de revista científica"
+	},{
+		"code": 261705,
+		"title": "Âncora de mídias audiovisuais"
+	},{
+		"code": 261710,
+		"title": "Comentarista de mídias audiovisuais"
+	},{
+		"code": 261715,
+		"title": "Locutor de mídias audiovisuais"
+	},{
+		"code": 261730,
+		"title": "Repórter de mídias audiovisuais"
+	},{
+		"code": 261805,
+		"title": "Fotógrafo"
+	},{
+		"code": 261810,
+		"title": "Fotógrafo publicitário"
+	},{
+		"code": 261815,
+		"title": "Fotógrafo retratista"
+	},{
+		"code": 261820,
+		"title": "Repórter fotográfico"
+	},{
+		"code": 261905,
+		"title": "Continuista"
+	},{
+		"code": 261910,
+		"title": "Assistente de direção (tv)"
+	},{
+		"code": 262105,
+		"title": "Produtor cultural"
+	},{
+		"code": 262110,
+		"title": "Produtor cinematográfico"
+	},{
+		"code": 262115,
+		"title": "Produtor de rádio"
+	},{
+		"code": 262120,
+		"title": "Produtor de teatro"
+	},{
+		"code": 262125,
+		"title": "Produtor de televisão"
+	},{
+		"code": 262130,
+		"title": "Tecnólogo em produção fonográfica"
+	},{
+		"code": 262135,
+		"title": "Tecnólogo em produção audiovisual"
+	},{
+		"code": 262205,
+		"title": "Diretor de cinema"
+	},{
+		"code": 262210,
+		"title": "Diretor de programas de rádio"
+	},{
+		"code": 262215,
+		"title": "Diretor de programas de televisão"
+	},{
+		"code": 262220,
+		"title": "Diretor teatral"
+	},{
+		"code": 262225,
+		"title": "Diretor de programação"
+	},{
+		"code": 262230,
+		"title": "Diretor de produção"
+	},{
+		"code": 262235,
+		"title": "Diretor artistíco"
+	},{
+		"code": 262305,
+		"title": "Cenógrafo carnavalesco e festas populares"
+	},{
+		"code": 262310,
+		"title": "Cenógrafo de cinema"
+	},{
+		"code": 262315,
+		"title": "Cenógrafo de eventos"
+	},{
+		"code": 262320,
+		"title": "Cenógrafo de teatro"
+	},{
+		"code": 262325,
+		"title": "Cenógrafo de tv"
+	},{
+		"code": 262330,
+		"title": "Diretor de arte"
+	},{
+		"code": 262405,
+		"title": "Artista (artes visuais)"
+	},{
+		"code": 262410,
+		"title": "Desenhista industrial gráfico (designer gráfico)"
+	},{
+		"code": 262415,
+		"title": "Conservador-restaurador de bens  culturais"
+	},{
+		"code": 262420,
+		"title": "Desenhista industrial de produto (designer de produto)"
+	},{
+		"code": 262425,
+		"title": "Desenhista industrial de produto de moda (designer de moda)"
+	},{
+		"code": 262505,
+		"title": "Ator"
+	},{
+		"code": 262605,
+		"title": "Compositor"
+	},{
+		"code": 262610,
+		"title": "Músico arranjador"
+	},{
+		"code": 262615,
+		"title": "Músico regente"
+	},{
+		"code": 262620,
+		"title": "Musicólogo"
+	},{
+		"code": 262705,
+		"title": "Músico intérprete cantor"
+	},{
+		"code": 262710,
+		"title": "Músico intérprete instrumentista"
+	},{
+		"code": 262805,
+		"title": "Assistente de coreografia"
+	},{
+		"code": 262810,
+		"title": "Bailarino (exceto danças populares)"
+	},{
+		"code": 262815,
+		"title": "Coreógrafo"
+	},{
+		"code": 262820,
+		"title": "Dramaturgo de dança"
+	},{
+		"code": 262825,
+		"title": "Ensaiador de dança"
+	},{
+		"code": 262830,
+		"title": "Professor de dança"
+	},{
+		"code": 262905,
+		"title": "Decorador de interiores de nível superior"
+	},{
+		"code": 263105,
+		"title": "Ministro de culto religioso"
+	},{
+		"code": 263110,
+		"title": "Missionário"
+	},{
+		"code": 263115,
+		"title": "Teólogo"
+	},{
+		"code": 271105,
+		"title": "Chefe de cozinha"
+	},{
+		"code": 271110,
+		"title": "Tecnólogo em gastronomia"
+	},{
+		"code": 300105,
+		"title": "Técnico em mecatrônica - automação da manufatura"
+	},{
+		"code": 300110,
+		"title": "Técnico em mecatrônica - robótica"
+	},{
+		"code": 300305,
+		"title": "Técnico em eletromecânica"
+	},{
+		"code": 301105,
+		"title": "Técnico de laboratório industrial"
+	},{
+		"code": 301110,
+		"title": "Técnico de laboratório de análises físico-químicas (materiais de construção)"
+	},{
+		"code": 301115,
+		"title": "Técnico químico de petróleo"
+	},{
+		"code": 301205,
+		"title": "Técnico de apoio à bioengenharia"
+	},{
+		"code": 311105,
+		"title": "Técnico químico"
+	},{
+		"code": 311110,
+		"title": "Técnico de celulose e papel"
+	},{
+		"code": 311115,
+		"title": "Técnico em curtimento"
+	},{
+		"code": 311205,
+		"title": "Técnico em petroquímica"
+	},{
+		"code": 311305,
+		"title": "Técnico em materiais, produtos cerâmicos e vidros"
+	},{
+		"code": 311405,
+		"title": "Técnico em borracha"
+	},{
+		"code": 311410,
+		"title": "Técnico em plástico"
+	},{
+		"code": 311505,
+		"title": "Técnico de controle de meio ambiente"
+	},{
+		"code": 311510,
+		"title": "Técnico de meteorologia"
+	},{
+		"code": 311515,
+		"title": "Técnico de utilidade (produção e distribuição de vapor, gases, óleos, combustíveis, energia)"
+	},{
+		"code": 311520,
+		"title": "Técnico em tratamento de efluentes"
+	},{
+		"code": 311605,
+		"title": "Técnico têxtil"
+	},{
+		"code": 311610,
+		"title": "Técnico têxtil (tratamentos químicos)"
+	},{
+		"code": 311615,
+		"title": "Técnico têxtil de fiação"
+	},{
+		"code": 311620,
+		"title": "Técnico têxtil de malharia"
+	},{
+		"code": 311625,
+		"title": "Técnico têxtil de tecelagem"
+	},{
+		"code": 311705,
+		"title": "Colorista de papel"
+	},{
+		"code": 311710,
+		"title": "Colorista têxtil"
+	},{
+		"code": 311715,
+		"title": "Preparador de tintas"
+	},{
+		"code": 311720,
+		"title": "Preparador de tintas (fábrica de tecidos)"
+	},{
+		"code": 311725,
+		"title": "Tingidor de couros e peles"
+	},{
+		"code": 312105,
+		"title": "Técnico de obras civis"
+	},{
+		"code": 312205,
+		"title": "Técnico de estradas"
+	},{
+		"code": 312210,
+		"title": "Técnico de saneamento"
+	},{
+		"code": 312305,
+		"title": "Técnico em agrimensura"
+	},{
+		"code": 312310,
+		"title": "Técnico em geodésia e cartografia"
+	},{
+		"code": 312315,
+		"title": "Técnico em hidrografia"
+	},{
+		"code": 312320,
+		"title": "Topógrafo"
+	},{
+		"code": 313105,
+		"title": "Eletrotécnico"
+	},{
+		"code": 313110,
+		"title": "Eletrotécnico (produção de energia)"
+	},{
+		"code": 313115,
+		"title": "Eletrotécnico na fabricação, montagem e instalação de máquinas e equipamentos"
+	},{
+		"code": 313120,
+		"title": "Técnico de manutenção elétrica"
+	},{
+		"code": 313125,
+		"title": "Técnico de manutenção elétrica de máquina"
+	},{
+		"code": 313130,
+		"title": "Técnico eletricista"
+	},{
+		"code": 313205,
+		"title": "Técnico de manutenção eletrônica"
+	},{
+		"code": 313210,
+		"title": "Técnico de manutenção eletrônica (circuitos de máquinas com comando numérico)"
+	},{
+		"code": 313215,
+		"title": "Técnico eletrônico"
+	},{
+		"code": 313220,
+		"title": "Técnico em manutenção de equipamentos de informática"
+	},{
+		"code": 313305,
+		"title": "Técnico de comunicação de dados"
+	},{
+		"code": 313310,
+		"title": "Técnico de rede (telecomunicações)"
+	},{
+		"code": 313315,
+		"title": "Técnico de telecomunicações (telefonia)"
+	},{
+		"code": 313320,
+		"title": "Técnico de transmissão (telecomunicações)"
+	},{
+		"code": 313405,
+		"title": "Técnico em calibração"
+	},{
+		"code": 313410,
+		"title": "Técnico em instrumentação"
+	},{
+		"code": 313415,
+		"title": "Encarregado de manutenção de instrumentos de controle, medição e similares"
+	},{
+		"code": 313505,
+		"title": "Técnico em fotônica"
+	},{
+		"code": 314105,
+		"title": "Técnico em mecânica de precisão"
+	},{
+		"code": 314110,
+		"title": "Técnico mecânico"
+	},{
+		"code": 314115,
+		"title": "Técnico mecânico (calefação, ventilação e refrigeração)"
+	},{
+		"code": 314120,
+		"title": "Técnico mecânico (máquinas)"
+	},{
+		"code": 314125,
+		"title": "Técnico mecânico (motores)"
+	},{
+		"code": 314205,
+		"title": "Técnico mecânico na fabricação de ferramentas"
+	},{
+		"code": 314210,
+		"title": "Técnico mecânico na manutenção de ferramentas"
+	},{
+		"code": 314305,
+		"title": "Técnico em automobilística"
+	},{
+		"code": 314310,
+		"title": "Técnico mecânico (aeronaves)"
+	},{
+		"code": 314315,
+		"title": "Técnico mecânico (embarcações)"
+	},{
+		"code": 314405,
+		"title": "Técnico de manutenção de sistemas e instrumentos"
+	},{
+		"code": 314410,
+		"title": "Técnico em manutenção de máquinas"
+	},{
+		"code": 314605,
+		"title": "Inspetor de soldagem"
+	},{
+		"code": 314610,
+		"title": "Técnico em caldeiraria"
+	},{
+		"code": 314615,
+		"title": "Técnico em estruturas metálicas"
+	},{
+		"code": 314620,
+		"title": "Técnico em soldagem"
+	},{
+		"code": 314625,
+		"title": "Tecnólogo em soldagem"
+	},{
+		"code": 314705,
+		"title": "Técnico de acabamento em siderurgia"
+	},{
+		"code": 314710,
+		"title": "Técnico de aciaria em siderurgia"
+	},{
+		"code": 314715,
+		"title": "Técnico de fundição em siderurgia"
+	},{
+		"code": 314720,
+		"title": "Técnico de laminação em siderurgia"
+	},{
+		"code": 314725,
+		"title": "Técnico de redução na siderurgia (primeira fusão)"
+	},{
+		"code": 314730,
+		"title": "Técnico de refratário em siderurgia"
+	},{
+		"code": 316105,
+		"title": "Técnico em geofísica"
+	},{
+		"code": 316110,
+		"title": "Técnico em geologia"
+	},{
+		"code": 316115,
+		"title": "Técnico em geoquímica"
+	},{
+		"code": 316120,
+		"title": "Técnico em geotecnia"
+	},{
+		"code": 316305,
+		"title": "Técnico de mineração"
+	},{
+		"code": 316310,
+		"title": "Técnico de mineração (óleo e petróleo)"
+	},{
+		"code": 316315,
+		"title": "Técnico em processamento mineral (exceto petróleo)"
+	},{
+		"code": 316320,
+		"title": "Técnico em pesquisa mineral"
+	},{
+		"code": 316325,
+		"title": "Técnico de produção em refino de petróleo"
+	},{
+		"code": 316330,
+		"title": "Técnico em planejamento de lavra de minas"
+	},{
+		"code": 316335,
+		"title": "Desincrustador (poços de petróleo)"
+	},{
+		"code": 316340,
+		"title": "Cimentador (poços de petróleo)"
+	},{
+		"code": 317105,
+		"title": "Desenvolvedor web (técnico)"
+	},{
+		"code": 317110,
+		"title": "Desenvolvedor de sistemas de tecnologia da informação (técnico)"
+	},{
+		"code": 317115,
+		"title": "Programador de máquinas - ferramenta com comando numérico"
+	},{
+		"code": 317120,
+		"title": "Desenvolvedor de multimídia"
+	},{
+		"code": 317205,
+		"title": "Operador de computador"
+	},{
+		"code": 317210,
+		"title": "Técnico de suporte ao usuário de tecnologia da informação"
+	},{
+		"code": 318005,
+		"title": "Desenhista técnico"
+	},{
+		"code": 318010,
+		"title": "Desenhista copista"
+	},{
+		"code": 318015,
+		"title": "Desenhista detalhista"
+	},{
+		"code": 318105,
+		"title": "Desenhista técnico (arquitetura)"
+	},{
+		"code": 318110,
+		"title": "Desenhista técnico (cartografia)"
+	},{
+		"code": 318115,
+		"title": "Desenhista técnico (construção civil)"
+	},{
+		"code": 318120,
+		"title": "Desenhista técnico (instalações hidrossanitárias)"
+	},{
+		"code": 318205,
+		"title": "Desenhista técnico mecânico"
+	},{
+		"code": 318210,
+		"title": "Desenhista técnico aeronáutico"
+	},{
+		"code": 318215,
+		"title": "Desenhista técnico naval"
+	},{
+		"code": 318305,
+		"title": "Desenhista técnico (eletricidade e eletrônica)"
+	},{
+		"code": 318310,
+		"title": "Desenhista técnico (calefação, ventilação e refrigeração)"
+	},{
+		"code": 318405,
+		"title": "Desenhista técnico (artes gráficas)"
+	},{
+		"code": 318410,
+		"title": "Desenhista técnico (ilustrações artísticas)"
+	},{
+		"code": 318415,
+		"title": "Desenhista técnico (ilustrações técnicas)"
+	},{
+		"code": 318420,
+		"title": "Desenhista técnico (indústria têxtil)"
+	},{
+		"code": 318425,
+		"title": "Desenhista técnico (mobiliário)"
+	},{
+		"code": 318430,
+		"title": "Desenhista técnico de embalagens, maquetes e leiautes"
+	},{
+		"code": 318505,
+		"title": "Desenhista projetista de arquitetura"
+	},{
+		"code": 318510,
+		"title": "Desenhista projetista de construção civil"
+	},{
+		"code": 318605,
+		"title": "Desenhista projetista de máquinas"
+	},{
+		"code": 318610,
+		"title": "Desenhista projetista mecânico"
+	},{
+		"code": 318705,
+		"title": "Desenhista projetista de eletricidade"
+	},{
+		"code": 318710,
+		"title": "Desenhista projetista eletrônico"
+	},{
+		"code": 318805,
+		"title": "Projetista de móveis"
+	},{
+		"code": 318810,
+		"title": "Modelista de roupas"
+	},{
+		"code": 318815,
+		"title": "Modelista de calçados"
+	},{
+		"code": 319105,
+		"title": "Técnico em calçados e artefatos de couro"
+	},{
+		"code": 319110,
+		"title": "Técnico em confecções do vestuário"
+	},{
+		"code": 319205,
+		"title": "Técnico do mobiliário"
+	},{
+		"code": 320105,
+		"title": "Técnico em bioterismo"
+	},{
+		"code": 320110,
+		"title": "Técnico em histologia"
+	},{
+		"code": 321105,
+		"title": "Técnico agrícola"
+	},{
+		"code": 321110,
+		"title": "Técnico agropecuário"
+	},{
+		"code": 321205,
+		"title": "Técnico em madeira"
+	},{
+		"code": 321210,
+		"title": "Técnico florestal"
+	},{
+		"code": 321305,
+		"title": "Técnico em piscicultura"
+	},{
+		"code": 321310,
+		"title": "Técnico em carcinicultura"
+	},{
+		"code": 321315,
+		"title": "Técnico em mitilicultura"
+	},{
+		"code": 321320,
+		"title": "Técnico em ranicultura"
+	},{
+		"code": 322105,
+		"title": "Técnico em acupuntura"
+	},{
+		"code": 322110,
+		"title": "Podólogo"
+	},{
+		"code": 322115,
+		"title": "Técnico em quiropraxia"
+	},{
+		"code": 322120,
+		"title": "Massoterapeuta"
+	},{
+		"code": 322125,
+		"title": "Terapeuta holístico"
+	},{
+		"code": 322130,
+		"title": "Esteticista"
+	},{
+		"code": 322135,
+		"title": "Doula"
+	},{
+		"code": 322205,
+		"title": "Técnico de enfermagem"
+	},{
+		"code": 322210,
+		"title": "Técnico de enfermagem de terapia intensiva"
+	},{
+		"code": 322215,
+		"title": "Técnico de enfermagem do trabalho"
+	},{
+		"code": 322220,
+		"title": "Técnico de enfermagem psiquiátrica"
+	},{
+		"code": 322225,
+		"title": "Instrumentador cirúrgico"
+	},{
+		"code": 322230,
+		"title": "Auxiliar de enfermagem"
+	},{
+		"code": 322235,
+		"title": "Auxiliar de enfermagem do trabalho"
+	},{
+		"code": 322240,
+		"title": "Auxiliar de saúde (navegação marítima)"
+	},{
+		"code": 322245,
+		"title": "Técnico de enfermagem da estratégia de saúde da família"
+	},{
+		"code": 322250,
+		"title": "Auxiliar de enfermagem da estratégia de saúde da família"
+	},{
+		"code": 322305,
+		"title": "Técnico em óptica e optometria"
+	},{
+		"code": 322405,
+		"title": "Técnico em saúde bucal"
+	},{
+		"code": 322410,
+		"title": "Protético dentário"
+	},{
+		"code": 322415,
+		"title": "Auxiliar em saúde bucal"
+	},{
+		"code": 322420,
+		"title": "Auxiliar de prótese dentária"
+	},{
+		"code": 322425,
+		"title": "Técnico em saúde bucal da estratégia de saúde da família"
+	},{
+		"code": 322430,
+		"title": "Auxiliar em saúde bucal da estratégia de saúde da família"
+	},{
+		"code": 322505,
+		"title": "Técnico de ortopedia"
+	},{
+		"code": 322605,
+		"title": "Técnico de imobilização ortopédica"
+	},{
+		"code": 323105,
+		"title": "Técnico em pecuária"
+	},{
+		"code": 324105,
+		"title": "Técnico em métodos eletrográficos em encefalografia"
+	},{
+		"code": 324110,
+		"title": "Técnico em métodos gráficos em cardiologia"
+	},{
+		"code": 324115,
+		"title": "Técnico em radiologia e imagenologia"
+	},{
+		"code": 324120,
+		"title": "Tecnólogo em radiologia"
+	},{
+		"code": 324125,
+		"title": "Tecnólogo oftálmico"
+	},{
+		"code": 324130,
+		"title": "Técnico em espirometria"
+	},{
+		"code": 324135,
+		"title": "Técnico em polissonografia"
+	},{
+		"code": 324205,
+		"title": "Técnico em patologia clínica"
+	},{
+		"code": 324215,
+		"title": "Citotécnico"
+	},{
+		"code": 324220,
+		"title": "Técnico em hemoterapia"
+	},{
+		"code": 325005,
+		"title": "Enólogo"
+	},{
+		"code": 325010,
+		"title": "Aromista"
+	},{
+		"code": 325015,
+		"title": "Perfumista"
+	},{
+		"code": 325105,
+		"title": "Auxiliar técnico em laboratório de farmácia"
+	},{
+		"code": 325110,
+		"title": "Técnico em laboratório de farmácia"
+	},{
+		"code": 325115,
+		"title": "Técnico em farmácia"
+	},{
+		"code": 325205,
+		"title": "Técnico de alimentos"
+	},{
+		"code": 325210,
+		"title": "Técnico em nutrição e dietética"
+	},{
+		"code": 325305,
+		"title": "Técnico em biotecnologia"
+	},{
+		"code": 325310,
+		"title": "Técnico em imunobiológicos"
+	},{
+		"code": 328105,
+		"title": "Embalsamador"
+	},{
+		"code": 328110,
+		"title": "Taxidermista"
+	},{
+		"code": 331105,
+		"title": "Professor de nível médio na educação infantil"
+	},{
+		"code": 331110,
+		"title": "Auxiliar de desenvolvimento infantil"
+	},{
+		"code": 331205,
+		"title": "Professor de nível médio no ensino fundamental"
+	},{
+		"code": 331305,
+		"title": "Professor de nível médio no ensino profissionalizante"
+	},{
+		"code": 332105,
+		"title": "Professor leigo no ensino fundamental"
+	},{
+		"code": 332205,
+		"title": "Professor prático no ensino profissionalizante"
+	},{
+		"code": 333105,
+		"title": "Instrutor de auto-escola"
+	},{
+		"code": 333110,
+		"title": "Instrutor de cursos livres"
+	},{
+		"code": 333115,
+		"title": "Professores de cursos livres"
+	},{
+		"code": 334105,
+		"title": "Inspetor de alunos de escola privada"
+	},{
+		"code": 334110,
+		"title": "Inspetor de alunos de escola pública"
+	},{
+		"code": 334115,
+		"title": "Monitor de transporte escolar"
+	},{
+		"code": 341105,
+		"title": "Piloto comercial (exceto linhas aéreas)"
+	},{
+		"code": 341110,
+		"title": "Piloto comercial de helicóptero (exceto linhas aéreas)"
+	},{
+		"code": 341115,
+		"title": "Mecânico de vôo"
+	},{
+		"code": 341120,
+		"title": "Piloto agrícola"
+	},{
+		"code": 341205,
+		"title": "Contramestre de cabotagem"
+	},{
+		"code": 341210,
+		"title": "Mestre de cabotagem"
+	},{
+		"code": 341215,
+		"title": "Mestre fluvial"
+	},{
+		"code": 341220,
+		"title": "Patrão de pesca de alto-mar"
+	},{
+		"code": 341225,
+		"title": "Patrão de pesca na navegação interior"
+	},{
+		"code": 341230,
+		"title": "Piloto fluvial"
+	},{
+		"code": 341235,
+		"title": "Ténico em sinalização nautica"
+	},{
+		"code": 341240,
+		"title": "Técnicos em manobras em equipamentos de convés"
+	},{
+		"code": 341245,
+		"title": "Técnico em sinais navais"
+	},{
+		"code": 341250,
+		"title": "Auxiliar técnico de sinalização nautica"
+	},{
+		"code": 341305,
+		"title": "Condutor maquinista motorista fluvial"
+	},{
+		"code": 341310,
+		"title": "Condutor de máquinas"
+	},{
+		"code": 341315,
+		"title": "Eletricista de bordo"
+	},{
+		"code": 341320,
+		"title": "Condutor de máquinas (bombeador)"
+	},{
+		"code": 341325,
+		"title": "Condutor de máquinas (mecânico)"
+	},{
+		"code": 342105,
+		"title": "Analista de transporte em comércio exterior"
+	},{
+		"code": 342110,
+		"title": "Operador de transporte multimodal"
+	},{
+		"code": 342115,
+		"title": "Controlador de serviços de máquinas e veículos"
+	},{
+		"code": 342120,
+		"title": "Afretador"
+	},{
+		"code": 342125,
+		"title": "Tecnólogo em logística de transporte"
+	},{
+		"code": 342205,
+		"title": "Ajudante de despachante aduaneiro"
+	},{
+		"code": 342210,
+		"title": "Despachante aduaneiro"
+	},{
+		"code": 342215,
+		"title": "Analista de desembaraço aduaneiro"
+	},{
+		"code": 342305,
+		"title": "Chefe de serviço de transporte rodoviário (passageiros e cargas)"
+	},{
+		"code": 342310,
+		"title": "Inspetor de serviços de transportes rodoviários (passageiros e cargas)"
+	},{
+		"code": 342315,
+		"title": "Supervisor de carga e descarga"
+	},{
+		"code": 342405,
+		"title": "Agente de estação (ferrovia e metrô)"
+	},{
+		"code": 342410,
+		"title": "Operador de centro de controle (ferrovia e metrô)"
+	},{
+		"code": 342505,
+		"title": "Controlador de tráfego aéreo"
+	},{
+		"code": 342510,
+		"title": "Despachante operacional de vôo"
+	},{
+		"code": 342515,
+		"title": "Fiscal de aviação civil (fac)"
+	},{
+		"code": 342530,
+		"title": "Inspetor de aviação civil"
+	},{
+		"code": 342535,
+		"title": "Operador de atendimento aeroviário"
+	},{
+		"code": 342540,
+		"title": "Supervisor da administração de aeroportos"
+	},{
+		"code": 342545,
+		"title": "Supervisor de empresa aérea em aeroportos"
+	},{
+		"code": 342550,
+		"title": "Agente de proteção de aviação civil"
+	},{
+		"code": 342555,
+		"title": "Fiscal de pista de aeroporto"
+	},{
+		"code": 342560,
+		"title": "Lider de rampa ( transporte aéreo)"
+	},{
+		"code": 342605,
+		"title": "Chefe de estação portuária"
+	},{
+		"code": 342610,
+		"title": "Supervisor de operações portuárias"
+	},{
+		"code": 351105,
+		"title": "Técnico de contabilidade"
+	},{
+		"code": 351110,
+		"title": "Chefe de contabilidade (técnico)"
+	},{
+		"code": 351115,
+		"title": "Consultor contábil (técnico)"
+	},{
+		"code": 351305,
+		"title": "Técnico em administração"
+	},{
+		"code": 351310,
+		"title": "Técnico em administração de comércio exterior"
+	},{
+		"code": 351315,
+		"title": "Agente de recrutamento e seleção"
+	},{
+		"code": 351405,
+		"title": "Escrevente"
+	},{
+		"code": 351410,
+		"title": "Escrivão judicial"
+	},{
+		"code": 351415,
+		"title": "Escrivão extra - judicial"
+	},{
+		"code": 351420,
+		"title": "Escrivão de polícia"
+	},{
+		"code": 351425,
+		"title": "Oficial de justiça"
+	},{
+		"code": 351430,
+		"title": "Auxiliar de serviços jurídicos"
+	},{
+		"code": 351505,
+		"title": "Técnico em secretariado"
+	},{
+		"code": 351510,
+		"title": "Taquígrafo"
+	},{
+		"code": 351515,
+		"title": "Estenotipista"
+	},{
+		"code": 351605,
+		"title": "Técnico em segurança do trabalho"
+	},{
+		"code": 351610,
+		"title": "Técnico em higiene ocupacional"
+	},{
+		"code": 351705,
+		"title": "Analista de seguros (técnico)"
+	},{
+		"code": 351710,
+		"title": "Analista de sinistros"
+	},{
+		"code": 351715,
+		"title": "Assistente comercial de seguros"
+	},{
+		"code": 351720,
+		"title": "Assistente técnico de seguros"
+	},{
+		"code": 351725,
+		"title": "Inspetor de risco"
+	},{
+		"code": 351730,
+		"title": "Inspetor de sinistros"
+	},{
+		"code": 351735,
+		"title": "Técnico de resseguros"
+	},{
+		"code": 351740,
+		"title": "Técnico de seguros"
+	},{
+		"code": 351805,
+		"title": "Detetive profissional"
+	},{
+		"code": 351810,
+		"title": "Investigador de polícia"
+	},{
+		"code": 351815,
+		"title": "Papiloscopista policial"
+	},{
+		"code": 351905,
+		"title": "Agente de inteligência"
+	},{
+		"code": 351910,
+		"title": "Agente técnico de inteligência"
+	},{
+		"code": 352205,
+		"title": "Agente de defesa ambiental"
+	},{
+		"code": 352210,
+		"title": "Agente de saúde pública"
+	},{
+		"code": 352305,
+		"title": "Metrologista"
+	},{
+		"code": 352310,
+		"title": "Agente fiscal de qualidade"
+	},{
+		"code": 352315,
+		"title": "Agente fiscal metrológico"
+	},{
+		"code": 352320,
+		"title": "Agente fiscal têxtil"
+	},{
+		"code": 352405,
+		"title": "Agente de direitos autorais"
+	},{
+		"code": 352410,
+		"title": "Avaliador de produtos do meio de comunicação"
+	},{
+		"code": 352420,
+		"title": "Técnico em direitos autorais"
+	},{
+		"code": 353205,
+		"title": "Técnico de operações e serviços bancários - câmbio"
+	},{
+		"code": 353210,
+		"title": "Técnico de operações e serviços bancários - crédito imobiliário"
+	},{
+		"code": 353215,
+		"title": "Técnico de operações e serviços bancários - crédito rural"
+	},{
+		"code": 353220,
+		"title": "Técnico de operações e serviços bancários - leasing"
+	},{
+		"code": 353225,
+		"title": "Técnico de operações e serviços bancários - renda fixa e variável"
+	},{
+		"code": 353230,
+		"title": "Tesoureiro de banco"
+	},{
+		"code": 353235,
+		"title": "Chefe de serviços bancários"
+	},{
+		"code": 354120,
+		"title": "Agente de vendas de serviços"
+	},{
+		"code": 354125,
+		"title": "Assistente de vendas"
+	},{
+		"code": 354130,
+		"title": "Promotor de vendas especializado"
+	},{
+		"code": 354135,
+		"title": "Técnico de vendas"
+	},{
+		"code": 354140,
+		"title": "Técnico em atendimento e vendas"
+	},{
+		"code": 354145,
+		"title": "Vendedor pracista"
+	},{
+		"code": 354150,
+		"title": "Propagandista de produtos famacêuticos"
+	},{
+		"code": 354205,
+		"title": "Comprador"
+	},{
+		"code": 354210,
+		"title": "Supervisor de compras"
+	},{
+		"code": 354305,
+		"title": "Analista de exportação e importação"
+	},{
+		"code": 354405,
+		"title": "Leiloeiro"
+	},{
+		"code": 354410,
+		"title": "Avaliador de imóveis"
+	},{
+		"code": 354415,
+		"title": "Avaliador de bens móveis"
+	},{
+		"code": 354505,
+		"title": "Corretor de seguros"
+	},{
+		"code": 354605,
+		"title": "Corretor de imóveis"
+	},{
+		"code": 354705,
+		"title": "Representante comercial autônomo"
+	},{
+		"code": 354805,
+		"title": "Técnico em turismo"
+	},{
+		"code": 354810,
+		"title": "Operador de turismo"
+	},{
+		"code": 354815,
+		"title": "Agente de viagem"
+	},{
+		"code": 354820,
+		"title": "Organizador de evento"
+	},{
+		"code": 354825,
+		"title": "Cerimonialista"
+	},{
+		"code": 371105,
+		"title": "Auxiliar de biblioteca"
+	},{
+		"code": 371110,
+		"title": "Técnico em biblioteconomia"
+	},{
+		"code": 371205,
+		"title": "Colecionador de selos e moedas"
+	},{
+		"code": 371210,
+		"title": "Técnico em museologia"
+	},{
+		"code": 371305,
+		"title": "Técnico em programação visual"
+	},{
+		"code": 371310,
+		"title": "Técnico gráfico"
+	},{
+		"code": 371405,
+		"title": "Recreador de acantonamento"
+	},{
+		"code": 371410,
+		"title": "Recreador"
+	},{
+		"code": 372105,
+		"title": "Diretor de fotografia"
+	},{
+		"code": 372110,
+		"title": "Iluminador (televisão)"
+	},{
+		"code": 372115,
+		"title": "Operador de câmera de televisão"
+	},{
+		"code": 372205,
+		"title": "Operador de rede de teleprocessamento"
+	},{
+		"code": 372210,
+		"title": "Radiotelegrafista"
+	},{
+		"code": 373105,
+		"title": "Operador de mídia audiovisual"
+	},{
+		"code": 373130,
+		"title": "Técnico de sistemas audiovisuais"
+	},{
+		"code": 373135,
+		"title": "Operador de controle mestre"
+	},{
+		"code": 373140,
+		"title": "Coordenador de programação"
+	},{
+		"code": 373145,
+		"title": "Assistente de operações audiovisuais"
+	},{
+		"code": 373220,
+		"title": "Supervisor técnico operacional de sistemas de televisão e produtoras de vídeo"
+	},{
+		"code": 373225,
+		"title": "Supervisor de operações (mídias audiovisuais)"
+	},{
+		"code": 373230,
+		"title": "Supervisor técnico (mídias audiovisuais)"
+	},{
+		"code": 374105,
+		"title": "Técnico em gravação de áudio"
+	},{
+		"code": 374110,
+		"title": "Técnico em instalação de equipamentos de áudio"
+	},{
+		"code": 374115,
+		"title": "Técnico em masterização de áudio"
+	},{
+		"code": 374120,
+		"title": "Projetista de som"
+	},{
+		"code": 374125,
+		"title": "Técnico em sonorização"
+	},{
+		"code": 374130,
+		"title": "Técnico em mixagem de áudio"
+	},{
+		"code": 374135,
+		"title": "Projetista de sistemas de áudio"
+	},{
+		"code": 374140,
+		"title": "Microfonista"
+	},{
+		"code": 374145,
+		"title": "Dj (disc jockey)"
+	},{
+		"code": 374150,
+		"title": "Sonoplasta"
+	},{
+		"code": 374155,
+		"title": "Analista musical"
+	},{
+		"code": 374205,
+		"title": "Cenotécnico (cinema, vídeo, televisão, teatro e espetáculos)"
+	},{
+		"code": 374210,
+		"title": "Maquinista de cinema e vídeo"
+	},{
+		"code": 374215,
+		"title": "Maquinista de teatro e espetáculos"
+	},{
+		"code": 374305,
+		"title": "Operador de projetor cinematográfico"
+	},{
+		"code": 374310,
+		"title": "Operador-mantenedor de projetor cinematográfico"
+	},{
+		"code": 374405,
+		"title": "Editor de mídia audiovisual"
+	},{
+		"code": 374410,
+		"title": "Finalizador de filmes"
+	},{
+		"code": 374415,
+		"title": "Finalizador de vídeo"
+	},{
+		"code": 374420,
+		"title": "Montador de filmes"
+	},{
+		"code": 374425,
+		"title": "Diretor de imagens (tv)"
+	},{
+		"code": 375105,
+		"title": "Designer de interiores"
+	},{
+		"code": 375110,
+		"title": "Designer de vitrines"
+	},{
+		"code": 375115,
+		"title": "Visual merchandiser"
+	},{
+		"code": 375120,
+		"title": "Decorador de eventos"
+	},{
+		"code": 375125,
+		"title": "Produtor de moda"
+	},{
+		"code": 376105,
+		"title": "Dançarino tradicional"
+	},{
+		"code": 376110,
+		"title": "Dançarino popular"
+	},{
+		"code": 376205,
+		"title": "Acrobata"
+	},{
+		"code": 376210,
+		"title": "Artista aéreo"
+	},{
+		"code": 376215,
+		"title": "Artista de circo (outros)"
+	},{
+		"code": 376220,
+		"title": "Contorcionista"
+	},{
+		"code": 376225,
+		"title": "Domador de animais (circense)"
+	},{
+		"code": 376230,
+		"title": "Equilibrista"
+	},{
+		"code": 376235,
+		"title": "Mágico"
+	},{
+		"code": 376240,
+		"title": "Malabarista"
+	},{
+		"code": 376245,
+		"title": "Palhaço"
+	},{
+		"code": 376250,
+		"title": "Titeriteiro"
+	},{
+		"code": 376255,
+		"title": "Trapezista"
+	},{
+		"code": 376305,
+		"title": "Apresentador de eventos"
+	},{
+		"code": 376310,
+		"title": "Apresentador de festas populares"
+	},{
+		"code": 376315,
+		"title": "Apresentador de programas de rádio"
+	},{
+		"code": 376320,
+		"title": "Apresentador de programas de televisão"
+	},{
+		"code": 376325,
+		"title": "Apresentador de circo"
+	},{
+		"code": 376330,
+		"title": "Mestre de cerimonias"
+	},{
+		"code": 376405,
+		"title": "Modelo artístico"
+	},{
+		"code": 376410,
+		"title": "Modelo de modas"
+	},{
+		"code": 376415,
+		"title": "Modelo publicitário"
+	},{
+		"code": 377105,
+		"title": "Atleta profissional (outras modalidades)"
+	},{
+		"code": 377110,
+		"title": "Atleta profissional de futebol"
+	},{
+		"code": 377115,
+		"title": "Atleta profissional de golfe"
+	},{
+		"code": 377120,
+		"title": "Atleta profissional de luta"
+	},{
+		"code": 377125,
+		"title": "Atleta profissional de tênis"
+	},{
+		"code": 377130,
+		"title": "Jóquei"
+	},{
+		"code": 377135,
+		"title": "Piloto de competição automobilística"
+	},{
+		"code": 377140,
+		"title": "Profissional de atletismo"
+	},{
+		"code": 377145,
+		"title": "Pugilista"
+	},{
+		"code": 377205,
+		"title": "Árbitro desportivo"
+	},{
+		"code": 377210,
+		"title": "Árbitro de atletismo"
+	},{
+		"code": 377215,
+		"title": "Árbitro de basquete"
+	},{
+		"code": 377220,
+		"title": "Árbitro de futebol"
+	},{
+		"code": 377225,
+		"title": "Árbitro de futebol de salão"
+	},{
+		"code": 377230,
+		"title": "Árbitro de judô"
+	},{
+		"code": 377235,
+		"title": "Árbitro de karatê"
+	},{
+		"code": 377240,
+		"title": "Árbitro de poló aquático"
+	},{
+		"code": 377245,
+		"title": "Árbitro de vôlei"
+	},{
+		"code": 391105,
+		"title": "Cronoanalista"
+	},{
+		"code": 391110,
+		"title": "Cronometrista"
+	},{
+		"code": 391115,
+		"title": "Controlador de entrada e saída"
+	},{
+		"code": 391120,
+		"title": "Planejista"
+	},{
+		"code": 391125,
+		"title": "Técnico de planejamento de produção"
+	},{
+		"code": 391130,
+		"title": "Técnico de planejamento e programação da manutenção"
+	},{
+		"code": 391135,
+		"title": "Técnico de matéria-prima e material"
+	},{
+		"code": 391140,
+		"title": "Analista de manutenção (equipamentos aéreos)"
+	},{
+		"code": 391145,
+		"title": "Analista de planejamento de manutenção"
+	},{
+		"code": 391205,
+		"title": "Inspetor de qualidade"
+	},{
+		"code": 391210,
+		"title": "Técnico de garantia da qualidade"
+	},{
+		"code": 391215,
+		"title": "Operador de inspeção de qualidade"
+	},{
+		"code": 391220,
+		"title": "Técnico de painel de controle"
+	},{
+		"code": 391225,
+		"title": "Escolhedor de papel"
+	},{
+		"code": 391230,
+		"title": "Técnico operacional de serviços de correios"
+	},{
+		"code": 395105,
+		"title": "Técnico de apoio em pesquisa e desenvolvimento (exceto agropecuário e florestal)"
+	},{
+		"code": 395110,
+		"title": "Técnico de apoio em pesquisa e desenvolvimento agropecuário florestal"
+	},{
+		"code": 410105,
+		"title": "Supervisor administrativo"
+	},{
+		"code": 410205,
+		"title": "Supervisor de almoxarifado"
+	},{
+		"code": 410210,
+		"title": "Supervisor de câmbio"
+	},{
+		"code": 410215,
+		"title": "Supervisor de contas a pagar"
+	},{
+		"code": 410220,
+		"title": "Supervisor de controle patrimonial"
+	},{
+		"code": 410225,
+		"title": "Supervisor de crédito e cobrança"
+	},{
+		"code": 410230,
+		"title": "Supervisor de orçamento"
+	},{
+		"code": 410235,
+		"title": "Supervisor de tesouraria"
+	},{
+		"code": 410240,
+		"title": "Supervisor de logística"
+	},{
+		"code": 411005,
+		"title": "Auxiliar de escritório"
+	},{
+		"code": 411010,
+		"title": "Assistente administrativo"
+	},{
+		"code": 411015,
+		"title": "Atendente de judiciário"
+	},{
+		"code": 411020,
+		"title": "Auxiliar de judiciário"
+	},{
+		"code": 411025,
+		"title": "Auxiliar de cartório"
+	},{
+		"code": 411030,
+		"title": "Auxiliar de pessoal"
+	},{
+		"code": 411035,
+		"title": "Auxiliar de estatística"
+	},{
+		"code": 411040,
+		"title": "Auxiliar de seguros"
+	},{
+		"code": 411045,
+		"title": "Auxiliar de serviços de importação e exportação"
+	},{
+		"code": 411050,
+		"title": "Agente de microcrédito"
+	},{
+		"code": 412105,
+		"title": "Datilógrafo"
+	},{
+		"code": 412110,
+		"title": "Digitador"
+	},{
+		"code": 412115,
+		"title": "Operador de mensagens de telecomunicações (correios)"
+	},{
+		"code": 412120,
+		"title": "Supervisor de digitação e operação"
+	},{
+		"code": 412205,
+		"title": "Contínuo"
+	},{
+		"code": 413105,
+		"title": "Analista de folha de pagamento"
+	},{
+		"code": 413110,
+		"title": "Auxiliar de contabilidade"
+	},{
+		"code": 413115,
+		"title": "Auxiliar de faturamento"
+	},{
+		"code": 413205,
+		"title": "Atendente de agência"
+	},{
+		"code": 413210,
+		"title": "Caixa de banco"
+	},{
+		"code": 413215,
+		"title": "Compensador de banco"
+	},{
+		"code": 413220,
+		"title": "Conferente de serviços bancários"
+	},{
+		"code": 413225,
+		"title": "Escriturário de banco"
+	},{
+		"code": 413230,
+		"title": "Operador de cobrança bancária"
+	},{
+		"code": 414105,
+		"title": "Almoxarife"
+	},{
+		"code": 414110,
+		"title": "Armazenista"
+	},{
+		"code": 414115,
+		"title": "Balanceiro"
+	},{
+		"code": 414120,
+		"title": "Conferente mercadoria (exceto carga e descarga)"
+	},{
+		"code": 414125,
+		"title": "Estoquista"
+	},{
+		"code": 414135,
+		"title": "Expedidor de mercadorias"
+	},{
+		"code": 414140,
+		"title": "Auxiliar de logistica"
+	},{
+		"code": 414205,
+		"title": "Apontador de mão-de-obra"
+	},{
+		"code": 414210,
+		"title": "Apontador de produção"
+	},{
+		"code": 414215,
+		"title": "Conferente de carga e descarga"
+	},{
+		"code": 415105,
+		"title": "Arquivista de documentos"
+	},{
+		"code": 415115,
+		"title": "Codificador de dados"
+	},{
+		"code": 415120,
+		"title": "Fitotecário"
+	},{
+		"code": 415125,
+		"title": "Kardexista"
+	},{
+		"code": 415130,
+		"title": "Operador de máquina copiadora (exceto operador de gráfica rápida)"
+	},{
+		"code": 415205,
+		"title": "Carteiro"
+	},{
+		"code": 415210,
+		"title": "Operador de triagem e transbordo"
+	},{
+		"code": 415215,
+		"title": "Entregador de publicações"
+	},{
+		"code": 415305,
+		"title": "Registrador de câncer"
+	},{
+		"code": 420105,
+		"title": "Supervisor de caixas e bilheteiros (exceto caixa de banco)"
+	},{
+		"code": 420110,
+		"title": "Supervisor de cobrança"
+	},{
+		"code": 420115,
+		"title": "Supervisor de coletadores de apostas e de jogos"
+	},{
+		"code": 420120,
+		"title": "Supervisor de entrevistadores e recenseadores"
+	},{
+		"code": 420125,
+		"title": "Supervisor de recepcionistas"
+	},{
+		"code": 420130,
+		"title": "Supervisor de telefonistas"
+	},{
+		"code": 420135,
+		"title": "Supervisor de telemarketing e atendimento"
+	},{
+		"code": 421105,
+		"title": "Atendente comercial (agência postal)"
+	},{
+		"code": 421110,
+		"title": "Bilheteiro de transportes coletivos"
+	},{
+		"code": 421115,
+		"title": "Bilheteiro no serviço de diversões"
+	},{
+		"code": 421120,
+		"title": "Emissor de passagens"
+	},{
+		"code": 421125,
+		"title": "Operador de caixa"
+	},{
+		"code": 421205,
+		"title": "Recebedor de apostas (loteria)"
+	},{
+		"code": 421210,
+		"title": "Recebedor de apostas (turfe)"
+	},{
+		"code": 421305,
+		"title": "Cobrador externo"
+	},{
+		"code": 421310,
+		"title": "Cobrador interno"
+	},{
+		"code": 421315,
+		"title": "Localizador (cobrador)"
+	},{
+		"code": 422105,
+		"title": "Recepcionista, em geral"
+	},{
+		"code": 422110,
+		"title": "Recepcionista de consultório médico ou dentário"
+	},{
+		"code": 422115,
+		"title": "Recepcionista de seguro saúde"
+	},{
+		"code": 422120,
+		"title": "Recepcionista de hotel"
+	},{
+		"code": 422125,
+		"title": "Recepcionista de banco"
+	},{
+		"code": 422130,
+		"title": "Concierge"
+	},{
+		"code": 422205,
+		"title": "Telefonista"
+	},{
+		"code": 422210,
+		"title": "Teleoperador"
+	},{
+		"code": 422215,
+		"title": "Monitor de teleatendimento"
+	},{
+		"code": 422220,
+		"title": "Operador de rádio-chamada"
+	},{
+		"code": 422305,
+		"title": "Operador de telemarketing ativo"
+	},{
+		"code": 422310,
+		"title": "Operador de telemarketing ativo e receptivo"
+	},{
+		"code": 422315,
+		"title": "Operador de telemarketing receptivo"
+	},{
+		"code": 422320,
+		"title": "Operador de telemarketing técnico"
+	},{
+		"code": 423105,
+		"title": "Despachante documentalista"
+	},{
+		"code": 423110,
+		"title": "Despachante de trânsito"
+	},{
+		"code": 424105,
+		"title": "Entrevistador censitário e de pesquisas amostrais"
+	},{
+		"code": 424110,
+		"title": "Entrevistador de pesquisa de opinião e mídia"
+	},{
+		"code": 424115,
+		"title": "Entrevistador de pesquisas de mercado"
+	},{
+		"code": 424120,
+		"title": "Entrevistador de preços"
+	},{
+		"code": 424125,
+		"title": "Escriturário  em  estatística"
+	},{
+		"code": 424130,
+		"title": "Entrevistador social"
+	},{
+		"code": 424205,
+		"title": "Coordenador de provas (concurso, avaliação, exame)"
+	},{
+		"code": 424210,
+		"title": "Aplicador de provas (concurso, avaliação,exame)"
+	},{
+		"code": 510105,
+		"title": "Supervisor de transportes"
+	},{
+		"code": 510110,
+		"title": "Administrador de edifícios"
+	},{
+		"code": 510115,
+		"title": "Supervisor de andar"
+	},{
+		"code": 510120,
+		"title": "Chefe de portaria de hotel"
+	},{
+		"code": 510130,
+		"title": "Chefe de bar"
+	},{
+		"code": 510135,
+		"title": "Maître"
+	},{
+		"code": 510205,
+		"title": "Supervisor de lavanderia"
+	},{
+		"code": 510305,
+		"title": "Supervisor de bombeiros"
+	},{
+		"code": 510310,
+		"title": "Supervisor de vigilantes"
+	},{
+		"code": 511105,
+		"title": "Comissário de vôo"
+	},{
+		"code": 511110,
+		"title": "Comissário de trem"
+	},{
+		"code": 511115,
+		"title": "Taifeiro (exceto militares)"
+	},{
+		"code": 511205,
+		"title": "Fiscal de transportes coletivos (exceto trem)"
+	},{
+		"code": 511210,
+		"title": "Despachante de transportes coletivos (exceto trem)"
+	},{
+		"code": 511215,
+		"title": "Cobrador de transportes coletivos (exceto trem)"
+	},{
+		"code": 511220,
+		"title": "Bilheteiro (estações de metrô, ferroviárias e assemelhadas)"
+	},{
+		"code": 511405,
+		"title": "Guia de turismo"
+	},{
+		"code": 511505,
+		"title": "Condutor de turismo de aventura"
+	},{
+		"code": 511510,
+		"title": "Condutor de turismo de pesca"
+	},{
+		"code": 512105,
+		"title": "Empregado  doméstico  nos serviços gerais"
+	},{
+		"code": 512110,
+		"title": "Empregado doméstico  arrumador"
+	},{
+		"code": 512115,
+		"title": "Empregado doméstico  faxineiro"
+	},{
+		"code": 512120,
+		"title": "Empregado doméstico diarista"
+	},{
+		"code": 513105,
+		"title": "Mordomo de residência"
+	},{
+		"code": 513110,
+		"title": "Mordomo de hotelaria"
+	},{
+		"code": 513115,
+		"title": "Governanta de hotelaria"
+	},{
+		"code": 513205,
+		"title": "Cozinheiro geral"
+	},{
+		"code": 513210,
+		"title": "Cozinheiro do serviço doméstico"
+	},{
+		"code": 513215,
+		"title": "Cozinheiro industrial"
+	},{
+		"code": 513220,
+		"title": "Cozinheiro de hospital"
+	},{
+		"code": 513225,
+		"title": "Cozinheiro de embarcações"
+	},{
+		"code": 513305,
+		"title": "Camareira de teatro"
+	},{
+		"code": 513310,
+		"title": "Camareira de televisão"
+	},{
+		"code": 513315,
+		"title": "Camareiro  de hotel"
+	},{
+		"code": 513320,
+		"title": "Camareiro de embarcações"
+	},{
+		"code": 513325,
+		"title": "Guarda-roupeira de cinema"
+	},{
+		"code": 513405,
+		"title": "Garçom"
+	},{
+		"code": 513410,
+		"title": "Garçom (serviços de vinhos)"
+	},{
+		"code": 513415,
+		"title": "Cumim"
+	},{
+		"code": 513420,
+		"title": "Barman"
+	},{
+		"code": 513425,
+		"title": "Copeiro"
+	},{
+		"code": 513430,
+		"title": "Copeiro de hospital"
+	},{
+		"code": 513435,
+		"title": "Atendente de lanchonete"
+	},{
+		"code": 513440,
+		"title": "Barista"
+	},{
+		"code": 513505,
+		"title": "Auxiliar nos serviços de alimentação"
+	},{
+		"code": 513605,
+		"title": "Churrasqueiro"
+	},{
+		"code": 513610,
+		"title": "Pizzaiolo"
+	},{
+		"code": 513615,
+		"title": "Sushiman"
+	},{
+		"code": 514105,
+		"title": "Ascensorista"
+	},{
+		"code": 514110,
+		"title": "Garagista"
+	},{
+		"code": 514115,
+		"title": "Sacristão"
+	},{
+		"code": 514120,
+		"title": "Zelador de edifício"
+	},{
+		"code": 514205,
+		"title": "Coletor de lixo domiciliar"
+	},{
+		"code": 514215,
+		"title": "Varredor de rua"
+	},{
+		"code": 514225,
+		"title": "Trabalhador de serviços de limpeza e conservação de áreas públicas"
+	},{
+		"code": 514230,
+		"title": "Coletor de resíduos sólidos de serviços de saúde"
+	},{
+		"code": 514305,
+		"title": "Limpador de vidros"
+	},{
+		"code": 514310,
+		"title": "Auxiliar de manutenção predial"
+	},{
+		"code": 514315,
+		"title": "Limpador de fachadas"
+	},{
+		"code": 514320,
+		"title": "Faxineiro"
+	},{
+		"code": 514325,
+		"title": "Trabalhador da manutenção de edificações"
+	},{
+		"code": 514330,
+		"title": "Limpador de piscinas"
+	},{
+		"code": 515105,
+		"title": "Agente comunitário de saúde"
+	},{
+		"code": 515110,
+		"title": "Atendente de enfermagem"
+	},{
+		"code": 515115,
+		"title": "Parteira leiga"
+	},{
+		"code": 515120,
+		"title": "Visitador sanitário"
+	},{
+		"code": 515125,
+		"title": "Agente indígena de saúde"
+	},{
+		"code": 515130,
+		"title": "Agente indígena de saneamento"
+	},{
+		"code": 515135,
+		"title": "Socorrista (exceto médicos e enfermeiros)"
+	},{
+		"code": 515140,
+		"title": "Agente de combate às endemias"
+	},{
+		"code": 515205,
+		"title": "Auxiliar de banco de sangue"
+	},{
+		"code": 515210,
+		"title": "Auxiliar de farmácia de manipulação"
+	},{
+		"code": 515215,
+		"title": "Auxiliar de laboratório de análises clínicas"
+	},{
+		"code": 515220,
+		"title": "Auxiliar de laboratório de imunobiológicos"
+	},{
+		"code": 515225,
+		"title": "Auxiliar de produção farmacêutica"
+	},{
+		"code": 515305,
+		"title": "Educador social"
+	},{
+		"code": 515310,
+		"title": "Agente de ação social"
+	},{
+		"code": 515315,
+		"title": "Monitor de dependente químico"
+	},{
+		"code": 515320,
+		"title": "Conselheiro tutelar"
+	},{
+		"code": 515325,
+		"title": "Sócioeducador"
+	},{
+		"code": 515330,
+		"title": "Monitor de ressocialização prisional"
+	},{
+		"code": 516105,
+		"title": "Barbeiro"
+	},{
+		"code": 516110,
+		"title": "Cabeleireiro"
+	},{
+		"code": 516120,
+		"title": "Manicure"
+	},{
+		"code": 516125,
+		"title": "Maquiador"
+	},{
+		"code": 516130,
+		"title": "Maquiador de caracterização"
+	},{
+		"code": 516140,
+		"title": "Pedicure"
+	},{
+		"code": 516205,
+		"title": "Babá"
+	},{
+		"code": 516210,
+		"title": "Cuidador de idosos"
+	},{
+		"code": 516215,
+		"title": "Mãe social"
+	},{
+		"code": 516220,
+		"title": "Cuidador em saúde"
+	},{
+		"code": 516305,
+		"title": "Lavadeiro, em geral"
+	},{
+		"code": 516310,
+		"title": "Lavador de roupas  a maquina"
+	},{
+		"code": 516315,
+		"title": "Lavador de artefatos de tapeçaria"
+	},{
+		"code": 516320,
+		"title": "Limpador a seco, à máquina"
+	},{
+		"code": 516325,
+		"title": "Passador de roupas em geral"
+	},{
+		"code": 516330,
+		"title": "Tingidor de roupas"
+	},{
+		"code": 516335,
+		"title": "Conferente-expedidor de roupas (lavanderias)"
+	},{
+		"code": 516340,
+		"title": "Atendente de lavanderia"
+	},{
+		"code": 516345,
+		"title": "Auxiliar de lavanderia"
+	},{
+		"code": 516405,
+		"title": "Lavador de roupas"
+	},{
+		"code": 516410,
+		"title": "Limpador de roupas a seco, à mão"
+	},{
+		"code": 516415,
+		"title": "Passador de roupas, à mão"
+	},{
+		"code": 516505,
+		"title": "Agente funerário"
+	},{
+		"code": 516605,
+		"title": "Operador de forno (serviços funerários)"
+	},{
+		"code": 516610,
+		"title": "Sepultador"
+	},{
+		"code": 516705,
+		"title": "Astrólogo"
+	},{
+		"code": 516710,
+		"title": "Numerólogo"
+	},{
+		"code": 516805,
+		"title": "Esotérico"
+	},{
+		"code": 516810,
+		"title": "Paranormal"
+	},{
+		"code": 517105,
+		"title": "Bombeiro de aeródromo"
+	},{
+		"code": 517110,
+		"title": "Bombeiro civil"
+	},{
+		"code": 517115,
+		"title": "Salva-vidas"
+	},{
+		"code": 517120,
+		"title": "Brigadista florestal"
+	},{
+		"code": 517125,
+		"title": "Chefe de brigada"
+	},{
+		"code": 517205,
+		"title": "Agente de polícia federal"
+	},{
+		"code": 517210,
+		"title": "Policial rodoviário federal"
+	},{
+		"code": 517215,
+		"title": "Guarda-civil municipal"
+	},{
+		"code": 517220,
+		"title": "Agente de trânsito"
+	},{
+		"code": 517225,
+		"title": "Policial legislativo"
+	},{
+		"code": 517305,
+		"title": "Agente de proteção de aeroporto"
+	},{
+		"code": 517310,
+		"title": "Agente de segurança"
+	},{
+		"code": 517315,
+		"title": "Agente de segurança penitenciária"
+	},{
+		"code": 517320,
+		"title": "Vigia florestal"
+	},{
+		"code": 517325,
+		"title": "Vigia portuário"
+	},{
+		"code": 517330,
+		"title": "Vigilante"
+	},{
+		"code": 517335,
+		"title": "Guarda portuário"
+	},{
+		"code": 517405,
+		"title": "Porteiro (hotel)"
+	},{
+		"code": 517410,
+		"title": "Porteiro de edifícios"
+	},{
+		"code": 517415,
+		"title": "Porteiro de locais de diversão"
+	},{
+		"code": 517420,
+		"title": "Vigia"
+	},{
+		"code": 517425,
+		"title": "Fiscal de loja"
+	},{
+		"code": 519105,
+		"title": "Ciclista mensageiro"
+	},{
+		"code": 519110,
+		"title": "Motofretista"
+	},{
+		"code": 519115,
+		"title": "Mototaxista"
+	},{
+		"code": 519205,
+		"title": "Catador de material reciclável"
+	},{
+		"code": 519210,
+		"title": "Selecionador de material reciclável"
+	},{
+		"code": 519215,
+		"title": "Operador de prensa de material reciclável"
+	},{
+		"code": 519305,
+		"title": "Auxiliar de veterinário"
+	},{
+		"code": 519310,
+		"title": "Esteticista de animais domésticos"
+	},{
+		"code": 519315,
+		"title": "Banhista de animais domésticos"
+	},{
+		"code": 519320,
+		"title": "Tosador de animais domésticos"
+	},{
+		"code": 519805,
+		"title": "Profissional do sexo"
+	},{
+		"code": 519905,
+		"title": "Cartazeiro"
+	},{
+		"code": 519910,
+		"title": "Controlador de pragas"
+	},{
+		"code": 519915,
+		"title": "Engraxate"
+	},{
+		"code": 519920,
+		"title": "Gandula"
+	},{
+		"code": 519925,
+		"title": "Guardador de veículos"
+	},{
+		"code": 519930,
+		"title": "Lavador de garrafas, vidros e outros utensílios"
+	},{
+		"code": 519935,
+		"title": "Lavador de veículos"
+	},{
+		"code": 519940,
+		"title": "Leiturista"
+	},{
+		"code": 519945,
+		"title": "Recepcionista de casas de espetáculos"
+	},{
+		"code": 520105,
+		"title": "Supervisor de vendas de serviços"
+	},{
+		"code": 520110,
+		"title": "Supervisor de vendas comercial"
+	},{
+		"code": 521105,
+		"title": "Vendedor em comércio atacadista"
+	},{
+		"code": 521110,
+		"title": "Vendedor de comércio varejista"
+	},{
+		"code": 521115,
+		"title": "Promotor de vendas"
+	},{
+		"code": 521120,
+		"title": "Demonstrador de mercadorias"
+	},{
+		"code": 521125,
+		"title": "Repositor de mercadorias"
+	},{
+		"code": 521130,
+		"title": "Atendente de farmácia - balconista"
+	},{
+		"code": 521135,
+		"title": "Frentista"
+	},{
+		"code": 521140,
+		"title": "Atendente de lojas e mercados"
+	},{
+		"code": 523105,
+		"title": "Instalador de cortinas e persianas, portas sanfonadas e boxe"
+	},{
+		"code": 523110,
+		"title": "Instalador de som e acessórios de veículos"
+	},{
+		"code": 523115,
+		"title": "Chaveiro"
+	},{
+		"code": 524105,
+		"title": "Vendedor em domicílio"
+	},{
+		"code": 524205,
+		"title": "Feirante"
+	},{
+		"code": 524210,
+		"title": "Jornaleiro (em banca de jornal)"
+	},{
+		"code": 524215,
+		"title": "Vendedor  permissionário"
+	},{
+		"code": 524305,
+		"title": "Vendedor ambulante"
+	},{
+		"code": 524310,
+		"title": "Pipoqueiro ambulante"
+	},{
+		"code": 524315,
+		"title": "Baiana de acarajé"
+	},{
+		"code": 611005,
+		"title": "Produtor agropecuário, em geral"
+	},{
+		"code": 612005,
+		"title": "Produtor agrícola polivalente"
+	},{
+		"code": 612105,
+		"title": "Produtor de arroz"
+	},{
+		"code": 612110,
+		"title": "Produtor de cana-de-açúcar"
+	},{
+		"code": 612115,
+		"title": "Produtor de cereais de inverno"
+	},{
+		"code": 612120,
+		"title": "Produtor de gramíneas forrageiras"
+	},{
+		"code": 612125,
+		"title": "Produtor de milho e sorgo"
+	},{
+		"code": 612205,
+		"title": "Produtor de algodão"
+	},{
+		"code": 612210,
+		"title": "Produtor de curauá"
+	},{
+		"code": 612215,
+		"title": "Produtor de juta"
+	},{
+		"code": 612220,
+		"title": "Produtor de rami"
+	},{
+		"code": 612225,
+		"title": "Produtor de sisal"
+	},{
+		"code": 612305,
+		"title": "Produtor na olericultura de legumes"
+	},{
+		"code": 612310,
+		"title": "Produtor na olericultura de raízes, bulbos e tubérculos"
+	},{
+		"code": 612315,
+		"title": "Produtor na olericultura de talos, folhas e flores"
+	},{
+		"code": 612320,
+		"title": "Produtor na olericultura de frutos e sementes"
+	},{
+		"code": 612405,
+		"title": "Produtor de flores de corte"
+	},{
+		"code": 612410,
+		"title": "Produtor de flores em vaso"
+	},{
+		"code": 612415,
+		"title": "Produtor de forrações"
+	},{
+		"code": 612420,
+		"title": "Produtor de plantas ornamentais"
+	},{
+		"code": 612505,
+		"title": "Produtor de árvores frutíferas"
+	},{
+		"code": 612510,
+		"title": "Produtor de espécies frutíferas rasteiras"
+	},{
+		"code": 612515,
+		"title": "Produtor de espécies frutíferas trepadeiras"
+	},{
+		"code": 612605,
+		"title": "Cafeicultor"
+	},{
+		"code": 612610,
+		"title": "Produtor de cacau"
+	},{
+		"code": 612615,
+		"title": "Produtor de erva-mate"
+	},{
+		"code": 612620,
+		"title": "Produtor de fumo"
+	},{
+		"code": 612625,
+		"title": "Produtor de guaraná"
+	},{
+		"code": 612705,
+		"title": "Produtor da cultura de amendoim"
+	},{
+		"code": 612710,
+		"title": "Produtor da cultura de canola"
+	},{
+		"code": 612715,
+		"title": "Produtor da cultura de coco-da-baia"
+	},{
+		"code": 612720,
+		"title": "Produtor da cultura de dendê"
+	},{
+		"code": 612725,
+		"title": "Produtor da cultura de girassol"
+	},{
+		"code": 612730,
+		"title": "Produtor da cultura de linho"
+	},{
+		"code": 612735,
+		"title": "Produtor da cultura de mamona"
+	},{
+		"code": 612740,
+		"title": "Produtor da cultura de soja"
+	},{
+		"code": 612805,
+		"title": "Produtor de especiarias"
+	},{
+		"code": 612810,
+		"title": "Produtor de plantas aromáticas e medicinais"
+	},{
+		"code": 613005,
+		"title": "Criador em pecuária polivalente"
+	},{
+		"code": 613010,
+		"title": "Criador de animais domésticos"
+	},{
+		"code": 613105,
+		"title": "Criador de asininos e muares"
+	},{
+		"code": 613110,
+		"title": "Criador de bovinos (corte)"
+	},{
+		"code": 613115,
+		"title": "Criador de bovinos (leite)"
+	},{
+		"code": 613120,
+		"title": "Criador de bubalinos (corte)"
+	},{
+		"code": 613125,
+		"title": "Criador de bubalinos (leite)"
+	},{
+		"code": 613130,
+		"title": "Criador de eqüínos"
+	},{
+		"code": 613205,
+		"title": "Criador de caprinos"
+	},{
+		"code": 613210,
+		"title": "Criador de ovinos"
+	},{
+		"code": 613215,
+		"title": "Criador de suínos"
+	},{
+		"code": 613305,
+		"title": "Avicultor"
+	},{
+		"code": 613310,
+		"title": "Cunicultor"
+	},{
+		"code": 613405,
+		"title": "Apicultor"
+	},{
+		"code": 613410,
+		"title": "Criador de animais produtores de veneno"
+	},{
+		"code": 613415,
+		"title": "Minhocultor"
+	},{
+		"code": 613420,
+		"title": "Sericultor"
+	},{
+		"code": 620105,
+		"title": "Supervisor de exploração agrícola"
+	},{
+		"code": 620110,
+		"title": "Supervisor de exploração agropecuária"
+	},{
+		"code": 620115,
+		"title": "Supervisor de exploração pecuária"
+	},{
+		"code": 621005,
+		"title": "Trabalhador agropecuário em geral"
+	},{
+		"code": 622005,
+		"title": "Caseiro (agricultura)"
+	},{
+		"code": 622010,
+		"title": "Jardineiro"
+	},{
+		"code": 622015,
+		"title": "Trabalhador na produção de mudas e sementes"
+	},{
+		"code": 622020,
+		"title": "Trabalhador volante da agricultura"
+	},{
+		"code": 622105,
+		"title": "Trabalhador da cultura de arroz"
+	},{
+		"code": 622110,
+		"title": "Trabalhador da cultura de cana-de-açúcar"
+	},{
+		"code": 622115,
+		"title": "Trabalhador da cultura de milho e sorgo"
+	},{
+		"code": 622120,
+		"title": "Trabalhador da cultura de trigo, aveia, cevada e triticale"
+	},{
+		"code": 622205,
+		"title": "Trabalhador da cultura de algodão"
+	},{
+		"code": 622210,
+		"title": "Trabalhador da cultura de sisal"
+	},{
+		"code": 622215,
+		"title": "Trabalhador da cultura do rami"
+	},{
+		"code": 622305,
+		"title": "Trabalhador na olericultura (frutos e sementes)"
+	},{
+		"code": 622310,
+		"title": "Trabalhador na olericultura (legumes)"
+	},{
+		"code": 622315,
+		"title": "Trabalhador na olericultura (raízes, bulbos e tubérculos)"
+	},{
+		"code": 622320,
+		"title": "Trabalhador na olericultura (talos, folhas e flores)"
+	},{
+		"code": 622405,
+		"title": "Trabalhador no cultivo de flores e folhagens de corte"
+	},{
+		"code": 622410,
+		"title": "Trabalhador no cultivo de flores em vaso"
+	},{
+		"code": 622415,
+		"title": "Trabalhador no cultivo de forrações"
+	},{
+		"code": 622420,
+		"title": "Trabalhador no cultivo de mudas"
+	},{
+		"code": 622425,
+		"title": "Trabalhador no cultivo de plantas ornamentais"
+	},{
+		"code": 622505,
+		"title": "Trabalhador no cultivo de árvores frutíferas"
+	},{
+		"code": 622510,
+		"title": "Trabalhador no cultivo de espécies frutíferas rasteiras"
+	},{
+		"code": 622515,
+		"title": "Trabalhador no cultivo de trepadeiras frutíferas"
+	},{
+		"code": 622605,
+		"title": "Trabalhador da cultura de cacau"
+	},{
+		"code": 622610,
+		"title": "Trabalhador da cultura de café"
+	},{
+		"code": 622615,
+		"title": "Trabalhador da cultura de erva-mate"
+	},{
+		"code": 622620,
+		"title": "Trabalhador da cultura de fumo"
+	},{
+		"code": 622625,
+		"title": "Trabalhador da cultura de guaraná"
+	},{
+		"code": 622705,
+		"title": "Trabalhador na cultura de amendoim"
+	},{
+		"code": 622710,
+		"title": "Trabalhador na cultura de canola"
+	},{
+		"code": 622715,
+		"title": "Trabalhador na cultura de coco-da-baía"
+	},{
+		"code": 622720,
+		"title": "Trabalhador na cultura de dendê"
+	},{
+		"code": 622725,
+		"title": "Trabalhador na cultura de mamona"
+	},{
+		"code": 622730,
+		"title": "Trabalhador na cultura de soja"
+	},{
+		"code": 622735,
+		"title": "Trabalhador na cultura do girassol"
+	},{
+		"code": 622740,
+		"title": "Trabalhador na cultura do linho"
+	},{
+		"code": 622805,
+		"title": "Trabalhador da cultura de especiarias"
+	},{
+		"code": 622810,
+		"title": "Trabalhador da cultura de plantas aromáticas e medicinais"
+	},{
+		"code": 623005,
+		"title": "Adestrador de animais"
+	},{
+		"code": 623010,
+		"title": "Inseminador"
+	},{
+		"code": 623015,
+		"title": "Trabalhador de pecuária polivalente"
+	},{
+		"code": 623020,
+		"title": "Tratador de animais"
+	},{
+		"code": 623025,
+		"title": "Casqueador de animais"
+	},{
+		"code": 623030,
+		"title": "Ferrador de animais"
+	},{
+		"code": 623105,
+		"title": "Trabalhador da pecuária (asininos e muares)"
+	},{
+		"code": 623110,
+		"title": "Trabalhador da pecuária (bovinos corte)"
+	},{
+		"code": 623115,
+		"title": "Trabalhador da pecuária (bovinos leite)"
+	},{
+		"code": 623120,
+		"title": "Trabalhador da pecuária (bubalinos)"
+	},{
+		"code": 623125,
+		"title": "Trabalhador da pecuária (eqüinos)"
+	},{
+		"code": 623205,
+		"title": "Trabalhador da caprinocultura"
+	},{
+		"code": 623210,
+		"title": "Trabalhador da ovinocultura"
+	},{
+		"code": 623215,
+		"title": "Trabalhador da suinocultura"
+	},{
+		"code": 623305,
+		"title": "Trabalhador da avicultura de corte"
+	},{
+		"code": 623310,
+		"title": "Trabalhador da avicultura de postura"
+	},{
+		"code": 623315,
+		"title": "Operador de incubadora"
+	},{
+		"code": 623320,
+		"title": "Trabalhador da cunicultura"
+	},{
+		"code": 623325,
+		"title": "Sexador"
+	},{
+		"code": 623405,
+		"title": "Trabalhador em criatórios de animais produtores de veneno"
+	},{
+		"code": 623410,
+		"title": "Trabalhador na apicultura"
+	},{
+		"code": 623415,
+		"title": "Trabalhador na minhocultura"
+	},{
+		"code": 623420,
+		"title": "Trabalhador na sericicultura"
+	},{
+		"code": 630105,
+		"title": "Supervisor da aqüicultura"
+	},{
+		"code": 630110,
+		"title": "Supervisor da área florestal"
+	},{
+		"code": 631005,
+		"title": "Catador de caranguejos e siris"
+	},{
+		"code": 631010,
+		"title": "Catador de mariscos"
+	},{
+		"code": 631015,
+		"title": "Pescador artesanal de lagostas"
+	},{
+		"code": 631020,
+		"title": "Pescador artesanal de peixes e camarões"
+	},{
+		"code": 631105,
+		"title": "Pescador artesanal de água doce"
+	},{
+		"code": 631205,
+		"title": "Pescador industrial"
+	},{
+		"code": 631210,
+		"title": "Pescador profissional"
+	},{
+		"code": 631305,
+		"title": "Criador de camarões"
+	},{
+		"code": 631310,
+		"title": "Criador de jacarés"
+	},{
+		"code": 631315,
+		"title": "Criador de mexilhões"
+	},{
+		"code": 631320,
+		"title": "Criador de ostras"
+	},{
+		"code": 631325,
+		"title": "Criador de peixes"
+	},{
+		"code": 631330,
+		"title": "Criador de quelônios"
+	},{
+		"code": 631335,
+		"title": "Criador de rãs"
+	},{
+		"code": 631405,
+		"title": "Gelador industrial"
+	},{
+		"code": 631410,
+		"title": "Gelador profissional"
+	},{
+		"code": 631415,
+		"title": "Proeiro"
+	},{
+		"code": 631420,
+		"title": "Redeiro (pesca)"
+	},{
+		"code": 632005,
+		"title": "Guia florestal"
+	},{
+		"code": 632010,
+		"title": "Raizeiro"
+	},{
+		"code": 632015,
+		"title": "Viveirista florestal"
+	},{
+		"code": 632105,
+		"title": "Classificador de toras"
+	},{
+		"code": 632110,
+		"title": "Cubador de madeira"
+	},{
+		"code": 632115,
+		"title": "Identificador florestal"
+	},{
+		"code": 632120,
+		"title": "Operador de motosserra"
+	},{
+		"code": 632125,
+		"title": "Trabalhador de extração florestal, em geral"
+	},{
+		"code": 632205,
+		"title": "Seringueiro"
+	},{
+		"code": 632210,
+		"title": "Trabalhador da exploração de espécies produtoras de gomas não elásticas"
+	},{
+		"code": 632215,
+		"title": "Trabalhador da exploração de resinas"
+	},{
+		"code": 632305,
+		"title": "Trabalhador da exploração de andiroba"
+	},{
+		"code": 632310,
+		"title": "Trabalhador da exploração de babaçu"
+	},{
+		"code": 632315,
+		"title": "Trabalhador da exploração de bacaba"
+	},{
+		"code": 632320,
+		"title": "Trabalhador da exploração de buriti"
+	},{
+		"code": 632325,
+		"title": "Trabalhador da exploração de carnaúba"
+	},{
+		"code": 632330,
+		"title": "Trabalhador da exploração de coco-da-praia"
+	},{
+		"code": 632335,
+		"title": "Trabalhador da exploração de copaíba"
+	},{
+		"code": 632340,
+		"title": "Trabalhador da exploração de malva (pãina)"
+	},{
+		"code": 632345,
+		"title": "Trabalhador da exploração de murumuru"
+	},{
+		"code": 632350,
+		"title": "Trabalhador da exploração de oiticica"
+	},{
+		"code": 632355,
+		"title": "Trabalhador da exploração de ouricuri"
+	},{
+		"code": 632360,
+		"title": "Trabalhador da exploração de pequi"
+	},{
+		"code": 632365,
+		"title": "Trabalhador da exploração de piaçava"
+	},{
+		"code": 632370,
+		"title": "Trabalhador da exploração de tucum"
+	},{
+		"code": 632405,
+		"title": "Trabalhador da exploração de açaí"
+	},{
+		"code": 632410,
+		"title": "Trabalhador da exploração de castanha"
+	},{
+		"code": 632415,
+		"title": "Trabalhador da exploração de pinhão"
+	},{
+		"code": 632420,
+		"title": "Trabalhador da exploração de pupunha"
+	},{
+		"code": 632505,
+		"title": "Trabalhador da exploração de árvores e arbustos produtores de substâncias aromát., Medic. E tóxicas"
+	},{
+		"code": 632510,
+		"title": "Trabalhador da exploração de cipós produtores de substâncias aromáticas, medicinais e tóxicas"
+	},{
+		"code": 632515,
+		"title": "Trabalhador da exploração de madeiras tanantes"
+	},{
+		"code": 632520,
+		"title": "Trabalhador da exploração de raízes produtoras de substâncias aromáticas, medicinais e tóxicas"
+	},{
+		"code": 632525,
+		"title": "Trabalhador da extração de substâncias aromáticas, medicinais e tóxicas, em geral"
+	},{
+		"code": 632605,
+		"title": "Carvoeiro"
+	},{
+		"code": 632610,
+		"title": "Carbonizador"
+	},{
+		"code": 632615,
+		"title": "Ajudante de carvoaria"
+	},{
+		"code": 641005,
+		"title": "Operador de colheitadeira"
+	},{
+		"code": 641010,
+		"title": "Operador de máquinas de beneficiamento de produtos agrícolas"
+	},{
+		"code": 641015,
+		"title": "Tratorista agrícola"
+	},{
+		"code": 642005,
+		"title": "Operador de colhedor florestal"
+	},{
+		"code": 642010,
+		"title": "Operador de máquinas florestais estáticas"
+	},{
+		"code": 642015,
+		"title": "Operador de trator florestal"
+	},{
+		"code": 643005,
+		"title": "Trabalhador na operação de sistema de irrigação localizada (microaspersão e gotejamento)"
+	},{
+		"code": 643010,
+		"title": "Trabalhador na operação de sistema de irrigação por aspersão (pivô central)"
+	},{
+		"code": 643015,
+		"title": "Trabalhador na operação de sistemas convencionais de irrigação por aspersão"
+	},{
+		"code": 643020,
+		"title": "Trabalhador na operação de sistemas de irrigação e aspersão (alto propelido)"
+	},{
+		"code": 643025,
+		"title": "Trabalhador na operação de sistemas de irrigação por superfície e drenagem"
+	},{
+		"code": 710105,
+		"title": "Supervisor de apoio operacional na mineração"
+	},{
+		"code": 710110,
+		"title": "Supervisor de extração de sal"
+	},{
+		"code": 710115,
+		"title": "Supervisor de perfuração e desmonte"
+	},{
+		"code": 710120,
+		"title": "Supervisor de produção na mineração"
+	},{
+		"code": 710125,
+		"title": "Supervisor de transporte na mineração"
+	},{
+		"code": 710205,
+		"title": "Mestre (construção civil)"
+	},{
+		"code": 710210,
+		"title": "Mestre de linhas (ferrovias)"
+	},{
+		"code": 710215,
+		"title": "Inspetor de terraplenagem"
+	},{
+		"code": 710220,
+		"title": "Supervisor de usina de concreto"
+	},{
+		"code": 710225,
+		"title": "Fiscal de pátio de usina de concreto"
+	},{
+		"code": 711105,
+		"title": "Amostrador de minérios"
+	},{
+		"code": 711110,
+		"title": "Canteiro"
+	},{
+		"code": 711115,
+		"title": "Destroçador de pedra"
+	},{
+		"code": 711120,
+		"title": "Detonador"
+	},{
+		"code": 711125,
+		"title": "Escorador de minas"
+	},{
+		"code": 711130,
+		"title": "Mineiro"
+	},{
+		"code": 711205,
+		"title": "Operador de caminhão (minas e pedreiras)"
+	},{
+		"code": 711210,
+		"title": "Operador de carregadeira"
+	},{
+		"code": 711215,
+		"title": "Operador de máquina cortadora (minas e pedreiras)"
+	},{
+		"code": 711220,
+		"title": "Operador de máquina de extração contínua (minas de carvão)"
+	},{
+		"code": 711225,
+		"title": "Operador de máquina perfuradora (minas e pedreiras)"
+	},{
+		"code": 711230,
+		"title": "Operador de máquina perfuratriz"
+	},{
+		"code": 711235,
+		"title": "Operador de motoniveladora (extração de minerais sólidos)"
+	},{
+		"code": 711240,
+		"title": "Operador de schutthecar"
+	},{
+		"code": 711245,
+		"title": "Operador de trator (minas e pedreiras)"
+	},{
+		"code": 711305,
+		"title": "Operador de sonda de percussão"
+	},{
+		"code": 711310,
+		"title": "Operador de sonda rotativa"
+	},{
+		"code": 711315,
+		"title": "Sondador (poços de petróleo e gás)"
+	},{
+		"code": 711320,
+		"title": "Sondador de poços (exceto de petróleo e gás)"
+	},{
+		"code": 711325,
+		"title": "Plataformista (petróleo)"
+	},{
+		"code": 711330,
+		"title": "Torrista (petróleo)"
+	},{
+		"code": 711405,
+		"title": "Garimpeiro"
+	},{
+		"code": 711410,
+		"title": "Operador de salina (sal marinho)"
+	},{
+		"code": 712105,
+		"title": "Moleiro de minérios"
+	},{
+		"code": 712110,
+		"title": "Operador de aparelho de flotação"
+	},{
+		"code": 712115,
+		"title": "Operador de aparelho de precipitação (minas de ouro ou prata)"
+	},{
+		"code": 712120,
+		"title": "Operador de britador de mandíbulas"
+	},{
+		"code": 712125,
+		"title": "Operador de espessador"
+	},{
+		"code": 712130,
+		"title": "Operador de jig (minas)"
+	},{
+		"code": 712135,
+		"title": "Operador de peneiras hidráulicas"
+	},{
+		"code": 712205,
+		"title": "Cortador de pedras"
+	},{
+		"code": 712210,
+		"title": "Gravador de inscrições em pedra"
+	},{
+		"code": 712215,
+		"title": "Gravador de relevos em pedra"
+	},{
+		"code": 712220,
+		"title": "Polidor de pedras"
+	},{
+		"code": 712225,
+		"title": "Torneiro (lavra de pedra)"
+	},{
+		"code": 712230,
+		"title": "Traçador de pedras"
+	},{
+		"code": 715105,
+		"title": "Operador de bate-estacas"
+	},{
+		"code": 715110,
+		"title": "Operador de compactadora de solos"
+	},{
+		"code": 715115,
+		"title": "Operador de escavadeira"
+	},{
+		"code": 715120,
+		"title": "Operador de máquina de abrir valas"
+	},{
+		"code": 715125,
+		"title": "Operador de máquinas de construção civil e mineração"
+	},{
+		"code": 715130,
+		"title": "Operador de motoniveladora"
+	},{
+		"code": 715135,
+		"title": "Operador de pá carregadeira"
+	},{
+		"code": 715140,
+		"title": "Operador de pavimentadora (asfalto, concreto e materiais similares)"
+	},{
+		"code": 715145,
+		"title": "Operador de trator de lâmina"
+	},{
+		"code": 715205,
+		"title": "Calceteiro"
+	},{
+		"code": 715210,
+		"title": "Pedreiro"
+	},{
+		"code": 715215,
+		"title": "Pedreiro (chaminés industriais)"
+	},{
+		"code": 715220,
+		"title": "Pedreiro (material refratário)"
+	},{
+		"code": 715225,
+		"title": "Pedreiro (mineração)"
+	},{
+		"code": 715230,
+		"title": "Pedreiro de edificações"
+	},{
+		"code": 715305,
+		"title": "Armador de estrutura de concreto"
+	},{
+		"code": 715310,
+		"title": "Moldador de corpos de prova em usinas de concreto"
+	},{
+		"code": 715315,
+		"title": "Armador de estrutura de concreto armado"
+	},{
+		"code": 715405,
+		"title": "Operador de betoneira"
+	},{
+		"code": 715410,
+		"title": "Operador de bomba de concreto"
+	},{
+		"code": 715415,
+		"title": "Operador de central de concreto"
+	},{
+		"code": 715505,
+		"title": "Carpinteiro"
+	},{
+		"code": 715510,
+		"title": "Carpinteiro (esquadrias)"
+	},{
+		"code": 715515,
+		"title": "Carpinteiro (cenários)"
+	},{
+		"code": 715520,
+		"title": "Carpinteiro (mineração)"
+	},{
+		"code": 715525,
+		"title": "Carpinteiro de obras"
+	},{
+		"code": 715530,
+		"title": "Carpinteiro (telhados)"
+	},{
+		"code": 715535,
+		"title": "Carpinteiro de fôrmas para concreto"
+	},{
+		"code": 715540,
+		"title": "Carpinteiro de obras civis de arte (pontes, túneis, barragens)"
+	},{
+		"code": 715545,
+		"title": "Montador de andaimes (edificações)"
+	},{
+		"code": 715605,
+		"title": "Eletricista de instalações (cenários)"
+	},{
+		"code": 715610,
+		"title": "Eletricista de instalações (edifícios)"
+	},{
+		"code": 715615,
+		"title": "Eletricista de instalações"
+	},{
+		"code": 715705,
+		"title": "Aplicador de asfalto impermeabilizante (coberturas)"
+	},{
+		"code": 715710,
+		"title": "Instalador de isolantes acústicos"
+	},{
+		"code": 715715,
+		"title": "Instalador de isolantes térmicos (refrigeração e climatização)"
+	},{
+		"code": 715720,
+		"title": "Instalador de isolantes térmicos de caldeira e tubulações"
+	},{
+		"code": 715725,
+		"title": "Instalador de material isolante, a mão (edificações)"
+	},{
+		"code": 715730,
+		"title": "Instalador de material isolante, a máquina (edificações)"
+	},{
+		"code": 716105,
+		"title": "Acabador de superfícies de concreto"
+	},{
+		"code": 716110,
+		"title": "Revestidor de superfícies de concreto"
+	},{
+		"code": 716205,
+		"title": "Telhador (telhas de argila e materiais similares)"
+	},{
+		"code": 716210,
+		"title": "Telhador (telhas de cimento-amianto)"
+	},{
+		"code": 716215,
+		"title": "Telhador (telhas metálicas)"
+	},{
+		"code": 716220,
+		"title": "Telhador (telhas plásticas)"
+	},{
+		"code": 716305,
+		"title": "Vidraceiro"
+	},{
+		"code": 716310,
+		"title": "Vidraceiro (edificações)"
+	},{
+		"code": 716315,
+		"title": "Vidraceiro (vitrais)"
+	},{
+		"code": 716405,
+		"title": "Gesseiro"
+	},{
+		"code": 716505,
+		"title": "Assoalhador"
+	},{
+		"code": 716510,
+		"title": "Assentador de revestimentos cerâmicos"
+	},{
+		"code": 716515,
+		"title": "Pastilheiro"
+	},{
+		"code": 716520,
+		"title": "Lustrador de piso"
+	},{
+		"code": 716525,
+		"title": "Marmorista (construção)"
+	},{
+		"code": 716530,
+		"title": "Mosaísta"
+	},{
+		"code": 716535,
+		"title": "Taqueiro"
+	},{
+		"code": 716540,
+		"title": "Rejuntador de revestimentos"
+	},{
+		"code": 716605,
+		"title": "Calafetador"
+	},{
+		"code": 716610,
+		"title": "Pintor de obras"
+	},{
+		"code": 716615,
+		"title": "Revestidor de interiores (papel, material plástico e emborrachados)"
+	},{
+		"code": 717005,
+		"title": "Demolidor de edificações"
+	},{
+		"code": 717010,
+		"title": "Operador de martelete"
+	},{
+		"code": 717015,
+		"title": "Poceiro (edificações)"
+	},{
+		"code": 717020,
+		"title": "Servente de obras"
+	},{
+		"code": 717025,
+		"title": "Vibradorista"
+	},{
+		"code": 720105,
+		"title": "Mestre (afiador de ferramentas)"
+	},{
+		"code": 720110,
+		"title": "Mestre de caldeiraria"
+	},{
+		"code": 720115,
+		"title": "Mestre de ferramentaria"
+	},{
+		"code": 720120,
+		"title": "Mestre de forjaria"
+	},{
+		"code": 720125,
+		"title": "Mestre de fundição"
+	},{
+		"code": 720130,
+		"title": "Mestre de galvanoplastia"
+	},{
+		"code": 720135,
+		"title": "Mestre de pintura (tratamento de superfícies)"
+	},{
+		"code": 720140,
+		"title": "Mestre de soldagem"
+	},{
+		"code": 720145,
+		"title": "Mestre de trefilação de metais"
+	},{
+		"code": 720150,
+		"title": "Mestre de usinagem"
+	},{
+		"code": 720155,
+		"title": "Mestre serralheiro"
+	},{
+		"code": 720160,
+		"title": "Supervisor de controle de tratamento térmico"
+	},{
+		"code": 720205,
+		"title": "Mestre (construção naval)"
+	},{
+		"code": 720210,
+		"title": "Mestre (indústria de automotores e material de transportes)"
+	},{
+		"code": 720215,
+		"title": "Mestre (indústria de máquinas e outros equipamentos mecânicos)"
+	},{
+		"code": 720220,
+		"title": "Mestre de construção de fornos"
+	},{
+		"code": 721105,
+		"title": "Ferramenteiro"
+	},{
+		"code": 721110,
+		"title": "Ferramenteiro de mandris, calibradores e outros dispositivos"
+	},{
+		"code": 721115,
+		"title": "Modelador de metais (fundição)"
+	},{
+		"code": 721205,
+		"title": "Operador de máquina de eletroerosão"
+	},{
+		"code": 721210,
+		"title": "Operador de máquinas operatrizes"
+	},{
+		"code": 721215,
+		"title": "Operador de máquinas-ferramenta convencionais"
+	},{
+		"code": 721220,
+		"title": "Operador de usinagem convencional por abrasão"
+	},{
+		"code": 721225,
+		"title": "Preparador de máquinas-ferramenta"
+	},{
+		"code": 721305,
+		"title": "Afiador de cardas"
+	},{
+		"code": 721310,
+		"title": "Afiador de cutelaria"
+	},{
+		"code": 721315,
+		"title": "Afiador de ferramentas"
+	},{
+		"code": 721320,
+		"title": "Afiador de serras"
+	},{
+		"code": 721325,
+		"title": "Polidor de metais"
+	},{
+		"code": 721405,
+		"title": "Operador de centro de usinagem com comando numérico"
+	},{
+		"code": 721410,
+		"title": "Operador de fresadora com comando numérico"
+	},{
+		"code": 721415,
+		"title": "Operador de mandriladora com comando numérico"
+	},{
+		"code": 721420,
+		"title": "Operador de máquina eletroerosão, à fio, com comando numérico"
+	},{
+		"code": 721425,
+		"title": "Operador de retificadora com comando numérico"
+	},{
+		"code": 721430,
+		"title": "Operador de torno com comando numérico"
+	},{
+		"code": 722105,
+		"title": "Forjador"
+	},{
+		"code": 722110,
+		"title": "Forjador a martelo"
+	},{
+		"code": 722115,
+		"title": "Forjador prensista"
+	},{
+		"code": 722205,
+		"title": "Fundidor de metais"
+	},{
+		"code": 722210,
+		"title": "Lingotador"
+	},{
+		"code": 722215,
+		"title": "Operador de acabamento de peças fundidas"
+	},{
+		"code": 722220,
+		"title": "Operador de máquina centrifugadora de fundição"
+	},{
+		"code": 722225,
+		"title": "Operador de máquina de fundir sob pressão"
+	},{
+		"code": 722230,
+		"title": "Operador de vazamento (lingotamento)"
+	},{
+		"code": 722235,
+		"title": "Preparador de panelas (lingotamento)"
+	},{
+		"code": 722305,
+		"title": "Macheiro, a mão"
+	},{
+		"code": 722310,
+		"title": "Macheiro, a  máquina"
+	},{
+		"code": 722315,
+		"title": "Moldador, a  mão"
+	},{
+		"code": 722320,
+		"title": "Moldador, a  máquina"
+	},{
+		"code": 722325,
+		"title": "Operador de equipamentos de preparação de areia"
+	},{
+		"code": 722330,
+		"title": "Operador de máquina de moldar automatizada"
+	},{
+		"code": 722405,
+		"title": "Cableador"
+	},{
+		"code": 722410,
+		"title": "Estirador de tubos de metal sem costura"
+	},{
+		"code": 722415,
+		"title": "Trefilador de metais, à máquina"
+	},{
+		"code": 723105,
+		"title": "Cementador de metais"
+	},{
+		"code": 723110,
+		"title": "Normalizador de metais e de compósitos"
+	},{
+		"code": 723115,
+		"title": "Operador de equipamento para resfriamento"
+	},{
+		"code": 723120,
+		"title": "Operador de forno de tratamento térmico de metais"
+	},{
+		"code": 723125,
+		"title": "Temperador de metais e de compósitos"
+	},{
+		"code": 723205,
+		"title": "Decapador"
+	},{
+		"code": 723210,
+		"title": "Fosfatizador"
+	},{
+		"code": 723215,
+		"title": "Galvanizador"
+	},{
+		"code": 723220,
+		"title": "Metalizador a pistola"
+	},{
+		"code": 723225,
+		"title": "Metalizador (banho quente)"
+	},{
+		"code": 723230,
+		"title": "Operador de máquina recobridora de arame"
+	},{
+		"code": 723235,
+		"title": "Operador de zincagem (processo eletrolítico)"
+	},{
+		"code": 723240,
+		"title": "Oxidador"
+	},{
+		"code": 723305,
+		"title": "Operador de equipamento de secagem de pintura"
+	},{
+		"code": 723310,
+		"title": "Pintor a pincel e rolo (exceto obras e estruturas metálicas)"
+	},{
+		"code": 723315,
+		"title": "Pintor de estruturas metálicas"
+	},{
+		"code": 723320,
+		"title": "Pintor de veículos (fabricação)"
+	},{
+		"code": 723325,
+		"title": "Pintor por imersão"
+	},{
+		"code": 723330,
+		"title": "Pintor, a  pistola (exceto obras e estruturas metálicas)"
+	},{
+		"code": 724105,
+		"title": "Assentador de canalização (edificações)"
+	},{
+		"code": 724110,
+		"title": "Encanador"
+	},{
+		"code": 724115,
+		"title": "Instalador de tubulações"
+	},{
+		"code": 724120,
+		"title": "Instalador de tubulações (aeronaves)"
+	},{
+		"code": 724125,
+		"title": "Instalador de tubulações (embarcações)"
+	},{
+		"code": 724130,
+		"title": "Instalador de tubulações de gás combustível (produção e distribuição)"
+	},{
+		"code": 724135,
+		"title": "Instalador de tubulações de vapor (produção e distribuição)"
+	},{
+		"code": 724205,
+		"title": "Montador de estruturas metálicas"
+	},{
+		"code": 724210,
+		"title": "Montador de estruturas metálicas de embarcações"
+	},{
+		"code": 724215,
+		"title": "Rebitador a  martelo pneumático"
+	},{
+		"code": 724220,
+		"title": "Preparador de estruturas metálicas"
+	},{
+		"code": 724225,
+		"title": "Riscador de estruturas metálicas"
+	},{
+		"code": 724230,
+		"title": "Rebitador, a  mão"
+	},{
+		"code": 724305,
+		"title": "Brasador"
+	},{
+		"code": 724310,
+		"title": "Oxicortador a mão e a  máquina"
+	},{
+		"code": 724315,
+		"title": "Soldador"
+	},{
+		"code": 724320,
+		"title": "Soldador a  oxigás"
+	},{
+		"code": 724325,
+		"title": "Soldador elétrico"
+	},{
+		"code": 724405,
+		"title": "Caldeireiro (chapas de cobre)"
+	},{
+		"code": 724410,
+		"title": "Caldeireiro (chapas de ferro e aço)"
+	},{
+		"code": 724415,
+		"title": "Chapeador"
+	},{
+		"code": 724420,
+		"title": "Chapeador de carrocerias metálicas (fabricação)"
+	},{
+		"code": 724425,
+		"title": "Chapeador naval"
+	},{
+		"code": 724430,
+		"title": "Chapeador de aeronaves"
+	},{
+		"code": 724435,
+		"title": "Funileiro industrial"
+	},{
+		"code": 724440,
+		"title": "Serralheiro"
+	},{
+		"code": 724505,
+		"title": "Operador de máquina de cilindrar chapas"
+	},{
+		"code": 724510,
+		"title": "Operador de máquina de dobrar chapas"
+	},{
+		"code": 724515,
+		"title": "Prensista (operador de prensa)"
+	},{
+		"code": 724605,
+		"title": "Operador de laços de cabos de aço"
+	},{
+		"code": 724610,
+		"title": "Trançador de cabos de aço"
+	},{
+		"code": 725005,
+		"title": "Ajustador ferramenteiro"
+	},{
+		"code": 725010,
+		"title": "Ajustador mecânico"
+	},{
+		"code": 725015,
+		"title": "Ajustador mecânico (usinagem em bancada e em máquinas-ferramentas)"
+	},{
+		"code": 725020,
+		"title": "Ajustador mecânico em bancada"
+	},{
+		"code": 725025,
+		"title": "Ajustador naval (reparo e construção)"
+	},{
+		"code": 725105,
+		"title": "Montador de máquinas, motores e acessórios (montagem em série)"
+	},{
+		"code": 725205,
+		"title": "Montador de máquinas"
+	},{
+		"code": 725210,
+		"title": "Montador de máquinas gráficas"
+	},{
+		"code": 725215,
+		"title": "Montador de máquinas operatrizes para madeira"
+	},{
+		"code": 725220,
+		"title": "Montador de máquinas têxteis"
+	},{
+		"code": 725225,
+		"title": "Montador de máquinas-ferramentas (usinagem de metais)"
+	},{
+		"code": 725305,
+		"title": "Montador de equipamento de levantamento"
+	},{
+		"code": 725310,
+		"title": "Montador de máquinas agrícolas"
+	},{
+		"code": 725315,
+		"title": "Montador de máquinas de minas e pedreiras"
+	},{
+		"code": 725320,
+		"title": "Montador de máquinas de terraplenagem"
+	},{
+		"code": 725405,
+		"title": "Mecânico montador de motores de aeronaves"
+	},{
+		"code": 725410,
+		"title": "Mecânico montador de motores de embarcações"
+	},{
+		"code": 725415,
+		"title": "Mecânico montador de motores de explosão e diesel"
+	},{
+		"code": 725420,
+		"title": "Mecânico montador de turboalimentadores"
+	},{
+		"code": 725505,
+		"title": "Montador de veículos (linha de montagem)"
+	},{
+		"code": 725510,
+		"title": "Operador de time de montagem"
+	},{
+		"code": 725605,
+		"title": "Montador de estruturas de aeronaves"
+	},{
+		"code": 725610,
+		"title": "Montador de sistemas de combustível de aeronaves"
+	},{
+		"code": 725705,
+		"title": "Mecânico de refrigeração"
+	},{
+		"code": 730105,
+		"title": "Supervisor de montagem e instalação eletroeletrônica"
+	},{
+		"code": 731105,
+		"title": "Montador de equipamentos eletrônicos (aparelhos médicos)"
+	},{
+		"code": 731110,
+		"title": "Montador de equipamentos eletrônicos (computadores e equipamentos auxiliares)"
+	},{
+		"code": 731115,
+		"title": "Montador de equipamentos elétricos (instrumentos de medição)"
+	},{
+		"code": 731120,
+		"title": "Montador de equipamentos elétricos (aparelhos eletrodomésticos)"
+	},{
+		"code": 731125,
+		"title": "Montador de equipamentos elétricos (centrais elétricas)"
+	},{
+		"code": 731130,
+		"title": "Montador de equipamentos elétricos (motores e dínamos)"
+	},{
+		"code": 731135,
+		"title": "Montador de equipamentos elétricos"
+	},{
+		"code": 731140,
+		"title": "Montador de equipamentos eletrônicos (instalações de sinalização)"
+	},{
+		"code": 731145,
+		"title": "Montador de equipamentos eletrônicos (máquinas industriais)"
+	},{
+		"code": 731150,
+		"title": "Montador de equipamentos eletrônicos"
+	},{
+		"code": 731155,
+		"title": "Montador de equipamentos elétricos (elevadores e equipamentos similares)"
+	},{
+		"code": 731160,
+		"title": "Montador de equipamentos elétricos (transformadores)"
+	},{
+		"code": 731165,
+		"title": "Bobinador eletricista, à mão"
+	},{
+		"code": 731170,
+		"title": "Bobinador eletricista, à máquina"
+	},{
+		"code": 731175,
+		"title": "Operador de linha de montagem (aparelhos elétricos)"
+	},{
+		"code": 731180,
+		"title": "Operador de linha de montagem (aparelhos eletrônicos)"
+	},{
+		"code": 731205,
+		"title": "Montador de equipamentos eletrônicos (estação de rádio, tv e equipamentos de radar)"
+	},{
+		"code": 731305,
+		"title": "Instalador-reparador de equipamentos de comutação em telefonia"
+	},{
+		"code": 731310,
+		"title": "Instalador-reparador de equipamentos de energia em telefonia"
+	},{
+		"code": 731315,
+		"title": "Instalador-reparador de equipamentos de transmissão em telefonia"
+	},{
+		"code": 731320,
+		"title": "Instalador-reparador de linhas e aparelhos de telecomunicações"
+	},{
+		"code": 731325,
+		"title": "Instalador-reparador de redes e cabos telefônicos"
+	},{
+		"code": 731330,
+		"title": "Reparador de aparelhos de telecomunicações em laboratório"
+	},{
+		"code": 732105,
+		"title": "Eletricista de manutenção de linhas elétricas, telefônicas e de comunicação de dados"
+	},{
+		"code": 732110,
+		"title": "Emendador de cabos elétricos e telefônicos (aéreos e subterrâneos)"
+	},{
+		"code": 732115,
+		"title": "Examinador de cabos, linhas elétricas e telefônicas"
+	},{
+		"code": 732120,
+		"title": "Instalador de linhas elétricas de alta e baixa - tensão (rede aérea e subterrânea)"
+	},{
+		"code": 732125,
+		"title": "Instalador eletricista (tração de veículos)"
+	},{
+		"code": 732130,
+		"title": "Instalador-reparador de redes telefônicas e de comunicação de dados"
+	},{
+		"code": 732135,
+		"title": "Ligador de linhas telefônicas"
+	},{
+		"code": 732140,
+		"title": "Instalador de sistemas fotovoltaicos"
+	},{
+		"code": 740105,
+		"title": "Supervisor da mecânica de precisão"
+	},{
+		"code": 740110,
+		"title": "Supervisor de fabricação de instrumentos musicais"
+	},{
+		"code": 741105,
+		"title": "Ajustador de instrumentos de precisão"
+	},{
+		"code": 741110,
+		"title": "Montador de instrumentos de óptica"
+	},{
+		"code": 741115,
+		"title": "Montador de instrumentos de precisão"
+	},{
+		"code": 741120,
+		"title": "Relojoeiro (fabricação)"
+	},{
+		"code": 741125,
+		"title": "Relojoeiro (reparação)"
+	},{
+		"code": 742105,
+		"title": "Afinador de instrumentos musicais"
+	},{
+		"code": 742110,
+		"title": "Confeccionador de acordeão"
+	},{
+		"code": 742115,
+		"title": "Confeccionador de instrumentos de corda"
+	},{
+		"code": 742120,
+		"title": "Confeccionador de instrumentos de percussão (pele, couro ou plástico)"
+	},{
+		"code": 742125,
+		"title": "Confeccionador de instrumentos de sopro (madeira)"
+	},{
+		"code": 742130,
+		"title": "Confeccionador de instrumentos de sopro (metal)"
+	},{
+		"code": 742135,
+		"title": "Confeccionador de órgão"
+	},{
+		"code": 742140,
+		"title": "Confeccionador de piano"
+	},{
+		"code": 750105,
+		"title": "Supervisor de joalheria"
+	},{
+		"code": 750205,
+		"title": "Supervisor da indústria de minerais não metálicos (exceto os derivados de petróleo e carvão)"
+	},{
+		"code": 751005,
+		"title": "Engastador (jóias)"
+	},{
+		"code": 751010,
+		"title": "Joalheiro"
+	},{
+		"code": 751015,
+		"title": "Joalheiro (reparações)"
+	},{
+		"code": 751020,
+		"title": "Lapidador (jóias)"
+	},{
+		"code": 751105,
+		"title": "Bate-folha a  máquina"
+	},{
+		"code": 751110,
+		"title": "Fundidor (joalheria e ourivesaria)"
+	},{
+		"code": 751115,
+		"title": "Gravador (joalheria e ourivesaria)"
+	},{
+		"code": 751120,
+		"title": "Laminador de metais preciosos a  mão"
+	},{
+		"code": 751125,
+		"title": "Ourives"
+	},{
+		"code": 751130,
+		"title": "Trefilador (joalheria e ourivesaria)"
+	},{
+		"code": 752105,
+		"title": "Artesão modelador (vidros)"
+	},{
+		"code": 752110,
+		"title": "Moldador (vidros)"
+	},{
+		"code": 752115,
+		"title": "Soprador de vidro"
+	},{
+		"code": 752120,
+		"title": "Transformador de tubos de vidro"
+	},{
+		"code": 752205,
+		"title": "Aplicador serigráfico em vidros"
+	},{
+		"code": 752210,
+		"title": "Cortador de vidro"
+	},{
+		"code": 752215,
+		"title": "Gravador de vidro a  água-forte"
+	},{
+		"code": 752220,
+		"title": "Gravador de vidro a  esmeril"
+	},{
+		"code": 752225,
+		"title": "Gravador de vidro a  jato de areia"
+	},{
+		"code": 752230,
+		"title": "Lapidador de vidros e cristais"
+	},{
+		"code": 752235,
+		"title": "Surfassagista"
+	},{
+		"code": 752305,
+		"title": "Ceramista"
+	},{
+		"code": 752310,
+		"title": "Ceramista (torno de pedal e motor)"
+	},{
+		"code": 752315,
+		"title": "Ceramista (torno semi-automático)"
+	},{
+		"code": 752320,
+		"title": "Ceramista modelador"
+	},{
+		"code": 752325,
+		"title": "Ceramista moldador"
+	},{
+		"code": 752330,
+		"title": "Ceramista prensador"
+	},{
+		"code": 752405,
+		"title": "Decorador de cerâmica"
+	},{
+		"code": 752410,
+		"title": "Decorador de vidro"
+	},{
+		"code": 752415,
+		"title": "Decorador de vidro à pincel"
+	},{
+		"code": 752420,
+		"title": "Operador de esmaltadeira"
+	},{
+		"code": 752425,
+		"title": "Operador de espelhamento"
+	},{
+		"code": 752430,
+		"title": "Pintor de cerâmica, a  pincel"
+	},{
+		"code": 760105,
+		"title": "Contramestre de acabamento (indústria têxtil)"
+	},{
+		"code": 760110,
+		"title": "Contramestre de fiação (indústria têxtil)"
+	},{
+		"code": 760115,
+		"title": "Contramestre de malharia (indústria têxtil)"
+	},{
+		"code": 760120,
+		"title": "Contramestre de tecelagem (indústria têxtil)"
+	},{
+		"code": 760125,
+		"title": "Mestre (indústria têxtil e de confecções)"
+	},{
+		"code": 760205,
+		"title": "Supervisor de curtimento"
+	},{
+		"code": 760305,
+		"title": "Encarregado de corte na confecção do vestuário"
+	},{
+		"code": 760310,
+		"title": "Encarregado de costura na confecção do vestuário"
+	},{
+		"code": 760405,
+		"title": "Supervisor  (indústria de calçados e artefatos de couro)"
+	},{
+		"code": 760505,
+		"title": "Supervisor da confecção de artefatos de tecidos, couros e afins"
+	},{
+		"code": 760605,
+		"title": "Supervisor das artes gráficas  (indústria editorial e gráfica)"
+	},{
+		"code": 761005,
+		"title": "Operador polivalente da indústria têxtil"
+	},{
+		"code": 761105,
+		"title": "Classificador de fibras têxteis"
+	},{
+		"code": 761110,
+		"title": "Lavador de lã"
+	},{
+		"code": 761205,
+		"title": "Operador de abertura (fiação)"
+	},{
+		"code": 761210,
+		"title": "Operador de binadeira"
+	},{
+		"code": 761215,
+		"title": "Operador de bobinadeira"
+	},{
+		"code": 761220,
+		"title": "Operador de cardas"
+	},{
+		"code": 761225,
+		"title": "Operador de conicaleira"
+	},{
+		"code": 761230,
+		"title": "Operador de filatório"
+	},{
+		"code": 761235,
+		"title": "Operador de laminadeira e reunideira"
+	},{
+		"code": 761240,
+		"title": "Operador de maçaroqueira"
+	},{
+		"code": 761245,
+		"title": "Operador de open-end"
+	},{
+		"code": 761250,
+		"title": "Operador de passador (fiação)"
+	},{
+		"code": 761255,
+		"title": "Operador de penteadeira"
+	},{
+		"code": 761260,
+		"title": "Operador de retorcedeira"
+	},{
+		"code": 761303,
+		"title": "Tecelão (redes)"
+	},{
+		"code": 761306,
+		"title": "Tecelão (rendas e bordados)"
+	},{
+		"code": 761309,
+		"title": "Tecelão (tear automático)"
+	},{
+		"code": 761312,
+		"title": "Tecelão (tear jacquard)"
+	},{
+		"code": 761315,
+		"title": "Tecelão (tear mecânico de maquineta)"
+	},{
+		"code": 761318,
+		"title": "Tecelão (tear mecânico de xadrez)"
+	},{
+		"code": 761321,
+		"title": "Tecelão (tear mecânico liso)"
+	},{
+		"code": 761324,
+		"title": "Tecelão (tear mecânico, exceto jacquard)"
+	},{
+		"code": 761327,
+		"title": "Tecelão de malhas, a  máquina"
+	},{
+		"code": 761330,
+		"title": "Tecelão de malhas (máquina circular)"
+	},{
+		"code": 761333,
+		"title": "Tecelão de malhas (máquina retilínea)"
+	},{
+		"code": 761336,
+		"title": "Tecelão de meias, a  máquina"
+	},{
+		"code": 761339,
+		"title": "Tecelão de meias (máquina circular)"
+	},{
+		"code": 761342,
+		"title": "Tecelão de meias (máquina retilínea)"
+	},{
+		"code": 761345,
+		"title": "Tecelão de tapetes, a  máquina"
+	},{
+		"code": 761348,
+		"title": "Operador de engomadeira de urdume"
+	},{
+		"code": 761351,
+		"title": "Operador de espuladeira"
+	},{
+		"code": 761354,
+		"title": "Operador de máquina de cordoalha"
+	},{
+		"code": 761357,
+		"title": "Operador de urdideira"
+	},{
+		"code": 761360,
+		"title": "Passamaneiro a  máquina"
+	},{
+		"code": 761363,
+		"title": "Remetedor de fios"
+	},{
+		"code": 761366,
+		"title": "Picotador de cartões jacquard"
+	},{
+		"code": 761405,
+		"title": "Alvejador (tecidos)"
+	},{
+		"code": 761410,
+		"title": "Estampador de tecido"
+	},{
+		"code": 761415,
+		"title": "Operador de calandras (tecidos)"
+	},{
+		"code": 761420,
+		"title": "Operador de chamuscadeira de tecidos"
+	},{
+		"code": 761425,
+		"title": "Operador de impermeabilizador de tecidos"
+	},{
+		"code": 761430,
+		"title": "Operador de máquina de lavar fios e tecidos"
+	},{
+		"code": 761435,
+		"title": "Operador de rameuse"
+	},{
+		"code": 761805,
+		"title": "Inspetor de estamparia (produção têxtil)"
+	},{
+		"code": 761810,
+		"title": "Revisor de fios (produção têxtil)"
+	},{
+		"code": 761815,
+		"title": "Revisor de tecidos acabados"
+	},{
+		"code": 761820,
+		"title": "Revisor de tecidos crus"
+	},{
+		"code": 762005,
+		"title": "Trabalhador polivalente do curtimento de couros e peles"
+	},{
+		"code": 762105,
+		"title": "Classificador de peles"
+	},{
+		"code": 762110,
+		"title": "Descarnador de couros e peles, à maquina"
+	},{
+		"code": 762115,
+		"title": "Estirador de couros e peles (preparação)"
+	},{
+		"code": 762120,
+		"title": "Fuloneiro"
+	},{
+		"code": 762125,
+		"title": "Rachador de couros e peles"
+	},{
+		"code": 762205,
+		"title": "Curtidor (couros e peles)"
+	},{
+		"code": 762210,
+		"title": "Classificador de couros"
+	},{
+		"code": 762215,
+		"title": "Enxugador de couros"
+	},{
+		"code": 762220,
+		"title": "Rebaixador de couros"
+	},{
+		"code": 762305,
+		"title": "Estirador de couros e peles (acabamento)"
+	},{
+		"code": 762310,
+		"title": "Fuloneiro no acabamento de couros e peles"
+	},{
+		"code": 762315,
+		"title": "Lixador de couros e peles"
+	},{
+		"code": 762320,
+		"title": "Matizador de couros e peles"
+	},{
+		"code": 762325,
+		"title": "Operador de máquinas do acabamento de couros e peles"
+	},{
+		"code": 762330,
+		"title": "Prensador de couros e peles"
+	},{
+		"code": 762335,
+		"title": "Palecionador de couros e peles"
+	},{
+		"code": 762340,
+		"title": "Preparador de couros curtidos"
+	},{
+		"code": 762345,
+		"title": "Vaqueador de couros e peles"
+	},{
+		"code": 763005,
+		"title": "Alfaiate"
+	},{
+		"code": 763010,
+		"title": "Costureira de peças sob encomenda"
+	},{
+		"code": 763015,
+		"title": "Costureira de reparação de roupas"
+	},{
+		"code": 763020,
+		"title": "Costureiro de roupa de couro e pele"
+	},{
+		"code": 763105,
+		"title": "Auxiliar de corte (preparação da confecção de roupas)"
+	},{
+		"code": 763110,
+		"title": "Cortador de roupas"
+	},{
+		"code": 763115,
+		"title": "Enfestador de roupas"
+	},{
+		"code": 763120,
+		"title": "Riscador de roupas"
+	},{
+		"code": 763125,
+		"title": "Ajudante de confecção"
+	},{
+		"code": 763205,
+		"title": "Costureiro de roupas de couro e pele, a  máquina na  confecção em série"
+	},{
+		"code": 763210,
+		"title": "Costureiro na confecção em série"
+	},{
+		"code": 763215,
+		"title": "Costureiro, a  máquina  na confecção em série"
+	},{
+		"code": 763305,
+		"title": "Arrematadeira"
+	},{
+		"code": 763310,
+		"title": "Bordador, à máquina"
+	},{
+		"code": 763315,
+		"title": "Marcador de peças confeccionadas para bordar"
+	},{
+		"code": 763320,
+		"title": "Operador de máquina de costura de acabamento"
+	},{
+		"code": 763325,
+		"title": "Passadeira de peças confeccionadas"
+	},{
+		"code": 764005,
+		"title": "Trabalhador polivalente da confecção de calçados"
+	},{
+		"code": 764105,
+		"title": "Cortador de calçados, a  máquina (exceto solas e palmilhas)"
+	},{
+		"code": 764110,
+		"title": "Cortador de solas e palmilhas, a  máquina"
+	},{
+		"code": 764115,
+		"title": "Preparador de calçados"
+	},{
+		"code": 764120,
+		"title": "Preparador de solas e palmilhas"
+	},{
+		"code": 764205,
+		"title": "Costurador de calçados, a  máquina"
+	},{
+		"code": 764210,
+		"title": "Montador de calçados"
+	},{
+		"code": 764305,
+		"title": "Acabador de calçados"
+	},{
+		"code": 765005,
+		"title": "Confeccionador de artefatos de couro (exceto sapatos)"
+	},{
+		"code": 765010,
+		"title": "Chapeleiro de senhoras"
+	},{
+		"code": 765015,
+		"title": "Boneleiro"
+	},{
+		"code": 765105,
+		"title": "Cortador de artefatos de couro (exceto roupas e calçados)"
+	},{
+		"code": 765110,
+		"title": "Cortador de tapeçaria"
+	},{
+		"code": 765205,
+		"title": "Colchoeiro (confecção de colchões)"
+	},{
+		"code": 765215,
+		"title": "Confeccionador de brinquedos de pano"
+	},{
+		"code": 765225,
+		"title": "Confeccionador de velas náuticas, barracas e toldos"
+	},{
+		"code": 765230,
+		"title": "Estofador de aviões"
+	},{
+		"code": 765235,
+		"title": "Estofador de móveis"
+	},{
+		"code": 765240,
+		"title": "Tapeceiro de autos"
+	},{
+		"code": 765310,
+		"title": "Costurador de artefatos de couro, a  máquina (exceto roupas e calçados)"
+	},{
+		"code": 765315,
+		"title": "Montador de artefatos de couro (exceto roupas e calçados)"
+	},{
+		"code": 765405,
+		"title": "Trabalhador do acabamento de artefatos de tecidos e couros"
+	},{
+		"code": 766105,
+		"title": "Copiador de chapa"
+	},{
+		"code": 766115,
+		"title": "Gravador de matriz para flexografia (clicherista)"
+	},{
+		"code": 766120,
+		"title": "Editor de texto e imagem"
+	},{
+		"code": 766125,
+		"title": "Montador de fotolito (analógico e digital)"
+	},{
+		"code": 766130,
+		"title": "Gravador de matriz para rotogravura (eletromecânico e químico)"
+	},{
+		"code": 766135,
+		"title": "Gravador de matriz calcográfica"
+	},{
+		"code": 766140,
+		"title": "Gravador de matriz serigráfica"
+	},{
+		"code": 766145,
+		"title": "Operador de sistemas de prova (analógico e digital)"
+	},{
+		"code": 766150,
+		"title": "Operador de processo de tratamento de imagem"
+	},{
+		"code": 766155,
+		"title": "Programador visual gráfico"
+	},{
+		"code": 766205,
+		"title": "Impressor (serigrafia)"
+	},{
+		"code": 766210,
+		"title": "Impressor calcográfico"
+	},{
+		"code": 766215,
+		"title": "Impressor de ofsete (plano e rotativo)"
+	},{
+		"code": 766220,
+		"title": "Impressor de rotativa"
+	},{
+		"code": 766225,
+		"title": "Impressor de rotogravura"
+	},{
+		"code": 766230,
+		"title": "Impressor digital"
+	},{
+		"code": 766235,
+		"title": "Impressor flexográfico"
+	},{
+		"code": 766240,
+		"title": "Impressor letterset"
+	},{
+		"code": 766245,
+		"title": "Impressor tampográfico"
+	},{
+		"code": 766250,
+		"title": "Impressor tipográfico"
+	},{
+		"code": 766305,
+		"title": "Acabador de embalagens (flexíveis e cartotécnicas)"
+	},{
+		"code": 766310,
+		"title": "Impressor de corte e vinco"
+	},{
+		"code": 766315,
+		"title": "Operador de acabamento (indústria gráfica)"
+	},{
+		"code": 766320,
+		"title": "Operador de guilhotina (corte de papel)"
+	},{
+		"code": 766325,
+		"title": "Preparador de matrizes de corte e vinco"
+	},{
+		"code": 766405,
+		"title": "Laboratorista fotográfico"
+	},{
+		"code": 766410,
+		"title": "Revelador de filmes fotográficos, em preto e branco"
+	},{
+		"code": 766415,
+		"title": "Revelador de filmes fotográficos, em cores"
+	},{
+		"code": 766420,
+		"title": "Auxiliar de radiologia (revelação fotográfica)"
+	},{
+		"code": 768105,
+		"title": "Tecelão (tear manual)"
+	},{
+		"code": 768110,
+		"title": "Tecelão de tapetes, a  mão"
+	},{
+		"code": 768115,
+		"title": "Tricoteiro, à mão"
+	},{
+		"code": 768120,
+		"title": "Redeiro"
+	},{
+		"code": 768125,
+		"title": "Chapeleiro (chapéus de palha)"
+	},{
+		"code": 768130,
+		"title": "Crocheteiro, a  mão"
+	},{
+		"code": 768205,
+		"title": "Bordador, a  mão"
+	},{
+		"code": 768210,
+		"title": "Cerzidor"
+	},{
+		"code": 768305,
+		"title": "Artífice do couro"
+	},{
+		"code": 768310,
+		"title": "Cortador de calçados, a  mão (exceto solas)"
+	},{
+		"code": 768315,
+		"title": "Costurador de artefatos de couro, a  mão (exceto roupas e calçados)"
+	},{
+		"code": 768320,
+		"title": "Sapateiro (calçados sob medida)"
+	},{
+		"code": 768325,
+		"title": "Seleiro"
+	},{
+		"code": 768605,
+		"title": "Tipógrafo"
+	},{
+		"code": 768610,
+		"title": "Linotipista"
+	},{
+		"code": 768615,
+		"title": "Monotipista"
+	},{
+		"code": 768620,
+		"title": "Paginador"
+	},{
+		"code": 768625,
+		"title": "Pintor de letreiros"
+	},{
+		"code": 768630,
+		"title": "Confeccionador de carimbos de borracha"
+	},{
+		"code": 768705,
+		"title": "Gravador, à mão (encadernação)"
+	},{
+		"code": 768710,
+		"title": "Restaurador de livros"
+	},{
+		"code": 770105,
+		"title": "Mestre (indústria de madeira e mobiliário)"
+	},{
+		"code": 770110,
+		"title": "Mestre carpinteiro"
+	},{
+		"code": 771105,
+		"title": "Marceneiro"
+	},{
+		"code": 771110,
+		"title": "Modelador de madeira"
+	},{
+		"code": 771115,
+		"title": "Maquetista na marcenaria"
+	},{
+		"code": 771120,
+		"title": "Tanoeiro"
+	},{
+		"code": 772105,
+		"title": "Classificador de madeira"
+	},{
+		"code": 772110,
+		"title": "Impregnador de madeira"
+	},{
+		"code": 772115,
+		"title": "Secador de madeira"
+	},{
+		"code": 773105,
+		"title": "Cortador de laminados de madeira"
+	},{
+		"code": 773110,
+		"title": "Operador de serras no desdobramento de madeira"
+	},{
+		"code": 773115,
+		"title": "Serrador de bordas no desdobramento de madeira"
+	},{
+		"code": 773120,
+		"title": "Serrador de madeira"
+	},{
+		"code": 773125,
+		"title": "Serrador de madeira (serra circular múltipla)"
+	},{
+		"code": 773130,
+		"title": "Serrador de madeira (serra de fita múltipla)"
+	},{
+		"code": 773205,
+		"title": "Operador de máquina intercaladora e placas (compensados)"
+	},{
+		"code": 773210,
+		"title": "Prensista de aglomerados"
+	},{
+		"code": 773215,
+		"title": "Prensista de compensados"
+	},{
+		"code": 773220,
+		"title": "Preparador de aglomerantes"
+	},{
+		"code": 773305,
+		"title": "Operador de desempenadeira na usinagem convencional de madeira"
+	},{
+		"code": 773310,
+		"title": "Operador de entalhadeira (usinagem de madeira)"
+	},{
+		"code": 773315,
+		"title": "Operador de fresadora (usinagem de madeira)"
+	},{
+		"code": 773320,
+		"title": "Operador de lixadeira (usinagem de madeira)"
+	},{
+		"code": 773325,
+		"title": "Operador de máquina de usinagem madeira, em geral"
+	},{
+		"code": 773330,
+		"title": "Operador de molduradora (usinagem de madeira)"
+	},{
+		"code": 773335,
+		"title": "Operador de plaina desengrossadeira"
+	},{
+		"code": 773340,
+		"title": "Operador de serras (usinagem de madeira)"
+	},{
+		"code": 773345,
+		"title": "Operador de torno automático (usinagem de madeira)"
+	},{
+		"code": 773350,
+		"title": "Operador de tupia (usinagem de madeira)"
+	},{
+		"code": 773355,
+		"title": "Torneiro na usinagem convencional de madeira"
+	},{
+		"code": 773405,
+		"title": "Operador de máquina bordatriz"
+	},{
+		"code": 773410,
+		"title": "Operador de máquina de cortina d´água (produção de móveis)"
+	},{
+		"code": 773415,
+		"title": "Operador de máquina de usinagem de madeira (produção em série)"
+	},{
+		"code": 773420,
+		"title": "Operador de prensa de alta freqüência na usinagem de madeira"
+	},{
+		"code": 773505,
+		"title": "Operador de centro de usinagem de madeira (cnc)"
+	},{
+		"code": 773510,
+		"title": "Operador de máquinas de usinar madeira (cnc)"
+	},{
+		"code": 774105,
+		"title": "Montador de móveis e artefatos de madeira"
+	},{
+		"code": 775105,
+		"title": "Entalhador  de madeira"
+	},{
+		"code": 775110,
+		"title": "Folheador de móveis de madeira"
+	},{
+		"code": 775115,
+		"title": "Lustrador de peças de madeira"
+	},{
+		"code": 775120,
+		"title": "Marcheteiro"
+	},{
+		"code": 776405,
+		"title": "Cesteiro"
+	},{
+		"code": 776410,
+		"title": "Confeccionador de escovas, pincéis e produtos similares (a mão)"
+	},{
+		"code": 776415,
+		"title": "Confeccionador de escovas, pincéis e produtos similares (a máquina)"
+	},{
+		"code": 776420,
+		"title": "Confeccionador de móveis de vime, junco e bambu"
+	},{
+		"code": 776425,
+		"title": "Esteireiro"
+	},{
+		"code": 776430,
+		"title": "Vassoureiro"
+	},{
+		"code": 777105,
+		"title": "Carpinteiro naval (construção de pequenas embarcações)"
+	},{
+		"code": 777110,
+		"title": "Carpinteiro naval (embarcações)"
+	},{
+		"code": 777115,
+		"title": "Carpinteiro naval (estaleiros)"
+	},{
+		"code": 777205,
+		"title": "Carpinteiro de carretas"
+	},{
+		"code": 777210,
+		"title": "Carpinteiro de carrocerias"
+	},{
+		"code": 780105,
+		"title": "Supervisor de embalagem e etiquetagem"
+	},{
+		"code": 781105,
+		"title": "Condutor de processos robotizados de pintura"
+	},{
+		"code": 781110,
+		"title": "Condutor de processos robotizados de soldagem"
+	},{
+		"code": 781305,
+		"title": "Operador de veículos subaquáticos controlados remotamente"
+	},{
+		"code": 781705,
+		"title": "Mergulhador profissional (raso e profundo)"
+	},{
+		"code": 782105,
+		"title": "Operador de draga"
+	},{
+		"code": 782110,
+		"title": "Operador de guindaste (fixo)"
+	},{
+		"code": 782115,
+		"title": "Operador de guindaste móvel"
+	},{
+		"code": 782120,
+		"title": "Operador de máquina rodoferroviária"
+	},{
+		"code": 782125,
+		"title": "Operador de monta-cargas (construção civil)"
+	},{
+		"code": 782130,
+		"title": "Operador de ponte rolante"
+	},{
+		"code": 782135,
+		"title": "Operador de pórtico rolante"
+	},{
+		"code": 782140,
+		"title": "Operador de talha elétrica"
+	},{
+		"code": 782145,
+		"title": "Sinaleiro (ponte-rolante)"
+	},{
+		"code": 782205,
+		"title": "Guincheiro (construção civil)"
+	},{
+		"code": 782210,
+		"title": "Operador de docagem"
+	},{
+		"code": 782220,
+		"title": "Operador de empilhadeira"
+	},{
+		"code": 782305,
+		"title": "Motorista de carro de passeio"
+	},{
+		"code": 782310,
+		"title": "Motorista de furgão ou veículo similar"
+	},{
+		"code": 782315,
+		"title": "Motorista de táxi"
+	},{
+		"code": 782320,
+		"title": "Condutor de ambulância"
+	},{
+		"code": 782405,
+		"title": "Motorista de ônibus rodoviário"
+	},{
+		"code": 782410,
+		"title": "Motorista de ônibus urbano"
+	},{
+		"code": 782415,
+		"title": "Motorista de trólebus"
+	},{
+		"code": 782505,
+		"title": "Caminhoneiro autônomo (rotas regionais e internacionais)"
+	},{
+		"code": 782510,
+		"title": "Motorista de caminhão (rotas regionais e internacionais)"
+	},{
+		"code": 782515,
+		"title": "Motorista operacional de guincho"
+	},{
+		"code": 782605,
+		"title": "Operador de trem de metrô"
+	},{
+		"code": 782610,
+		"title": "Maquinista de trem"
+	},{
+		"code": 782615,
+		"title": "Maquinista de trem metropolitano"
+	},{
+		"code": 782620,
+		"title": "Motorneiro"
+	},{
+		"code": 782625,
+		"title": "Auxiliar de maquinista de trem"
+	},{
+		"code": 782630,
+		"title": "Operador de teleférico (passageiros)"
+	},{
+		"code": 782705,
+		"title": "Marinheiro de convés (marítimo e fluviário)"
+	},{
+		"code": 782710,
+		"title": "Marinheiro de máquinas"
+	},{
+		"code": 782715,
+		"title": "Moço de convés (marítimo e fluviário)"
+	},{
+		"code": 782720,
+		"title": "Moço de máquinas (marítimo e fluviário)"
+	},{
+		"code": 782725,
+		"title": "Marinheiro de esporte e recreio"
+	},{
+		"code": 782730,
+		"title": "Marinheiro auxiliar de convés (marítimo e aquaviario)"
+	},{
+		"code": 782735,
+		"title": "Marinheiro auxiliar de máquinas (marítimo e aquaviário)"
+	},{
+		"code": 782805,
+		"title": "Condutor de veículos de tração animal (ruas e estradas)"
+	},{
+		"code": 782810,
+		"title": "Tropeiro"
+	},{
+		"code": 782815,
+		"title": "Boiadeiro"
+	},{
+		"code": 782820,
+		"title": "Condutor de veículos a pedais"
+	},{
+		"code": 783105,
+		"title": "Agente de pátio"
+	},{
+		"code": 783110,
+		"title": "Manobrador"
+	},{
+		"code": 783205,
+		"title": "Carregador (aeronaves)"
+	},{
+		"code": 783210,
+		"title": "Carregador (armazém)"
+	},{
+		"code": 783215,
+		"title": "Carregador (veículos de transportes terrestres)"
+	},{
+		"code": 783220,
+		"title": "Estivador"
+	},{
+		"code": 783225,
+		"title": "Ajudante de motorista"
+	},{
+		"code": 783230,
+		"title": "Bloqueiro (trabalhador portuário)"
+	},{
+		"code": 783235,
+		"title": "Trabalhador portuário de capatazia"
+	},{
+		"code": 783240,
+		"title": "Amarrador e desamarrado de embarcações"
+	},{
+		"code": 784105,
+		"title": "Embalador, a mão"
+	},{
+		"code": 784110,
+		"title": "Embalador, a máquina"
+	},{
+		"code": 784115,
+		"title": "Operador de máquina de etiquetar"
+	},{
+		"code": 784120,
+		"title": "Operador de máquina de envasar líquidos"
+	},{
+		"code": 784125,
+		"title": "Operador de prensa de enfardamento"
+	},{
+		"code": 784205,
+		"title": "Alimentador de linha de produção"
+	},{
+		"code": 791105,
+		"title": "Artesão bordador"
+	},{
+		"code": 791110,
+		"title": "Artesão ceramista"
+	},{
+		"code": 791115,
+		"title": "Artesão com material reciclável"
+	},{
+		"code": 791120,
+		"title": "Artesão confeccionador de biojóias e ecojóias"
+	},{
+		"code": 791125,
+		"title": "Artesão do couro"
+	},{
+		"code": 791130,
+		"title": "Artesão escultor"
+	},{
+		"code": 791135,
+		"title": "Artesão moveleiro (exceto reciclado)"
+	},{
+		"code": 791140,
+		"title": "Artesão tecelão"
+	},{
+		"code": 791145,
+		"title": "Artesão trançador"
+	},{
+		"code": 791150,
+		"title": "Artesão crocheteiro"
+	},{
+		"code": 791155,
+		"title": "Artesão tricoteiro"
+	},{
+		"code": 791160,
+		"title": "Artesão rendeiro"
+	},{
+		"code": 810105,
+		"title": "Mestre (indústria petroquímica e carboquímica)"
+	},{
+		"code": 810110,
+		"title": "Mestre de produção química"
+	},{
+		"code": 810205,
+		"title": "Mestre (indústria de borracha e plástico)"
+	},{
+		"code": 810305,
+		"title": "Mestre de produção farmacêutica"
+	},{
+		"code": 811005,
+		"title": "Operador de processos químicos e petroquímicos"
+	},{
+		"code": 811010,
+		"title": "Operador de sala de controle de instalações químicas, petroquímicas e afins"
+	},{
+		"code": 811105,
+		"title": "Moleiro (tratamentos químicos e afins)"
+	},{
+		"code": 811110,
+		"title": "Operador de máquina misturadeira (tratamentos químicos e afins)"
+	},{
+		"code": 811115,
+		"title": "Operador de britadeira (tratamentos químicos e afins)"
+	},{
+		"code": 811120,
+		"title": "Operador de concentração"
+	},{
+		"code": 811125,
+		"title": "Trabalhador da fabricação de resinas e vernizes"
+	},{
+		"code": 811130,
+		"title": "Trabalhador de fabricação de tintas"
+	},{
+		"code": 811205,
+		"title": "Operador de calcinação (tratamento químico e afins)"
+	},{
+		"code": 811215,
+		"title": "Operador de tratamento químico de materiais radioativos"
+	},{
+		"code": 811305,
+		"title": "Operador de centrifugadora (tratamentos químicos e afins)"
+	},{
+		"code": 811310,
+		"title": "Operador de exploração de petróleo"
+	},{
+		"code": 811315,
+		"title": "Operador de filtro de secagem (mineração)"
+	},{
+		"code": 811320,
+		"title": "Operador de filtro de tambor rotativo (tratamentos químicos e afins)"
+	},{
+		"code": 811325,
+		"title": "Operador de filtro-esteira (mineração)"
+	},{
+		"code": 811330,
+		"title": "Operador de filtro-prensa (tratamentos químicos e afins)"
+	},{
+		"code": 811335,
+		"title": "Operador de filtros de parafina (tratamentos químicos e afins)"
+	},{
+		"code": 811405,
+		"title": "Destilador de madeira"
+	},{
+		"code": 811410,
+		"title": "Destilador de produtos químicos (exceto petróleo)"
+	},{
+		"code": 811415,
+		"title": "Operador de alambique de funcionamento contínuo (produtos químicos, exceto petróleo)"
+	},{
+		"code": 811420,
+		"title": "Operador de aparelho de reação e conversão (produtos químicos, exceto petróleo)"
+	},{
+		"code": 811425,
+		"title": "Operador de equipamento de destilação de álcool"
+	},{
+		"code": 811430,
+		"title": "Operador de evaporador na destilação"
+	},{
+		"code": 811505,
+		"title": "Operador de painel de controle (refinação de petróleo)"
+	},{
+		"code": 811510,
+		"title": "Operador de transferência e estocagem - na refinação do petróleo"
+	},{
+		"code": 811605,
+		"title": "Operador de britador de coque"
+	},{
+		"code": 811610,
+		"title": "Operador de carro de apagamento e coque"
+	},{
+		"code": 811615,
+		"title": "Operador de destilação e subprodutos de coque"
+	},{
+		"code": 811620,
+		"title": "Operador de enfornamento e desenfornamento de coque"
+	},{
+		"code": 811625,
+		"title": "Operador de exaustor (coqueria)"
+	},{
+		"code": 811630,
+		"title": "Operador de painel de controle"
+	},{
+		"code": 811635,
+		"title": "Operador de preservação e controle térmico"
+	},{
+		"code": 811640,
+		"title": "Operador de reator de coque de petróleo"
+	},{
+		"code": 811645,
+		"title": "Operador de refrigeração (coqueria)"
+	},{
+		"code": 811650,
+		"title": "Operador de sistema de reversão (coqueria)"
+	},{
+		"code": 811705,
+		"title": "Bamburista"
+	},{
+		"code": 811710,
+		"title": "Calandrista de borracha"
+	},{
+		"code": 811715,
+		"title": "Confeccionador de pneumáticos"
+	},{
+		"code": 811725,
+		"title": "Confeccionador de velas por imersão"
+	},{
+		"code": 811735,
+		"title": "Confeccionador de velas por moldagem"
+	},{
+		"code": 811745,
+		"title": "Laminador de plástico"
+	},{
+		"code": 811750,
+		"title": "Moldador de borracha por compressão"
+	},{
+		"code": 811760,
+		"title": "Moldador de plástico por compressão"
+	},{
+		"code": 811770,
+		"title": "Moldador de plástico por injeção"
+	},{
+		"code": 811775,
+		"title": "Trefilador de borracha"
+	},{
+		"code": 811805,
+		"title": "Operador de máquina de produtos farmacêuticos"
+	},{
+		"code": 811810,
+		"title": "Drageador (medicamentos)"
+	},{
+		"code": 811815,
+		"title": "Operador de máquina de fabricação de cosméticos"
+	},{
+		"code": 811820,
+		"title": "Operador de máquina de fabricação de produtos de higiene e limpeza (sabão, sabonete, detergente, absorvente, fraldas cotonetes e outros)"
+	},{
+		"code": 812105,
+		"title": "Pirotécnico"
+	},{
+		"code": 812110,
+		"title": "Trabalhador da fabricação de munição e explosivos"
+	},{
+		"code": 813105,
+		"title": "Cilindrista (petroquímica e afins)"
+	},{
+		"code": 813110,
+		"title": "Operador de calandra (química, petroquímica e afins)"
+	},{
+		"code": 813115,
+		"title": "Operador de extrusora (química, petroquímica e afins)"
+	},{
+		"code": 813120,
+		"title": "Operador de processo (química, petroquímica e afins)"
+	},{
+		"code": 813125,
+		"title": "Operador de produção (química, petroquímica e afins)"
+	},{
+		"code": 813130,
+		"title": "Técnico de operação (química, petroquímica e afins)"
+	},{
+		"code": 818105,
+		"title": "Assistente de laboratório industrial"
+	},{
+		"code": 818110,
+		"title": "Auxiliar de laboratório de análises físico-químicas"
+	},{
+		"code": 820105,
+		"title": "Mestre de siderurgia"
+	},{
+		"code": 820110,
+		"title": "Mestre de aciaria"
+	},{
+		"code": 820115,
+		"title": "Mestre de alto-forno"
+	},{
+		"code": 820120,
+		"title": "Mestre de forno elétrico"
+	},{
+		"code": 820125,
+		"title": "Mestre de laminação"
+	},{
+		"code": 820205,
+		"title": "Supervisor de fabricação de produtos cerâmicos, porcelanatos e afins"
+	},{
+		"code": 820210,
+		"title": "Supervisor de fabricação de produtos de vidro"
+	},{
+		"code": 821105,
+		"title": "Operador de centro de controle"
+	},{
+		"code": 821110,
+		"title": "Operador de máquina de sinterizar"
+	},{
+		"code": 821205,
+		"title": "Forneiro e operador (alto-forno)"
+	},{
+		"code": 821210,
+		"title": "Forneiro e operador (conversor a oxigênio)"
+	},{
+		"code": 821215,
+		"title": "Forneiro e operador (forno elétrico)"
+	},{
+		"code": 821220,
+		"title": "Forneiro e operador (refino de metais não-ferrosos)"
+	},{
+		"code": 821225,
+		"title": "Forneiro e operador de forno de redução direta"
+	},{
+		"code": 821230,
+		"title": "Operador de aciaria (basculamento de convertedor)"
+	},{
+		"code": 821235,
+		"title": "Operador de aciaria (dessulfuração de gusa)"
+	},{
+		"code": 821240,
+		"title": "Operador de aciaria (recebimento de gusa)"
+	},{
+		"code": 821245,
+		"title": "Operador de área de corrida"
+	},{
+		"code": 821250,
+		"title": "Operador de desgaseificação"
+	},{
+		"code": 821255,
+		"title": "Soprador de convertedor"
+	},{
+		"code": 821305,
+		"title": "Operador de laminador"
+	},{
+		"code": 821310,
+		"title": "Operador de laminador de barras a frio"
+	},{
+		"code": 821315,
+		"title": "Operador de laminador de barras a quente"
+	},{
+		"code": 821320,
+		"title": "Operador de laminador de metais não-ferrosos"
+	},{
+		"code": 821325,
+		"title": "Operador de laminador de tubos"
+	},{
+		"code": 821330,
+		"title": "Operador de montagem de cilindros e mancais"
+	},{
+		"code": 821335,
+		"title": "Recuperador de guias e cilindros"
+	},{
+		"code": 821405,
+		"title": "Encarregado de acabamento de chapas e metais  (têmpera)"
+	},{
+		"code": 821410,
+		"title": "Escarfador"
+	},{
+		"code": 821415,
+		"title": "Marcador de produtos (siderúrgico e metalúrgico)"
+	},{
+		"code": 821420,
+		"title": "Operador de bobinadeira de tiras a quente, no acabamento de chapas e metais"
+	},{
+		"code": 821425,
+		"title": "Operador de cabine de laminação (fio-máquina)"
+	},{
+		"code": 821430,
+		"title": "Operador de escória e sucata"
+	},{
+		"code": 821435,
+		"title": "Operador de jato abrasivo"
+	},{
+		"code": 821440,
+		"title": "Operador de tesoura mecânica e máquina de corte, no acabamento de chapas e metais"
+	},{
+		"code": 821445,
+		"title": "Preparador de sucata e aparas"
+	},{
+		"code": 821450,
+		"title": "Rebarbador de metal"
+	},{
+		"code": 822105,
+		"title": "Forneiro de cubilô"
+	},{
+		"code": 822110,
+		"title": "Forneiro de forno-poço"
+	},{
+		"code": 822115,
+		"title": "Forneiro de fundição (forno de redução)"
+	},{
+		"code": 822120,
+		"title": "Forneiro de reaquecimento e tratamento térmico na metalurgia"
+	},{
+		"code": 822125,
+		"title": "Forneiro de revérbero"
+	},{
+		"code": 823105,
+		"title": "Preparador de massa (fabricação de abrasivos)"
+	},{
+		"code": 823110,
+		"title": "Preparador de massa (fabricação de vidro)"
+	},{
+		"code": 823115,
+		"title": "Preparador de massa de argila"
+	},{
+		"code": 823120,
+		"title": "Preparador de barbotina"
+	},{
+		"code": 823125,
+		"title": "Preparador de esmaltes (cerâmica)"
+	},{
+		"code": 823130,
+		"title": "Preparador de aditivos"
+	},{
+		"code": 823135,
+		"title": "Operador de atomizador"
+	},{
+		"code": 823210,
+		"title": "Extrusor de fios ou fibras de vidro"
+	},{
+		"code": 823215,
+		"title": "Forneiro na fundição de vidro"
+	},{
+		"code": 823220,
+		"title": "Forneiro no recozimento de vidro"
+	},{
+		"code": 823230,
+		"title": "Moldador de abrasivos na fabricação de cerâmica, vidro e porcelana"
+	},{
+		"code": 823235,
+		"title": "Operador de banho metálico de vidro por flutuação"
+	},{
+		"code": 823240,
+		"title": "Operador de máquina de soprar vidro"
+	},{
+		"code": 823245,
+		"title": "Operador de máquina extrusora de varetas e tubos de vidro"
+	},{
+		"code": 823250,
+		"title": "Operador de prensa de moldar vidro"
+	},{
+		"code": 823255,
+		"title": "Temperador de vidro"
+	},{
+		"code": 823265,
+		"title": "Trabalhador na fabricação de produtos abrasivos"
+	},{
+		"code": 823305,
+		"title": "Classificador e empilhador de tijolos refratários"
+	},{
+		"code": 823315,
+		"title": "Forneiro (materiais de construção)"
+	},{
+		"code": 823320,
+		"title": "Trabalhador da elaboração de pré-fabricados (cimento amianto)"
+	},{
+		"code": 823325,
+		"title": "Trabalhador da elaboração de pré-fabricados (concreto armado)"
+	},{
+		"code": 823330,
+		"title": "Trabalhador da fabricação de pedras artificiais"
+	},{
+		"code": 828105,
+		"title": "Oleiro (fabricação de telhas)"
+	},{
+		"code": 828110,
+		"title": "Oleiro (fabricação de tijolos)"
+	},{
+		"code": 830105,
+		"title": "Mestre (indústria de celulose, papel e papelão)"
+	},{
+		"code": 831105,
+		"title": "Cilindreiro na preparação de pasta para fabricação de papel"
+	},{
+		"code": 831110,
+		"title": "Operador de branqueador de pasta para fabricação de papel"
+	},{
+		"code": 831115,
+		"title": "Operador de digestor de pasta para fabricação de papel"
+	},{
+		"code": 831120,
+		"title": "Operador de lavagem e depuração de pasta para fabricação de papel"
+	},{
+		"code": 831125,
+		"title": "Operador de máquina de secar celulose"
+	},{
+		"code": 832105,
+		"title": "Calandrista de papel"
+	},{
+		"code": 832110,
+		"title": "Operador de cortadeira de papel"
+	},{
+		"code": 832115,
+		"title": "Operador de máquina de fabricar papel  (fase úmida)"
+	},{
+		"code": 832120,
+		"title": "Operador de máquina de fabricar papel (fase seca)"
+	},{
+		"code": 832125,
+		"title": "Operador de máquina de fabricar papel e papelão"
+	},{
+		"code": 832135,
+		"title": "Operador de rebobinadeira na fabricação de papel e papelão"
+	},{
+		"code": 833105,
+		"title": "Cartonageiro, a máquina"
+	},{
+		"code": 833110,
+		"title": "Confeccionador de bolsas, sacos e sacolas e papel, a máquina"
+	},{
+		"code": 833115,
+		"title": "Confeccionador de sacos de celofane, a máquina"
+	},{
+		"code": 833120,
+		"title": "Operador de máquina de cortar e dobrar papelão"
+	},{
+		"code": 833125,
+		"title": "Operador de prensa de embutir papelão"
+	},{
+		"code": 833205,
+		"title": "Cartonageiro, a mão (caixas de papelão)"
+	},{
+		"code": 840105,
+		"title": "Supervisor de produção da indústria alimentícia"
+	},{
+		"code": 840110,
+		"title": "Supervisor da indústria de bebidas"
+	},{
+		"code": 840115,
+		"title": "Supervisor da indústria de fumo"
+	},{
+		"code": 840120,
+		"title": "Chefe de confeitaria"
+	},{
+		"code": 841105,
+		"title": "Moleiro de cereais (exceto arroz)"
+	},{
+		"code": 841110,
+		"title": "Moleiro de especiarias"
+	},{
+		"code": 841115,
+		"title": "Operador de processo de moagem"
+	},{
+		"code": 841205,
+		"title": "Moedor de sal"
+	},{
+		"code": 841210,
+		"title": "Refinador de sal"
+	},{
+		"code": 841305,
+		"title": "Operador de cristalização na refinação de açucar"
+	},{
+		"code": 841310,
+		"title": "Operador de equipamentos de refinação de açúcar (processo contínuo)"
+	},{
+		"code": 841315,
+		"title": "Operador de moenda na fabricação de açúcar"
+	},{
+		"code": 841320,
+		"title": "Operador de tratamento de calda na refinação de açúcar"
+	},{
+		"code": 841408,
+		"title": "Cozinhador (conservação de alimentos)"
+	},{
+		"code": 841416,
+		"title": "Cozinhador de carnes"
+	},{
+		"code": 841420,
+		"title": "Cozinhador de frutas e legumes"
+	},{
+		"code": 841428,
+		"title": "Cozinhador de pescado"
+	},{
+		"code": 841432,
+		"title": "Desidratador de alimentos"
+	},{
+		"code": 841440,
+		"title": "Esterilizador de alimentos"
+	},{
+		"code": 841444,
+		"title": "Hidrogenador de óleos e gorduras"
+	},{
+		"code": 841448,
+		"title": "Lagareiro"
+	},{
+		"code": 841456,
+		"title": "Operador de câmaras frias"
+	},{
+		"code": 841460,
+		"title": "Operador de preparação de grãos vegetais (óleos e gorduras)"
+	},{
+		"code": 841464,
+		"title": "Prensador de frutas (exceto oleaginosas)"
+	},{
+		"code": 841468,
+		"title": "Preparador de rações"
+	},{
+		"code": 841472,
+		"title": "Refinador de óleo e gordura"
+	},{
+		"code": 841476,
+		"title": "Trabalhador de fabricação de margarina"
+	},{
+		"code": 841484,
+		"title": "Trabalhador de preparação de pescados (limpeza)"
+	},{
+		"code": 841505,
+		"title": "Trabalhador de tratamento do leite e fabricação de laticínios e afins"
+	},{
+		"code": 841605,
+		"title": "Misturador de café"
+	},{
+		"code": 841610,
+		"title": "Torrador de café"
+	},{
+		"code": 841615,
+		"title": "Moedor de café"
+	},{
+		"code": 841620,
+		"title": "Operador de extração de café solúvel"
+	},{
+		"code": 841625,
+		"title": "Torrador de cacau"
+	},{
+		"code": 841630,
+		"title": "Misturador de chá ou mate"
+	},{
+		"code": 841705,
+		"title": "Alambiqueiro"
+	},{
+		"code": 841710,
+		"title": "Filtrador de cerveja"
+	},{
+		"code": 841715,
+		"title": "Fermentador"
+	},{
+		"code": 841720,
+		"title": "Trabalhador de fabricação de vinhos"
+	},{
+		"code": 841725,
+		"title": "Malteiro (germinação)"
+	},{
+		"code": 841730,
+		"title": "Cozinhador de malte"
+	},{
+		"code": 841735,
+		"title": "Dessecador de malte"
+	},{
+		"code": 841740,
+		"title": "Vinagreiro"
+	},{
+		"code": 841745,
+		"title": "Xaropeiro"
+	},{
+		"code": 841805,
+		"title": "Operador de forno (fabricação de pães, biscoitos e similares)"
+	},{
+		"code": 841810,
+		"title": "Operador de máquinas de fabricação de doces, salgados e massas alimentícias"
+	},{
+		"code": 841815,
+		"title": "Operador de máquinas de fabricação de chocolates e achocolatados"
+	},{
+		"code": 842105,
+		"title": "Preparador de melado e essência de fumo"
+	},{
+		"code": 842110,
+		"title": "Processador de fumo"
+	},{
+		"code": 842115,
+		"title": "Classificador de fumo"
+	},{
+		"code": 842120,
+		"title": "Auxiliar de processamento de fumo"
+	},{
+		"code": 842125,
+		"title": "Operador de máquina (fabricação de cigarros)"
+	},{
+		"code": 842135,
+		"title": "Operador de máquina de preparação de matéria prima para produção de cigarros"
+	},{
+		"code": 842205,
+		"title": "Preparador de fumo na fabricação de charutos"
+	},{
+		"code": 842210,
+		"title": "Operador de máquina de fabricar charutos e cigarrilhas"
+	},{
+		"code": 842215,
+		"title": "Classificador de charutos"
+	},{
+		"code": 842220,
+		"title": "Cortador de charutos"
+	},{
+		"code": 842225,
+		"title": "Celofanista na fabricação de charutos"
+	},{
+		"code": 842230,
+		"title": "Charuteiro a mão"
+	},{
+		"code": 842235,
+		"title": "Degustador de charutos"
+	},{
+		"code": 848105,
+		"title": "Defumador de carnes e pescados"
+	},{
+		"code": 848110,
+		"title": "Salgador de alimentos"
+	},{
+		"code": 848115,
+		"title": "Salsicheiro (fabricação de lingüiça, salsicha e produtos similares)"
+	},{
+		"code": 848205,
+		"title": "Pasteurizador"
+	},{
+		"code": 848210,
+		"title": "Queijeiro na fabricação de laticínio"
+	},{
+		"code": 848215,
+		"title": "Manteigueiro na fabricação de laticínio"
+	},{
+		"code": 848305,
+		"title": "Padeiro"
+	},{
+		"code": 848310,
+		"title": "Confeiteiro"
+	},{
+		"code": 848315,
+		"title": "Masseiro (massas alimentícias)"
+	},{
+		"code": 848325,
+		"title": "Trabalhador de fabricação de sorvete"
+	},{
+		"code": 848405,
+		"title": "Degustador de café"
+	},{
+		"code": 848410,
+		"title": "Degustador de chá"
+	},{
+		"code": 848415,
+		"title": "Degustador de derivados de cacau"
+	},{
+		"code": 848420,
+		"title": "Degustador de vinhos ou licores"
+	},{
+		"code": 848425,
+		"title": "Classificador de grãos"
+	},{
+		"code": 848505,
+		"title": "Abatedor"
+	},{
+		"code": 848510,
+		"title": "Açougueiro"
+	},{
+		"code": 848515,
+		"title": "Desossador"
+	},{
+		"code": 848520,
+		"title": "Magarefe"
+	},{
+		"code": 848525,
+		"title": "Retalhador de carne"
+	},{
+		"code": 848605,
+		"title": "Trabalhador do beneficiamento de fumo"
+	},{
+		"code": 860105,
+		"title": "Supervisor de manutenção eletromecânica (utilidades)"
+	},{
+		"code": 860110,
+		"title": "Supervisor de operação de fluidos (distribuição, captação, tratamento de água, gases, vapor)"
+	},{
+		"code": 860115,
+		"title": "Supervisor de operação elétrica (geração, transmissão e distribuição de energia elétrica)"
+	},{
+		"code": 861105,
+		"title": "Operador de central hidrelétrica"
+	},{
+		"code": 861110,
+		"title": "Operador de quadro de distribuição de energia elétrica"
+	},{
+		"code": 861115,
+		"title": "Operador de central termoelétrica"
+	},{
+		"code": 861120,
+		"title": "Operador de reator nuclear"
+	},{
+		"code": 861205,
+		"title": "Operador de subestação"
+	},{
+		"code": 862105,
+		"title": "Foguista (locomotivas a vapor)"
+	},{
+		"code": 862110,
+		"title": "Maquinista de embarcações"
+	},{
+		"code": 862115,
+		"title": "Operador de bateria de gás de hulha"
+	},{
+		"code": 862120,
+		"title": "Operador de caldeira"
+	},{
+		"code": 862130,
+		"title": "Operador de compressor de ar"
+	},{
+		"code": 862140,
+		"title": "Operador de estação de bombeamento"
+	},{
+		"code": 862150,
+		"title": "Operador de máquinas fixas, em geral"
+	},{
+		"code": 862155,
+		"title": "Operador de utilidade (produção e distribuição de vapor, gás, óleo, combustível, energia, oxigênio)"
+	},{
+		"code": 862160,
+		"title": "Operador de abastecimento de combustível de aeronave"
+	},{
+		"code": 862205,
+		"title": "Operador de estação de captação, tratamento e distribuição de água"
+	},{
+		"code": 862305,
+		"title": "Operador de estação de tratamento de água e efluentes"
+	},{
+		"code": 862310,
+		"title": "Operador de forno de incineração no tratamento de água, efluentes e resíduos industriais"
+	},{
+		"code": 862405,
+		"title": "Operador de instalação de extração, processamento, envasamento e distribuição de gases"
+	},{
+		"code": 862505,
+		"title": "Operador de instalação de refrigeração"
+	},{
+		"code": 862510,
+		"title": "Operador de refrigeração com amônia"
+	},{
+		"code": 862515,
+		"title": "Operador de instalação de ar-condicionado"
+	},{
+		"code": 910105,
+		"title": "Encarregado de manutenção mecânica de sistemas operacionais"
+	},{
+		"code": 910110,
+		"title": "Supervisor de manutenção de aparelhos térmicos, de climatização e de refrigeração"
+	},{
+		"code": 910115,
+		"title": "Supervisor de manutenção de bombas, motores, compressores e equipamentos de transmissão"
+	},{
+		"code": 910120,
+		"title": "Supervisor de manutenção de máquinas gráficas"
+	},{
+		"code": 910125,
+		"title": "Supervisor de manutenção de máquinas industriais têxteis"
+	},{
+		"code": 910130,
+		"title": "Supervisor de manutenção de máquinas operatrizes e de usinagem"
+	},{
+		"code": 910205,
+		"title": "Supervisor da manutenção e reparação de veículos leves"
+	},{
+		"code": 910210,
+		"title": "Supervisor da manutenção e reparação de veículos pesados"
+	},{
+		"code": 910905,
+		"title": "Supervisor de reparos linhas férreas"
+	},{
+		"code": 910910,
+		"title": "Supervisor de manutenção de vias férreas"
+	},{
+		"code": 911105,
+		"title": "Mecânico de manutenção de bomba injetora (exceto de veículos automotores)"
+	},{
+		"code": 911110,
+		"title": "Mecânico de manutenção de bombas"
+	},{
+		"code": 911115,
+		"title": "Mecânico de manutenção de compressores de ar"
+	},{
+		"code": 911120,
+		"title": "Mecânico de manutenção de motores diesel (exceto de veículos automotores)"
+	},{
+		"code": 911125,
+		"title": "Mecânico de manutenção de redutores"
+	},{
+		"code": 911130,
+		"title": "Mecânico de manutenção de turbinas (exceto de aeronaves)"
+	},{
+		"code": 911135,
+		"title": "Mecânico de manutenção de turbocompressores"
+	},{
+		"code": 911205,
+		"title": "Mecânico de manutenção e instalação de aparelhos de climatização e  refrigeração"
+	},{
+		"code": 911305,
+		"title": "Mecânico de manutenção de máquinas, em geral"
+	},{
+		"code": 911310,
+		"title": "Mecânico de manutenção de máquinas gráficas"
+	},{
+		"code": 911315,
+		"title": "Mecânico de manutenção de máquinas operatrizes (lavra de madeira)"
+	},{
+		"code": 911320,
+		"title": "Mecânico de manutenção de máquinas têxteis"
+	},{
+		"code": 911325,
+		"title": "Mecânico de manutenção de máquinas-ferramentas (usinagem de metais)"
+	},{
+		"code": 913105,
+		"title": "Mecânico de manutenção de aparelhos de levantamento"
+	},{
+		"code": 913110,
+		"title": "Mecânico de manutenção de equipamento de mineração"
+	},{
+		"code": 913115,
+		"title": "Mecânico de manutenção de máquinas agrícolas"
+	},{
+		"code": 913120,
+		"title": "Mecânico de manutenção de máquinas de construção e terraplenagem"
+	},{
+		"code": 914105,
+		"title": "Mecânico de manutenção de aeronaves, em geral"
+	},{
+		"code": 914110,
+		"title": "Mecânico de manutenção de sistema hidráulico de aeronaves (serviços de pista e hangar)"
+	},{
+		"code": 914205,
+		"title": "Mecânico de manutenção de motores e equipamentos navais"
+	},{
+		"code": 914305,
+		"title": "Mecânico de manutenção de veículos ferroviários"
+	},{
+		"code": 914405,
+		"title": "Mecânico de manutenção de automóveis, motocicletas e veículos similares"
+	},{
+		"code": 914410,
+		"title": "Mecânico de manutenção de empilhadeiras e outros veículos de cargas leves"
+	},{
+		"code": 914415,
+		"title": "Mecânico de manutenção de motocicletas"
+	},{
+		"code": 914420,
+		"title": "Mecânico de manutenção de tratores"
+	},{
+		"code": 914425,
+		"title": "Mecânico de veículos automotores a diesel (exceto tratores)"
+	},{
+		"code": 915105,
+		"title": "Técnico em manutenção de instrumentos de medição e precisão"
+	},{
+		"code": 915110,
+		"title": "Técnico em manutenção de hidrômetros"
+	},{
+		"code": 915115,
+		"title": "Técnico em manutenção de balanças"
+	},{
+		"code": 915205,
+		"title": "Restaurador de instrumentos musicais (exceto cordas arcadas)"
+	},{
+		"code": 915210,
+		"title": "Reparador de instrumentos musicais"
+	},{
+		"code": 915215,
+		"title": "Luthier (restauração de cordas arcadas)"
+	},{
+		"code": 915305,
+		"title": "Técnico em manutenção de equipamentos e instrumentos médico-hospitalares"
+	},{
+		"code": 915405,
+		"title": "Reparador de equipamentos fotográficos"
+	},{
+		"code": 919105,
+		"title": "Lubrificador industrial"
+	},{
+		"code": 919110,
+		"title": "Lubrificador de veículos automotores (exceto embarcações)"
+	},{
+		"code": 919115,
+		"title": "Lubrificador de embarcações"
+	},{
+		"code": 919205,
+		"title": "Mecânico de manutenção de máquinas cortadoras de grama, roçadeiras, motosserras e similares"
+	},{
+		"code": 919305,
+		"title": "Mecânico de manutenção de aparelhos esportivos e de ginástica"
+	},{
+		"code": 919310,
+		"title": "Mecânico de manutenção de bicicletas e veículos similares"
+	},{
+		"code": 919315,
+		"title": "Montador de bicicletas"
+	},{
+		"code": 950105,
+		"title": "Supervisor de manutenção elétrica de alta tensão industrial"
+	},{
+		"code": 950110,
+		"title": "Supervisor de manutenção eletromecânica industrial, comercial e predial"
+	},{
+		"code": 950205,
+		"title": "Encarregado de manutenção elétrica de veículos"
+	},{
+		"code": 950305,
+		"title": "Supervisor de manutenção eletromecânica"
+	},{
+		"code": 951105,
+		"title": "Eletricista de manutenção eletroeletrônica"
+	},{
+		"code": 951305,
+		"title": "Instalador de sistemas eletroeletrônicos de segurança"
+	},{
+		"code": 951310,
+		"title": "Mantenedor de sistemas eletroeletrônicos de segurança"
+	},{
+		"code": 951315,
+		"title": "Monitor de sistemas eletrônicos de segurança interno"
+	},{
+		"code": 951320,
+		"title": "Monitor de sistemas eletrônicos de segurança externo"
+	},{
+		"code": 953105,
+		"title": "Eletricista de instalações (aeronaves)"
+	},{
+		"code": 953110,
+		"title": "Eletricista de instalações (embarcações)"
+	},{
+		"code": 953115,
+		"title": "Eletricista de instalações (veículos automotores e máquinas operatrizes, exceto aeronaves e embarcações)"
+	},{
+		"code": 954105,
+		"title": "Eletromecânico de manutenção de elevadores"
+	},{
+		"code": 954110,
+		"title": "Eletromecânico de manutenção de escadas rolantes"
+	},{
+		"code": 954115,
+		"title": "Eletromecânico de manutenção de portas automáticas"
+	},{
+		"code": 954120,
+		"title": "Mecânico de manutenção de instalações mecânicas de edifícios"
+	},{
+		"code": 954125,
+		"title": "Operador eletromecânico"
+	},{
+		"code": 954205,
+		"title": "Reparador de aparelhos eletrodomésticos (exceto imagem e som)"
+	},{
+		"code": 954210,
+		"title": "Reparador de rádio, tv e som"
+	},{
+		"code": 954305,
+		"title": "Reparador de equipamentos de escritório"
+	},{
+		"code": 991105,
+		"title": "Conservador de via permanente (trilhos)"
+	},{
+		"code": 991110,
+		"title": "Inspetor de via permanente (trilhos)"
+	},{
+		"code": 991115,
+		"title": "Operador de máquinas especiais em conservação de via permanente (trilhos)"
+	},{
+		"code": 991120,
+		"title": "Soldador aluminotérmico em conservação de trilhos"
+	},{
+		"code": 991205,
+		"title": "Mantenedor de equipamentos de parques de diversões e similares"
+	},{
+		"code": 991305,
+		"title": "Funileiro de veículos (reparação)"
+	},{
+		"code": 991310,
+		"title": "Montador de veículos (reparação)"
+	},{
+		"code": 991315,
+		"title": "Pintor de veículos (reparação)"
+	},{
+		"code": 992105,
+		"title": "Alinhador de pneus"
+	},{
+		"code": 992110,
+		"title": "Balanceador"
+	},{
+		"code": 992115,
+		"title": "Borracheiro"
+	},{
+		"code": 992120,
+		"title": "Lavador de peças"
+	},{
+		"code": 992205,
+		"title": "Encarregado geral de operações de conservação de vias permanentes (exceto trilhos)"
+	},{
+		"code": 992210,
+		"title": "Encarregado de equipe de conservação de vias permanentes (exceto trilhos)"
+	},{
+		"code": 992215,
+		"title": "Operador de ceifadeira na conservação de vias permanentes"
+	},{
+		"code": 992220,
+		"title": "Pedreiro de conservação de vias permanentes (exceto trilhos)"
+	},{
+		"code": 992225,
+		"title": "Auxiliar geral de conservação de vias permanentes (exceto trilhos)"
+	}
+]
